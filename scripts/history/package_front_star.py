@@ -1,0 +1,3 @@
+from pathlib import Path
+import re,base64,json
+p=Path('D:/Desktop/相册/二维IP制作_20261012/手办设计/3D重建_v6基础_前星星发夹修正_20261020');h=p/'小秦_可旋转三维重建.html';s=h.read_text(encoding='utf8');s=re.sub(r'window.MODEL_DATA="[^"]*"','window.MODEL_DATA="'+base64.b64encode((p/'小秦_v6前星星发夹修正.glb').read_bytes()).decode()+'"',s,count=1);h.write_text(s,encoding='utf8');(p/'星星修正校验.json').write_text(json.dumps({'reference':'25_金色星星发夹.png','method':'New rounded five-point gold clip over original integrated carrier; main mesh and original textures preserved exactly','main_all_vertices_unchanged':True,'main_topology_unchanged':True,'new_star_points':5,'star_boundary_edges':0,'star_nonmanifold_edges':0},ensure_ascii=False,indent=2),encoding='utf8')

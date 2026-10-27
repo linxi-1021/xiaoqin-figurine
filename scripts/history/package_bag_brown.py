@@ -1,0 +1,3 @@
+from pathlib import Path
+import re,base64
+B=Path('D:/Desktop/相册/二维IP制作_20261012/手办设计');S=B/'3D重建_v6基础_小熊包统一底色_20261019';D=B/'3D重建_v6基础_包面匹配原棕色_20261019';h=(S/'小秦_可旋转三维重建.html').read_text(encoding='utf8');data=base64.b64encode((D/'小秦_v6包面匹配原棕色.glb').read_bytes()).decode();h,n=re.subn(r'window.MODEL_DATA\s*=\s*"[^"]*"',lambda m:'window.MODEL_DATA="'+data+'"',h,count=1);assert n==1;h=h.replace('小熊包统一底色','包面匹配原棕色').replace('包身底色统一为奶油色，保留自然光影。','包面底色匹配原有侧面的暖棕色，保留自然光影。');(D/'小秦_可旋转三维重建.html').write_text(h,encoding='utf8');p=Path('models/rebuild/check_bag_uniform_color.cjs').read_text(encoding='utf8').replace('3D重建_v6基础_小熊包统一底色_20261019','3D重建_v6基础_包面匹配原棕色_20261019');Path('models/rebuild/check_bag_brown.cjs').write_text(p,encoding='utf8')

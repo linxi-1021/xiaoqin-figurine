@@ -1,0 +1,7 @@
+from pathlib import Path
+from urllib.parse import quote
+import re,shutil,json
+b=Path('D:/Desktop/相册/二维IP制作_20261012/手办设计');d=b/'3D重建_v6基础_熊帽檐下包绒_v3_20261020';p=d/'小秦_可旋转三维重建.html';h=p.read_text(encoding='utf8');h=re.sub(r'<title>.*?</title>','<title>小秦 · 檐下包绒 v3（最新）</title>',h,count=1);h=re.sub(r'<h1>.*?</h1><p>.*?</p>','<h1>小秦 · 檐下包绒 v3（最新）</h1><p>帽檐底面及内沿补绒，线股继续加粗加厚。<br>打开后自动导入完整模型。</p>',h,count=1,flags=re.S)
+if 'brim-under-check' not in h:
+ h+='<script>const checkUnderV3=document.createElement("button");checkUnderV3.id="brim-under-check";checkUnderV3.textContent="查看帽檐底面（本次修改）";checkUnderV3.style.background="#e7bd80";checkUnderV3.onclick=()=>{if(!window.modelCamera)return;modelControls.autoRotate=false;modelControls.target.set(.006,.094,.013);modelCamera.position.set(.012,.053,.085);modelControls.update()};document.querySelector("#status").after(checkUnderV3);const focusUnderV3=setInterval(()=>{if(window.pet&&window.modelCamera){clearInterval(focusUnderV3);setTimeout(()=>checkUnderV3.click(),1400)}},300)</script>'
+p.write_text(h,encoding='utf8');stable=h.replace('<meta charset="utf-8">','<meta charset="utf-8"><base href="'+quote(d.name)+'/">',1);(b/'小秦_最新三维预览.html').write_text(stable,encoding='utf8');shutil.copy2('models/rebuild/hat-underside-v3-bottom-final.png',d/'帽檐底面最终近景.png');r=d/'簇绒重设计校验.json';q=json.loads(r.read_text(encoding='utf8'));q['strand_diameter_mm']=[.816,1.056];q['tuft_rise_mm']=[.55,.82];q['verified_views']=['underside at upward view'];r.write_text(json.dumps(q,ensure_ascii=False,indent=2),encoding='utf8')

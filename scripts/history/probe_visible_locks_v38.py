@@ -1,0 +1,6 @@
+import bpy,math,numpy as np
+from mathutils import Vector
+from mathutils.bvhtree import BVHTree
+bpy.ops.wm.open_mainfile(filepath='D:/Desktop/相册/二维IP制作_20261012/手办设计/3D重建_v6基础_五处局部收口_v36_20261025/小秦_v36五处局部收口_待验收.blend');o=bpy.data.objects['textured_mesh.obj'];m=o.data;tree=BVHTree.FromObject(o,bpy.context.evaluated_depsgraph_get());im=m.materials[0].node_tree.nodes.get('Image Texture').image;w,h=im.size;p=np.array(im.pixels[:]).reshape(h,w,4);pos=Vector((0,.130,.060));tar=Vector((0,.010,.062));forward=(tar-pos).normalized();right=forward.cross(Vector((0,0,1))).normalized();up=right.cross(forward).normalized();data=np.load('D:/Desktop/相册/二维IP制作_20261012/手办设计/3D重建_v6基础_后背粗发束收细_v38_20261026/发束位移记录.npz');changed=set(data['ids'].tolist());print('MATRIX',o.matrix_world)
+for xx,yy in [(220,650),(480,650),(520,430),(800,610),(600,820),(350,730)]:
+ d=(forward+right*((xx/1000*2-1)*math.tan(math.radians(16))*1000/900)+up*((1-yy/900*2)*math.tan(math.radians(16)))).normalized();hit=tree.ray_cast(pos,d);f=m.polygons[hit[2]];uv=np.mean([m.uv_layers[0].data[k].uv[:] for k in f.loop_indices],0);rgb=p[int(uv[1]*h)%h,int(uv[0]*w)%w,:3];print(xx,yy,'co',tuple(round(v*1000,2) for v in hit[0]),'rgb',rgb,'normal',f.normal[:],'vertices_changed',sum(i in changed for i in f.vertices))

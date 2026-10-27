@@ -1,0 +1,1 @@
+from PIL import Image; import numpy as np; p=r"D:\Desktop\相册\二维IP制作_20261012\手办设计\建模参考_局部细节图集_v1\00_整体比例\01_正面主姿势.png"; a=np.asarray(Image.open(p).convert("RGB")); print(a.shape); print("corners", a[0,0], a[0,-1], a[-1,0], a[-1,-1]); print("center-top", a[5,350]); print("hist-peak", np.bincount(a.reshape(-1,3).sum(1)//3).argmax())

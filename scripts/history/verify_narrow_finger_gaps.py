@@ -1,0 +1,9 @@
+import bpy,numpy as np,json,hashlib
+from pathlib import Path
+B=Path('D:/Desktop/相册/二维IP制作_20261012/手办设计');S=B/'3D重建_v6基础_手部精修_20261019';D=B/'3D重建_v6基础_保留手形窄指缝试修_20261020'
+def read(path):
+ bpy.ops.wm.open_mainfile(filepath=str(path));o=max((x for x in bpy.context.scene.objects if x.type=='MESH'),key=lambda x:len(x.data.vertices));m=o.data;co=np.empty(len(m.vertices)*3,np.float32);m.vertices.foreach_get('co',co);co=co.reshape(-1,3);vi=np.empty(len(m.loops),np.int32);m.loops.foreach_get('vertex_index',vi);starts=np.empty(len(m.polygons),np.int32);m.polygons.foreach_get('loop_start',starts);tot=np.empty(len(m.polygons),np.int32);m.polygons.foreach_get('loop_total',tot);quad=np.where(tot==4)[0];loops=starts[quad,None]+np.arange(4);cols=[co[vi[loops]].reshape(-1,12)]
+ for uv in m.uv_layers:
+  a=np.empty(len(uv.data)*2,np.float32);uv.data.foreach_get('uv',a);cols.append(a.reshape(-1,2)[loops].reshape(-1,8))
+ mat=np.empty(len(m.polygons),np.int32);m.polygons.foreach_get('material_index',mat);cols.append(mat[quad,None].astype(np.float32));rows=np.ascontiguousarray(np.concatenate(cols,axis=1));centers=np.array([f.center[:] for f in m.polygons]);hashes=rows.view(np.dtype((np.void,rows.dtype.itemsize*rows.shape[1]))).ravel();return hashes,quad,centers,co
+old,qi,c,co=read(S/'小秦_v6手部精修.blend');labels=np.load(B/'3D重建_v6基础_双手五指重建_20261019/uv-chart-labels.npy');patch=np.isin(labels,[355,133,697,24,32,82])&(c[:,2]>.0620)&(c[:,0]>.0145)&(c[:,1]<-.0055);protected=old[~patch[qi]];new,nq,nc,nco=read(D/'小秦_v6保留手形窄指缝.blend');assert np.isin(protected,new).all();result={'passed':True,'protected_original_faces_preserved_with_uv_material':int(len(protected)),'method':'byte-exact face coordinates, original UV layers, and material index comparison','source_preserved':True};(D/'非指缝区域独立校验.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf8');print(json.dumps(result))

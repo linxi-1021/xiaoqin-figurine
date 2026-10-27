@@ -1,0 +1,2 @@
+import bpy,numpy as np,json
+bpy.ops.wm.open_mainfile(filepath='D:/Desktop/相册/二维IP制作_20261012/手办设计/3D重建_v6基础_底座匹配肤色_v19_20261021/小秦_v6底座匹配肤色.blend');o=max((o for o in bpy.context.scene.objects if o.type=='MESH' and not o.name.startswith('GEO-Redesigned')),key=lambda o:len(o.data.vertices));a=np.array([tuple(v.co) for v in o.data.vertices]);print('bounds',a.min(0),a.max(0));print('base bottom',np.percentile(a[a[:,2]<.004,2],[0,1,50]));

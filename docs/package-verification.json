@@ -1,0 +1,12 @@
+{
+  "copied_files": 695,
+  "copied_bytes": 307511541,
+  "sha256_all_match": true,
+  "viewer_chunks": 172,
+  "viewer_decompressed_matches_glb": true,
+  "glb_sha256": "6b52891b3f9eaad83fa919f5634d79858da3bb2a2a8f5a8d23b5bd9b0ba1e09d",
+  "glb_header_valid": true,
+  "html_local_links_exist": true,
+  "files_over_github_100MiB_limit": [],
+  "new_browser_run": false
+}

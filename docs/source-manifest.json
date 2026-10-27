@@ -1,0 +1,4172 @@
+[
+  {
+    "path": "design/小秦_小熊帽手办_3D效果预览_v1.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_小熊帽手办_3D效果预览_v1.png",
+    "bytes": 2124586,
+    "sha256": "f6dfefc7fced5c788a9e3891d66acbe566cf80ef76752f0e8119ad5b17d8a2fc"
+  },
+  {
+    "path": "design/小秦_小熊帽手办_小熊斜挎包_v4.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_小熊帽手办_小熊斜挎包_v4.png",
+    "bytes": 2046472,
+    "sha256": "a0358a805020201ed035874fbf2f3633a85609e028f1597c80df51dc657d1c8b"
+  },
+  {
+    "path": "design/小秦_小熊帽手办_帽后蝴蝶结与花星发饰_v3.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_小熊帽手办_帽后蝴蝶结与花星发饰_v3.png",
+    "bytes": 2054817,
+    "sha256": "7409e5c3517d05afbcacec7c04ee4f4560798876d4aff314e013861cfd31af69"
+  },
+  {
+    "path": "design/小秦_小熊帽手办_斜挎包方向修正_v5.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_小熊帽手办_斜挎包方向修正_v5.png",
+    "bytes": 2046821,
+    "sha256": "b9e12b35f8d692379ad9868a05b06deb0c79dc4e07b26ae17faae06e1ad6e7f7"
+  },
+  {
+    "path": "design/小秦_小熊帽手办_蝴蝶结背饰_v2.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_小熊帽手办_蝴蝶结背饰_v2.png",
+    "bytes": 2074972,
+    "sha256": "b0e211f4c13cdf7e0587a13a5a75a9dde7739d5f80fa856078ec03671325d849"
+  },
+  {
+    "path": "design/小秦_手办三视外观参考_v1.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_手办三视外观参考_v1.png",
+    "bytes": 2144341,
+    "sha256": "6535226f55e5d6c324f7ec722c2406843a34493e08d7fab7874c14e699aa50e4"
+  },
+  {
+    "path": "design/小秦_手办建模交接说明_v1.md",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\小秦_手办建模交接说明_v1.md",
+    "bytes": 2846,
+    "sha256": "15d1ee429d8acbbf7cff02cd7e0a5cdc93a327143a42b41ee4ff5f24b62a8e0d"
+  },
+  {
+    "path": "design/details/00_局部参考总览.jpg",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\00_局部参考总览.jpg",
+    "bytes": 978018,
+    "sha256": "9ccfa2ca302c84f2deb817e8d00f59ee6823ac95933068a9cdba468f28cef407"
+  },
+  {
+    "path": "design/details/小秦_建模局部参考索引.html",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\小秦_建模局部参考索引.html",
+    "bytes": 55183,
+    "sha256": "b0a0b1fc2ce83cacedc839fd511aa72a65615cab67b978962826c105069f3f55"
+  },
+  {
+    "path": "design/details/建模使用说明.md",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\建模使用说明.md",
+    "bytes": 1694,
+    "sha256": "a6744e1eb3d744a4a94cfcdfa92f112dd3a44b72c0d0d17e5e43c746a57ceed2"
+  },
+  {
+    "path": "design/details/裁切坐标与建模说明.json",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\裁切坐标与建模说明.json",
+    "bytes": 39916,
+    "sha256": "87ecbdc58a0182519ddb98f0bc07d90f256839fb9e5c6c988fdfe0e8ac0af2f4"
+  },
+  {
+    "path": "design/details/00_整体比例/01_正面主姿势.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\00_整体比例\\01_正面主姿势.png",
+    "bytes": 1208183,
+    "sha256": "51b062d20a386bd48d153555a05ec694d52ede107e20990ba84a18708913fa45"
+  },
+  {
+    "path": "design/details/00_整体比例/02_正侧整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\00_整体比例\\02_正侧整体.png",
+    "bytes": 361189,
+    "sha256": "6c022b7797f14849e65545a5b07c9cd42f51883ea309553e9297a56fea360df5"
+  },
+  {
+    "path": "design/details/00_整体比例/03_背面整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\00_整体比例\\03_背面整体.png",
+    "bytes": 324403,
+    "sha256": "94eba01fdc7cb9ef87d60ad873bd1f6a386017a8df4cb07105ebaa8ab73576a0"
+  },
+  {
+    "path": "design/details/01_熊帽/04_帽子整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\04_帽子整体.png",
+    "bytes": 404431,
+    "sha256": "d5c9f36fe396946b5a149147a8ff7cd06e72d2ac36c469592c2184fe5294bfff"
+  },
+  {
+    "path": "design/details/01_熊帽/05_画面左侧熊耳.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\05_画面左侧熊耳.png",
+    "bytes": 84361,
+    "sha256": "bd261d155c7b8c926ad1dfda75fa508429ce81137b2f9bcea271d92fed1560b9"
+  },
+  {
+    "path": "design/details/01_熊帽/06_画面右侧熊耳.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\06_画面右侧熊耳.png",
+    "bytes": 67183,
+    "sha256": "55dc0bc6a3e406d345720e9ab90d8c4eeca72dd11ac70887b81d32bcf53998d2"
+  },
+  {
+    "path": "design/details/01_熊帽/07_帽面熊脸.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\07_帽面熊脸.png",
+    "bytes": 98628,
+    "sha256": "892bc5bff44a0690e44259423f86d069a13caea8c9854f36e5269885e705fb76"
+  },
+  {
+    "path": "design/details/01_熊帽/08_帽面蓝眼与睫毛.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\08_帽面蓝眼与睫毛.png",
+    "bytes": 12674,
+    "sha256": "3f9ed5b3a5937b445e7ad5cbe4f5d1706bbdebfbbfecbd730e0ac02fd58b1243"
+  },
+  {
+    "path": "design/details/01_熊帽/09_帽面鼻子.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\09_帽面鼻子.png",
+    "bytes": 7582,
+    "sha256": "664c04901e30081834021859db8fbebe7953672cb9cd03aca51d04b06b50960c"
+  },
+  {
+    "path": "design/details/01_熊帽/10_帽檐弧线与厚度.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\10_帽檐弧线与厚度.png",
+    "bytes": 149597,
+    "sha256": "623476088b9b091705b5d7b9173e5eac3652661e8844afdf8836960486fdf377"
+  },
+  {
+    "path": "design/details/01_熊帽/11_毛绒纹理样本.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\01_熊帽\\11_毛绒纹理样本.png",
+    "bytes": 19341,
+    "sha256": "9f20e01f10fa53a0fe8cc587b1af04985d4c45dcacceea0bb2f52ea9f7557999"
+  },
+  {
+    "path": "design/details/02_五官眼镜/12_脸部与眼镜整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\12_脸部与眼镜整体.png",
+    "bytes": 145766,
+    "sha256": "5d9a2c22bdccdd62ec5fddef21a83291f22cdb45201c86baf991a31e702de3c1"
+  },
+  {
+    "path": "design/details/02_五官眼镜/13_画面左镜框.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\13_画面左镜框.png",
+    "bytes": 41749,
+    "sha256": "c3582d0f507683130b7812d81fb8136f3cdd6fdd56e00dedd6c0e928baab0d18"
+  },
+  {
+    "path": "design/details/02_五官眼镜/14_画面右镜框.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\14_画面右镜框.png",
+    "bytes": 44673,
+    "sha256": "61e157e6434eda8226a4d223089b4b950e37c001cf0b6e08be6b80e1c988f957"
+  },
+  {
+    "path": "design/details/02_五官眼镜/15_鼻梁镜桥.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\15_鼻梁镜桥.png",
+    "bytes": 9438,
+    "sha256": "02ec0ee545014e3c4d63e52aa8bb26272223b92145cca318a90a90223fc2ecfa"
+  },
+  {
+    "path": "design/details/02_五官眼镜/16_镜腿铆点.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\16_镜腿铆点.png",
+    "bytes": 6331,
+    "sha256": "a09017dcefc28b4e08c7ec17e901e0b23cc873ae2033a9beaf5bee55236350c2"
+  },
+  {
+    "path": "design/details/02_五官眼镜/17_画面左眼.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\17_画面左眼.png",
+    "bytes": 16760,
+    "sha256": "094973b5b08e286096d42419e9ae1193c4ecc775e7449b3d6a17e84b4f7607c3"
+  },
+  {
+    "path": "design/details/02_五官眼镜/18_画面右眼.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\18_画面右眼.png",
+    "bytes": 15825,
+    "sha256": "df565b6afe3cb4ce857f353b9a9be509da2e48ef5f9efec9cd23cb0075f74a8c"
+  },
+  {
+    "path": "design/details/02_五官眼镜/19_鼻口与腮红.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\19_鼻口与腮红.png",
+    "bytes": 41119,
+    "sha256": "8a0f1d3a2bbede993d0f01dc905ca91452627acddd6a416428846ffc18f08525"
+  },
+  {
+    "path": "design/details/02_五官眼镜/20_耳朵与镜腿衔接.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\02_五官眼镜\\20_耳朵与镜腿衔接.png",
+    "bytes": 6741,
+    "sha256": "9a51fa7dde6558704b12e02276568b011fd824f1b70fb214b6fd23d5071d6ae4"
+  },
+  {
+    "path": "design/details/03_头发与前发饰/21_刘海分束.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\03_头发与前发饰\\21_刘海分束.png",
+    "bytes": 94973,
+    "sha256": "b47e1af74f6c97c09a7d35b64a6ead808734447e87ae26b9cf673f6f7e84f505"
+  },
+  {
+    "path": "design/details/03_头发与前发饰/22_画面左前发束.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\03_头发与前发饰\\22_画面左前发束.png",
+    "bytes": 145545,
+    "sha256": "69bcbd2a1a32de1562da56fecfce2abc17fa661d9250bb4e12e374e13de664ce"
+  },
+  {
+    "path": "design/details/03_头发与前发饰/23_画面右前发束.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\03_头发与前发饰\\23_画面右前发束.png",
+    "bytes": 105544,
+    "sha256": "fb5ccacd982b116b7729f7eb076d7b62265c3c06e4fb326297a6d92439b3ad59"
+  },
+  {
+    "path": "design/details/03_头发与前发饰/24_胸前卷发.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\03_头发与前发饰\\24_胸前卷发.png",
+    "bytes": 70041,
+    "sha256": "227c139faff3a44530d5bb77baae31878f4b9eb2b57c62597906a58e08fdb43c"
+  },
+  {
+    "path": "design/details/03_头发与前发饰/25_金色星星发夹.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\03_头发与前发饰\\25_金色星星发夹.png",
+    "bytes": 9783,
+    "sha256": "9fc6e4950cb7df6491b1ebb08413681bcb3c8072928a85a92491fc92f1443006"
+  },
+  {
+    "path": "design/details/04_手部/26_挥手手掌与五指.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\04_手部\\26_挥手手掌与五指.png",
+    "bytes": 26720,
+    "sha256": "be2c36d6d102c8872e942bddcbcea4814c10aeb3995dfd3ec76f50418509a8c1"
+  },
+  {
+    "path": "design/details/04_手部/27_挥手指尖.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\04_手部\\27_挥手指尖.png",
+    "bytes": 14095,
+    "sha256": "530242ad92ab81af4365216e47ef8748d4458d82d1ce64788edbe4cbadfa4791"
+  },
+  {
+    "path": "design/details/04_手部/28_挥手手腕与袖口.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\04_手部\\28_挥手手腕与袖口.png",
+    "bytes": 23457,
+    "sha256": "168a3511d59dada310454c6799671243365d88226f8803f3d70bca30cb136068"
+  },
+  {
+    "path": "design/details/04_手部/29_下垂手与袖口.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\04_手部\\29_下垂手与袖口.png",
+    "bytes": 23455,
+    "sha256": "e24da0ad03f97e1720244e7a025b306f6d6f1ea6ba6a2716f2c7b124d32ecab2"
+  },
+  {
+    "path": "design/details/05_服装/30_毛衣整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\30_毛衣整体.png",
+    "bytes": 212012,
+    "sha256": "5572560b590fe37f67c2cf63fc8ad53e82d6b343d87c14749ff143d3e5236bf3"
+  },
+  {
+    "path": "design/details/05_服装/31_领口罗纹.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\31_领口罗纹.png",
+    "bytes": 14214,
+    "sha256": "ebf3b3162bedbd58f68bd1405489b2a7d955ebdb96961f2c5e17f1e003a9a0f5"
+  },
+  {
+    "path": "design/details/05_服装/32_麻花编织.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\32_麻花编织.png",
+    "bytes": 21660,
+    "sha256": "7dbcce6fca0ad6f65d8153f909a5c4c7c23ccb4634e7093b13008dbfe4d97129"
+  },
+  {
+    "path": "design/details/05_服装/33_挥手袖部褶皱.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\33_挥手袖部褶皱.png",
+    "bytes": 32848,
+    "sha256": "96b3d2e3859144d57eb8ea225b7d36c8f4cf1fb739de3ab82ca5f0027b426405"
+  },
+  {
+    "path": "design/details/05_服装/34_百褶裙整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\34_百褶裙整体.png",
+    "bytes": 78626,
+    "sha256": "be77d74887338169d7910862440daeb9f211f7eb28b8200a5255d46676f1fc0e"
+  },
+  {
+    "path": "design/details/05_服装/35_裙腰与褶根.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\35_裙腰与褶根.png",
+    "bytes": 33961,
+    "sha256": "91a02b3fb1b5a6ccd800d6a7246c6d249efc3aa919d0afd6afc23d71cf4e26b5"
+  },
+  {
+    "path": "design/details/05_服装/36_裙摆边缘.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\05_服装\\36_裙摆边缘.png",
+    "bytes": 26674,
+    "sha256": "6cfe3cc53f293ffafc8183f9eb74b4baf984070709527990327922bccb8df301"
+  },
+  {
+    "path": "design/details/06_斜挎包/37_包带完整走向.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\37_包带完整走向.png",
+    "bytes": 89773,
+    "sha256": "9f75d2b599565158ea5e5a06b224854f5b6fb03d837bfc6e74350ea4feae7d7c"
+  },
+  {
+    "path": "design/details/06_斜挎包/38_肩部包带.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\38_肩部包带.png",
+    "bytes": 11082,
+    "sha256": "c3b475645321af132bcfbda1c8e3e960e749442e5103efdfeed21778d91f43af"
+  },
+  {
+    "path": "design/details/06_斜挎包/39_包带中段与压线.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\39_包带中段与压线.png",
+    "bytes": 19026,
+    "sha256": "414877bd51c35ad05e7b6df9acb9a9a07be63645aa1bbbb4ab877f6f4b233813"
+  },
+  {
+    "path": "design/details/06_斜挎包/40_金属扣与连接环.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\40_金属扣与连接环.png",
+    "bytes": 11822,
+    "sha256": "584501aa5a25e298ba56cb65f80b6995f85f5f61247852d6236d20d1f6487c28"
+  },
+  {
+    "path": "design/details/06_斜挎包/41_小熊包正面.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\41_小熊包正面.png",
+    "bytes": 33685,
+    "sha256": "868fbd49cf13e1c688b27bd99d8096922b56fa876aed1df175f06b9e8a0218fc"
+  },
+  {
+    "path": "design/details/06_斜挎包/42_小熊包脸与包耳.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\42_小熊包脸与包耳.png",
+    "bytes": 20516,
+    "sha256": "2adbf6359027b0697897d69305d47412f33a1b1e2f03c4e637e65b2767cdb7d3"
+  },
+  {
+    "path": "design/details/06_斜挎包/43_包边缝线.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\06_斜挎包\\43_包边缝线.png",
+    "bytes": 10535,
+    "sha256": "0a1724f73ab781c60d1e57237c009579069d3550518220fc8731f25c7efa0b43"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/44_双腿姿态.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\44_双腿姿态.png",
+    "bytes": 40087,
+    "sha256": "6fe904be319347f8fcc9d56760604065cd37e9b5d0dcbe3c93d44736e2a99cf5"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/45_袜口罗纹.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\45_袜口罗纹.png",
+    "bytes": 25780,
+    "sha256": "1eb078e61f70219acbf72167be03878169d6dc3d436308d4b79e675255a153ef"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/46_画面左鞋.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\46_画面左鞋.png",
+    "bytes": 25037,
+    "sha256": "06ad4e222a0621aa11461e1b6568ffcc8e83015223ace98f1d156b8b7c2860a9"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/47_画面右鞋.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\47_画面右鞋.png",
+    "bytes": 19897,
+    "sha256": "3e056278802df3ddef459d97b24dade5fa9c1d4b7bce97b266aeaa573833afd7"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/48_鞋带搭扣.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\48_鞋带搭扣.png",
+    "bytes": 23775,
+    "sha256": "83b2d1d6eef7879b9134d1d79e29e74d614b82c702de4b6f011928d14a27ea6d"
+  },
+  {
+    "path": "design/details/07_腿鞋底座/49_底座与双脚接地.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\07_腿鞋底座\\49_底座与双脚接地.png",
+    "bytes": 83547,
+    "sha256": "fbba9a5a4f19bc4aa11b77185c02825d6fe76105e3edbd5be45e53bae50daa87"
+  },
+  {
+    "path": "design/details/08_背面细节/50_背帽与蝴蝶结.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\50_背帽与蝴蝶结.png",
+    "bytes": 222020,
+    "sha256": "776f941fa9b7e6c31bf556ce2c33229c61eeae424ba65ddd95cd520f9d203f3c"
+  },
+  {
+    "path": "design/details/08_背面细节/51_蝴蝶结整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\51_蝴蝶结整体.png",
+    "bytes": 55909,
+    "sha256": "56a6895a20845faadaa16f81d5c2a4da3596829712b0c9ea547e2fad824894d3"
+  },
+  {
+    "path": "design/details/08_背面细节/52_蝴蝶结中心与褶皱.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\52_蝴蝶结中心与褶皱.png",
+    "bytes": 13794,
+    "sha256": "90dfb7acdc70d1f92a60f062ec39e42b6da8e34b4d18b4ffa7a2ac07a3ff8351"
+  },
+  {
+    "path": "design/details/08_背面细节/53_蝴蝶结尾带与吊星.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\53_蝴蝶结尾带与吊星.png",
+    "bytes": 24865,
+    "sha256": "a35b0803fd4454d69279196b6c108742601d1352f78db79851cb1bc36818634a"
+  },
+  {
+    "path": "design/details/08_背面细节/54_后发整体分束.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\54_后发整体分束.png",
+    "bytes": 241495,
+    "sha256": "f15ac5e0bbd70463815e98a461ff77f5576e3a794478f318bac57c7849539bfd"
+  },
+  {
+    "path": "design/details/08_背面细节/55_后发上方星夹.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\55_后发上方星夹.png",
+    "bytes": 6383,
+    "sha256": "e902ee03092269a4903d72166390dbe8fb8cbec77dc82c887699cda78af29c58"
+  },
+  {
+    "path": "design/details/08_背面细节/56_后发下方星夹.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\56_后发下方星夹.png",
+    "bytes": 6146,
+    "sha256": "8455dd66f31c6950a18176ca3dff01d2fa2c5e8c4f2b97c0da284ef723b8d303"
+  },
+  {
+    "path": "design/details/08_背面细节/57_后发上方小花.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\57_后发上方小花.png",
+    "bytes": 8555,
+    "sha256": "2d20e1e0a9ff6bc6afb7a7f1c04bde8160a9ccba661a94697e47d7b72c9257c4"
+  },
+  {
+    "path": "design/details/08_背面细节/58_后发下方小花.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\58_后发下方小花.png",
+    "bytes": 7002,
+    "sha256": "4c2933ca3ee6c185e24270c481d79f5ae470f776e6b48b5047de9419e49925f8"
+  },
+  {
+    "path": "design/details/08_背面细节/59_包背与后肩带.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\59_包背与后肩带.png",
+    "bytes": 59807,
+    "sha256": "aae42265c4492174e7300bfadc59fcd08a35750e0f164429b75fbe58cdd17fa4"
+  },
+  {
+    "path": "design/details/08_背面细节/60_后鞋与后跟.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\08_背面细节\\60_后鞋与后跟.png",
+    "bytes": 32858,
+    "sha256": "ad180c4f18b0386aeab044971ca334b3f0ae9a1d9fdc86e86e6ec98d19edf03e"
+  },
+  {
+    "path": "design/details/09_侧面补充/61_侧面整体.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\09_侧面补充\\61_侧面整体.png",
+    "bytes": 559811,
+    "sha256": "7f29814772d0ea93d650df22c7be9248d55a08d7680f013b5059a7290e853a45"
+  },
+  {
+    "path": "design/details/09_侧面补充/62_侧面帽檐厚度.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\09_侧面补充\\62_侧面帽檐厚度.png",
+    "bytes": 117022,
+    "sha256": "c93a76d96a6ae6771bd49c6332ae1fd8068a5abf835474a5a6fa8f684a42c906"
+  },
+  {
+    "path": "design/details/09_侧面补充/63_镜框侧面厚度.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\09_侧面补充\\63_镜框侧面厚度.png",
+    "bytes": 19389,
+    "sha256": "03dad89a3956c5603f9641dc73642e7e3aa6b65f24ea10b4eedffc928fb89422"
+  },
+  {
+    "path": "design/details/09_侧面补充/64_侧发厚度与发梢.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\09_侧面补充\\64_侧发厚度与发梢.png",
+    "bytes": 114713,
+    "sha256": "afee577504f8954e8b84f81e69d2e4baecadd9d6cbdbb4ccbdf4832675de47f3"
+  },
+  {
+    "path": "design/details/09_侧面补充/65_侧鞋外底.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\09_侧面补充\\65_侧鞋外底.png",
+    "bytes": 24099,
+    "sha256": "a133d049311aefbf5c5371e5af8fe8e56e7d6c0b75da6e3639ae37c5ce4ef020"
+  },
+  {
+    "path": "design/details/原始参考图/小秦_小熊帽手办_斜挎包方向修正_v5.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\原始参考图\\小秦_小熊帽手办_斜挎包方向修正_v5.png",
+    "bytes": 2046821,
+    "sha256": "b9e12b35f8d692379ad9868a05b06deb0c79dc4e07b26ae17faae06e1ad6e7f7"
+  },
+  {
+    "path": "design/details/原始参考图/小秦_手办三视外观参考_v1.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\建模参考_局部细节图集_v1\\原始参考图\\小秦_手办三视外观参考_v1.png",
+    "bytes": 2144341,
+    "sha256": "6535226f55e5d6c324f7ec722c2406843a34493e08d7fab7874c14e699aa50e4"
+  },
+  {
+    "path": "model/v38/发束位移记录.npz",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\发束位移记录.npz",
+    "bytes": 4314376,
+    "sha256": "ea313c82870df5a45f49bdfe4413929c7257c9c486684783f55823a55fe7cf7a"
+  },
+  {
+    "path": "model/v38/实际发束收细校验.json",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\实际发束收细校验.json",
+    "bytes": 2655,
+    "sha256": "c334ae780eb41e4b12147a2623d6de5683b223955df255b968f94820ec3b96c2"
+  },
+  {
+    "path": "model/v38/小秦_v38后背粗发束收细.blend",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\小秦_v38后背粗发束收细.blend",
+    "bytes": 83531006,
+    "sha256": "8964b84d6c368cbd1bf937ccbdae8e8f13087b54d5840bf48afe5b7cd25d4f48"
+  },
+  {
+    "path": "model/v38/小秦_v38后背粗发束收细.glb",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\小秦_v38后背粗发束收细.glb",
+    "bytes": 99003788,
+    "sha256": "6b52891b3f9eaad83fa919f5634d79858da3bb2a2a8f5a8d23b5bd9b0ba1e09d"
+  },
+  {
+    "path": "model/v38/小秦_可旋转三维重建.html",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\小秦_可旋转三维重建.html",
+    "bytes": 652371,
+    "sha256": "eaebe3c8a5bc6b2cf4eb774482c1a86bc9865cff7cb400f5077482e3fd710d2b"
+  },
+  {
+    "path": "model/v38/浏览器与数据校验.json",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\浏览器与数据校验.json",
+    "bytes": 468,
+    "sha256": "84870965a878ade18f157303298af13af9db70f86ef2947d6fa6e31245302267"
+  },
+  {
+    "path": "model/v38/粗发束收细对照.html",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\粗发束收细对照.html",
+    "bytes": 2194,
+    "sha256": "2ffdfa6ae9b682cbf9209f1121922adee3851d8b7d30ea018576ccf2ed42533a"
+  },
+  {
+    "path": "model/v38/对照图/全身.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\全身.png",
+    "bytes": 324013,
+    "sha256": "b4ab3e047dfddacb87f71126a0a81bd6ac2f37f039980c0a28b8227117e0992f"
+  },
+  {
+    "path": "model/v38/对照图/发尾近景-after.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\发尾近景-after.png",
+    "bytes": 498943,
+    "sha256": "78c67050a5cfd0189b2f5057731abc3eb42267dd717132dadb48da6b1eebde08"
+  },
+  {
+    "path": "model/v38/对照图/发尾近景-before.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\发尾近景-before.png",
+    "bytes": 499485,
+    "sha256": "8791c6027a26ef38ef049670dcff03ed977f90547c3c9d425bfe6e6734001e5d"
+  },
+  {
+    "path": "model/v38/对照图/发尾近景-对照.jpg",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\发尾近景-对照.jpg",
+    "bytes": 242955,
+    "sha256": "45d54997072ee5d7351d4584afedef5ae4b7f47f11e6e278d7d4b24c8423e043"
+  },
+  {
+    "path": "model/v38/对照图/后视-after.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\后视-after.png",
+    "bytes": 652142,
+    "sha256": "9220902f012f1361a7c4a32caea851c567e811715be52fd2991d087bc30b4275"
+  },
+  {
+    "path": "model/v38/对照图/后视-before.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\后视-before.png",
+    "bytes": 659215,
+    "sha256": "cede1e073e19a1e200e8f87786632b83e356f2bb0a9accb8f9e2f34bb62e9e0c"
+  },
+  {
+    "path": "model/v38/对照图/后视-对照.jpg",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\后视-对照.jpg",
+    "bytes": 371039,
+    "sha256": "0d41a6e8d2ba3eb8a82f4a569e63f9bf644ae218c4a04c899ce3fd8c057a678e"
+  },
+  {
+    "path": "model/v38/对照图/斜后视-after.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\斜后视-after.png",
+    "bytes": 585112,
+    "sha256": "a1338c15a4cbcf32af0361fd056deb5ab9ea4fe516fb1e3f3ed709bc0cc429c7"
+  },
+  {
+    "path": "model/v38/对照图/斜后视-before.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\斜后视-before.png",
+    "bytes": 589332,
+    "sha256": "761de3b20c1c8ee57ac940d640d3d6ec59750581519d05202b2a97e38bfa672f"
+  },
+  {
+    "path": "model/v38/对照图/斜后视-对照.jpg",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\对照图\\斜后视-对照.jpg",
+    "bytes": 336557,
+    "sha256": "b260c3f263f61d49e9b64375c9ee294ecca9ae4b131725ec16cea97c95b30895"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0000.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0000.js",
+    "bytes": 524355,
+    "sha256": "b09b6b834511f8d2c247aab70f1c86431df1d8c7922838c6d4ffd64792ed7c82"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0001.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0001.js",
+    "bytes": 524355,
+    "sha256": "a0ccad5fbf990dd9d93145474da7ec713a7c7c3fc0eb3c0fedcabe4f64ac45cd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0002.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0002.js",
+    "bytes": 524355,
+    "sha256": "d7153f24f2b76030e9dc0e59413b7b5e1d7cd12dc35b70345711931ce04cd9bf"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0003.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0003.js",
+    "bytes": 524355,
+    "sha256": "2460db3253645c8e7e66c2d8149ab49538c312ec4ec964fc101869b2866f573f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0004.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0004.js",
+    "bytes": 524355,
+    "sha256": "4bf69d939a6b288565c97d606a186eb15e14bc321d7fe4e867d67bacd44044be"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0005.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0005.js",
+    "bytes": 524355,
+    "sha256": "48e4380572cc30bffe3da4f59f6d43a06d8d3e99dab22be0381b69149236d010"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0006.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0006.js",
+    "bytes": 524355,
+    "sha256": "aca1016c7a6b06407f2ca983f1e2ea24328ee40e4af2e9bf86046f4c557f91b6"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0007.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0007.js",
+    "bytes": 524355,
+    "sha256": "02f58bddd4450bc82c79c81b6e1f2f9a1e3dbe0fe4d0b25e509a3a728fa8fc80"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0008.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0008.js",
+    "bytes": 524355,
+    "sha256": "457e7701f5fc747114a2e35a961d9212e583a5e767a5ef8ab4a1978d2ede6b78"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0009.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0009.js",
+    "bytes": 524355,
+    "sha256": "bce8f1e734f8a1188a5787a775654c2c4daaa04c01ac30e1f6bedc496b04dda6"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0010.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0010.js",
+    "bytes": 524356,
+    "sha256": "dbbebb26065e4f7b36b4574f21983b569f02dc65491fa79da685ec5092397c39"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0011.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0011.js",
+    "bytes": 524356,
+    "sha256": "4798656a4002d6dc23a3b1823b8ba834d3a337a077361f9e6c39a1a07e2d0c36"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0012.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0012.js",
+    "bytes": 524356,
+    "sha256": "ec98887ea65d2454811616e28b632fa5359d2bff000d6700de7a7c0b1ea66d6c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0013.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0013.js",
+    "bytes": 524356,
+    "sha256": "e725c2fced1848e326c727fe41ccb6a87397d3b69c363a6b614cd4b8f9352d54"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0014.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0014.js",
+    "bytes": 524356,
+    "sha256": "e2aab461c98e14076370201addd11126a85f35f3ffacf33cdb3112175257deec"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0015.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0015.js",
+    "bytes": 524356,
+    "sha256": "07c9b73a4d3afb10ea6416e0640443093184ea9275f00e2ab10ba881d487c3bd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0016.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0016.js",
+    "bytes": 524356,
+    "sha256": "4172d3415ed4d912622ff61cc2bd75adf745c21ed8b316d843730883fbedc0ec"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0017.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0017.js",
+    "bytes": 524356,
+    "sha256": "335a95eedd8737665195185df2f013fb42fe915b4379978a06a7cf63357abc41"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0018.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0018.js",
+    "bytes": 524356,
+    "sha256": "7cd588b1166073329482666c907858938a354249d4d296503552e1d39150afbc"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0019.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0019.js",
+    "bytes": 524356,
+    "sha256": "641a8e0d02fdef7426950822501e940974e6f4a003d8f04675759e3a30c22634"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0020.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0020.js",
+    "bytes": 524356,
+    "sha256": "3a8013f31c49eadeae58574460e179569d31e38378091a12966b20c1ee708f5d"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0021.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0021.js",
+    "bytes": 524356,
+    "sha256": "d271cc0b032a18d551051504ba7126fdd351f50e7f1e1eefb26e821691aa48c5"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0022.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0022.js",
+    "bytes": 524356,
+    "sha256": "0a586b69eed2d2489f3bfab4f0a5697d6e486a672d3d6c0bc9054afa5935c229"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0023.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0023.js",
+    "bytes": 524356,
+    "sha256": "d0769cc2be818d6fa72908a435566751292848ca1fc5b64e507902e986f8f897"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0024.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0024.js",
+    "bytes": 524356,
+    "sha256": "7dc22379e50a8bc3640ce478d9872e93106840acebc4a9441a1c3884abe3f20a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0025.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0025.js",
+    "bytes": 524356,
+    "sha256": "87cce7ab718eeb3bc5702ce87b21487de58ebe879dac0c888628d2c1def63c4f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0026.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0026.js",
+    "bytes": 524356,
+    "sha256": "a145cc6a8d554f9d2a8e5ed63b608fc3dee4983f9bded7d5c23d9638a85bef8a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0027.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0027.js",
+    "bytes": 524356,
+    "sha256": "063ddce762affe1395542df80153f008de0dd87c591d2c6ea51a2ed188eeb4cc"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0028.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0028.js",
+    "bytes": 524356,
+    "sha256": "ba9837dfa87899d9c2fac3478bc97319accc5550a386459293cd9d4072b71ac6"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0029.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0029.js",
+    "bytes": 524356,
+    "sha256": "7c5e96110a4c32b038da2aaeaa48fd08b56d1d8d33959fe3fa55d7d57e3d7cf7"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0030.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0030.js",
+    "bytes": 524356,
+    "sha256": "db9046fff6e7e97682f52a77b2ed31a65b282acc7f522dcf422a60e8a55698ed"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0031.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0031.js",
+    "bytes": 524356,
+    "sha256": "f531ff05e1bdf81c947eaad0efd0be218a4d8c3c07fcea22ef4bf7d776f54331"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0032.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0032.js",
+    "bytes": 524356,
+    "sha256": "65cb73f6ee37a7e3a920f058550e10e65e3d74d615afecc6bc577e831e16a302"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0033.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0033.js",
+    "bytes": 524356,
+    "sha256": "fe2cba0bb72e19ae40ef83e73ddeed1d1fbb1bfcc609f0b26cba0aab380321bd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0034.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0034.js",
+    "bytes": 524356,
+    "sha256": "b226bb9476071a01a960a24b28e952b17b62ed31c5f16cb54ecd16148e9b01d1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0035.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0035.js",
+    "bytes": 524356,
+    "sha256": "ee1a565cdce10caf3ab8d458c6a8a3dc76d0180885d2f1817c9c61a745ed39a4"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0036.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0036.js",
+    "bytes": 524356,
+    "sha256": "a58956fe4d250c7348956e557b11b0d547db5591fbad0d5bff39b3d0824ddcdd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0037.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0037.js",
+    "bytes": 524356,
+    "sha256": "13753dfc1c9407255b4be81e5a73cd65ecf5c13a72ea9fc7129f173713ef38fd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0038.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0038.js",
+    "bytes": 524356,
+    "sha256": "bc49d6b3b1abe4e6010cfde6b45e7d74a837e7e21b9688f0ce3601c4eed8acf4"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0039.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0039.js",
+    "bytes": 524356,
+    "sha256": "a50ecf6da58ecb0890c41a131ec9d8dcd67869c1dff9c90645941277864abe99"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0040.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0040.js",
+    "bytes": 524356,
+    "sha256": "0d633303ed4e38d8d146885a966b39681f82eeb428318b4191005726f5b862d1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0041.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0041.js",
+    "bytes": 524356,
+    "sha256": "c1f37fe51f1c79b8e4c490325bfce18a2924fe201f579522ee846ae2858857a3"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0042.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0042.js",
+    "bytes": 524356,
+    "sha256": "3ec6dc70e3a4bb8ed882910cb0609f30e7ef44ba66ef8a76bdd538a798d75311"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0043.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0043.js",
+    "bytes": 524356,
+    "sha256": "0d80f46b43874a1f7e8c6c7e7034474bfcb76425c306b8c2895a6177de3583db"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0044.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0044.js",
+    "bytes": 524356,
+    "sha256": "ddc7fb37dc85c6a627a19bb158e2dfe67dfb9a5d89c2c207d70a139ce2347a7b"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0045.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0045.js",
+    "bytes": 524356,
+    "sha256": "c292f9a2d3a38b4d4a3dcfd33f0788b9674dc09bbc37b86291b23b9e7f60d57c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0046.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0046.js",
+    "bytes": 524356,
+    "sha256": "8d956ca1be2b0c19818b3677ce02cf220f9c055874cf353a66c5f5d1398e7289"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0047.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0047.js",
+    "bytes": 524356,
+    "sha256": "75f4262273599b4d3a00329872df170cdb3521a68815f929c9c03b0af0fefba7"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0048.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0048.js",
+    "bytes": 524356,
+    "sha256": "91aa88fee24bf41a7e3c086f58635850f008c6d0a400f81be748153ae3b02241"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0049.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0049.js",
+    "bytes": 524356,
+    "sha256": "28ce4fe0ce9d62eb2119b20829f9e4d1924a13fbb0b296be716221d1717296ef"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0050.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0050.js",
+    "bytes": 524356,
+    "sha256": "34def0bfbbb157647d45fec220167352fb8e4e15d096250ed51fcf8012be74a0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0051.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0051.js",
+    "bytes": 524356,
+    "sha256": "360191bab812e97440a5603ac0beb715cfffff53ea23560936fc3f9587f3a2e0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0052.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0052.js",
+    "bytes": 524356,
+    "sha256": "a7e5a0097179fdad0b2b3e02d1e29fd40dcf9ea63824bd674fdac328b285984b"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0053.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0053.js",
+    "bytes": 524356,
+    "sha256": "a573376b7edad6445aa191d1ecf7d9b5f0c7c2d949ecac3357251f6eca35d626"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0054.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0054.js",
+    "bytes": 524356,
+    "sha256": "058368dffe7f8f5e2e6c83aaf18632b8891f784651227570c133affbd92d10d3"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0055.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0055.js",
+    "bytes": 524356,
+    "sha256": "4b2f7888f0c36cd2985fd21d483a70a8e392780a030c60580a7b165b40e31dc9"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0056.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0056.js",
+    "bytes": 524356,
+    "sha256": "38267c5c2bde35aafd46abe2dc2ab4941509cdea1f7eba560375e83edc8901a0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0057.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0057.js",
+    "bytes": 524356,
+    "sha256": "2171fd323bcb4c86a259bf4b2122a43b59161fc3a9320966bdfcd06e9522d6d7"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0058.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0058.js",
+    "bytes": 524356,
+    "sha256": "c3135fbd0840ffd490cb077e6e1895a2af7a5abd624840a6f6dfeb85e86480f1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0059.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0059.js",
+    "bytes": 524356,
+    "sha256": "1db3101776567f7cf4fe8a9442986f327c0cff508d07fd4286db9095a15610d8"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0060.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0060.js",
+    "bytes": 524356,
+    "sha256": "5aa9d2dbf0a45dd7669420560e7fe82025818e441b94d21d17f8dc0a97ea2de0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0061.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0061.js",
+    "bytes": 524356,
+    "sha256": "e43e1784a81a6698bae62cdb89332a3bf7e327e044591f318114058d4dffd26d"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0062.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0062.js",
+    "bytes": 524356,
+    "sha256": "3e0d0e84b78d8e098c7d57c161f2a877f5b0fd8a00f8296dad6ac08849a5dd09"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0063.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0063.js",
+    "bytes": 524356,
+    "sha256": "e26dcecbb1b1d4bf98c0af5400dc39fa448c6c45e69ecdb3e8520751a7cef93c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0064.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0064.js",
+    "bytes": 524356,
+    "sha256": "7fa529aefc62d28b1223b96717b7af7664a214a27f763bfe1d4b45fc857aec3e"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0065.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0065.js",
+    "bytes": 524356,
+    "sha256": "3b492c2200dc0ab44304b231d9b4df44f1dd1f1cf86ea86f470e323d8e4fdd37"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0066.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0066.js",
+    "bytes": 524356,
+    "sha256": "95c0cb8165ff5e76fceb4ba35d1858cf77a2796ad71e59a9e03378b6aa136722"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0067.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0067.js",
+    "bytes": 524356,
+    "sha256": "e6ea720aa5ebfae6c3cd2cb1c901f49d623190b1c421af90bd639b1c5b3d030f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0068.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0068.js",
+    "bytes": 524356,
+    "sha256": "e9d67bc03e9858411f5e29297435abe509c3173a00fe5d4c2306982b2411d69f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0069.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0069.js",
+    "bytes": 524356,
+    "sha256": "5101a46b2c04e64667720c12485ff6c72f73a7a2e3b896d71e8ed943890c119f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0070.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0070.js",
+    "bytes": 524356,
+    "sha256": "91d26312c8decbd4dc62ce96bad5d1dfe7d97c3c10a258224e0254fe68918c1c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0071.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0071.js",
+    "bytes": 524356,
+    "sha256": "ab22f84c8fbad356d97cad882922f33476ccc80cefa67297952752c43aafc5ca"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0072.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0072.js",
+    "bytes": 524356,
+    "sha256": "4e3fbdf873ddfab5132e2701bcd933c9f8234b1480acb08de7d61f56ea97c738"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0073.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0073.js",
+    "bytes": 524356,
+    "sha256": "1b719c2597a19808c8b85ce8f873e2fbf7958c8c47a86987745d6410043a9bf2"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0074.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0074.js",
+    "bytes": 524356,
+    "sha256": "f380a02d313daa084733bcb081c38e8692e5b594dba0b216b072dfcb1f175c3f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0075.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0075.js",
+    "bytes": 524356,
+    "sha256": "45228f1431cdb4078134aa80f8dd3cef781bcdc5d0416e59f9c6d6da65327053"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0076.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0076.js",
+    "bytes": 524356,
+    "sha256": "8c639ddebfa183ae360247452fdf298b28108fd1861948f13d415b5c2fc4f723"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0077.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0077.js",
+    "bytes": 524356,
+    "sha256": "8dcc343ab47bba8e90302a1034646fd7e7eab55fb46a65385e661f49d8ea7836"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0078.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0078.js",
+    "bytes": 524356,
+    "sha256": "756c9c772c92e58a1589e86452abf3f5be9531a4ddc9cf5b4d7876c8b10e0fb0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0079.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0079.js",
+    "bytes": 524356,
+    "sha256": "402f04ccde523ef02be2d1eeed29c8f3dab943b9c91c263bab6c960efe3e4244"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0080.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0080.js",
+    "bytes": 524356,
+    "sha256": "bb5575c1213b094e293179b5b768c48b17cdbd2b7d413c2b5cdb883169a1b1eb"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0081.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0081.js",
+    "bytes": 524356,
+    "sha256": "e216e7feb620b86b3954c776f94e38d3351e670d001e1380fbdee1e4f35560af"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0082.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0082.js",
+    "bytes": 524356,
+    "sha256": "f2d9d768f8ad8c6f9fe5e182f966b7f8cc848cc4e4d167074e3b33d87b2ca45a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0083.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0083.js",
+    "bytes": 524356,
+    "sha256": "6ed229f707cbf6729399d1dd6a3190e0cf224007e11d8542ca5dccea06533448"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0084.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0084.js",
+    "bytes": 524356,
+    "sha256": "81a169f804181a088e8f8cc6d9bd8f4f67dc6c22110bb34b6659120c06934a6f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0085.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0085.js",
+    "bytes": 524356,
+    "sha256": "e0267307e15c592c1e396e93a8812a57d5d632f32b832dc65ddbfff65d2a5b79"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0086.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0086.js",
+    "bytes": 524356,
+    "sha256": "56da46d927f07496561391f892a223f4be09c1945fb005b2a99fc8f9bc929e42"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0087.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0087.js",
+    "bytes": 524356,
+    "sha256": "a719e3123c471d59dabcb3dd2f97eacab6213d3b1f00ab30a34858718bdab002"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0088.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0088.js",
+    "bytes": 524356,
+    "sha256": "fc8a4e9266e523441bb08dc03aaeb848f5797232a55d4ce63b86cee60d8e55ca"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0089.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0089.js",
+    "bytes": 524356,
+    "sha256": "4594cb33dabb347a0c98dd267c6dd3566f9efb4eeee1dd4e464764bca98813ca"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0090.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0090.js",
+    "bytes": 524356,
+    "sha256": "d9d424037928de001b06343ea2f240ecabdc9939beb77474292b8d5fafa721bd"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0091.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0091.js",
+    "bytes": 524356,
+    "sha256": "1e24c25c373f400f2cfb73da7d70be93e56db61f95d0391a49db2188360bb28b"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0092.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0092.js",
+    "bytes": 524356,
+    "sha256": "c2755585a62c623379dc675ebb2ef8ee304c41f37669e4ce33d2f70914a5739a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0093.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0093.js",
+    "bytes": 524356,
+    "sha256": "8441beee9af776baf50c4c0e4f5ba84f32e81b2758bac9030a4224b05ad7bc86"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0094.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0094.js",
+    "bytes": 524356,
+    "sha256": "eb8340120f73dfe380b5ffa8e1d758fa0db9f30b90225926b2feb3f3786e001f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0095.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0095.js",
+    "bytes": 524356,
+    "sha256": "81581c80a0a061bfd67fe986af6285451c896faa0f0c9693ab7b2f49918eacdc"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0096.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0096.js",
+    "bytes": 524356,
+    "sha256": "88d5ecc831091e2f4bdcad5e1a254dbf217c0e77e38f75696e7e41e8f06078e0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0097.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0097.js",
+    "bytes": 524356,
+    "sha256": "b1eddc3006272b3fef76e7d5258cb36fe74639a9bebe9d30a2139828b0e74a81"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0098.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0098.js",
+    "bytes": 524356,
+    "sha256": "3c5c45c13ac22e4cb7e8e2bb71c6c8e985d7aaaf2570b7916f080d98fe9df8b8"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0099.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0099.js",
+    "bytes": 524356,
+    "sha256": "600ea1ae94c8a3a468100ca37a7d3ebe3d5b5b72287cb64161eb274114906807"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0100.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0100.js",
+    "bytes": 524357,
+    "sha256": "a27b58aab337be873e94922fbd8780b60d9fce9c4415b311c57904844b7aab47"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0101.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0101.js",
+    "bytes": 524357,
+    "sha256": "dcc41be1e3271159c0855a8bf56f96299d6c2d56094d47e9340e690d5c06a837"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0102.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0102.js",
+    "bytes": 524357,
+    "sha256": "d512296563ac096be3e32e852d8a99a5db2855df1f12288c8afc1a1c2b3faf2f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0103.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0103.js",
+    "bytes": 524357,
+    "sha256": "69ed16bf8cb7e47461d10a2e6b94491e469f4eee3b8c3f735c8061eed28cb360"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0104.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0104.js",
+    "bytes": 524357,
+    "sha256": "860c27241a39a2553fee524c34acee8186680ad65a07d45bc6e6fe797d9295ef"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0105.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0105.js",
+    "bytes": 524357,
+    "sha256": "a9fb3f5b188ac21dd8528fb23c3f259082f1bf36c7efad37ecc577b1e1357e1d"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0106.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0106.js",
+    "bytes": 524357,
+    "sha256": "c7495b3a8e785f3d148cbea47cdf91f45f6003a496dc22a2853712675bf9fedc"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0107.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0107.js",
+    "bytes": 524357,
+    "sha256": "fc10c386e6cadc99b96149b5c1f171ce97b5cb4bbe594952aeeac453e4dbcf0c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0108.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0108.js",
+    "bytes": 524357,
+    "sha256": "004af936d26bd31a105962bedf6413a4e054024d0ebf6d5ad99375ec5c10191a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0109.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0109.js",
+    "bytes": 524357,
+    "sha256": "561ec3743310a698855089acfce7ace8580e7117eb3fe627038616e5787dbd12"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0110.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0110.js",
+    "bytes": 524357,
+    "sha256": "dffab96daced76644605abbd8e12a1c4a52e9c4d67ee4d70a4f87aadd423cee1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0111.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0111.js",
+    "bytes": 524357,
+    "sha256": "205e5375ceb3b8d34e0e0b1a93a1ed97801c874b98f4d5e6766c6aae0b3aa88e"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0112.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0112.js",
+    "bytes": 524357,
+    "sha256": "23fc2ac86235b8fb7d2b0e467f81d067b67fa6cac414d253a5dec64cb7505001"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0113.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0113.js",
+    "bytes": 524357,
+    "sha256": "871e32ca6b2ef76f35dfc1236b44bb89b3c49c1e147d0edfd9449f06d7375f44"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0114.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0114.js",
+    "bytes": 524357,
+    "sha256": "f57f2dd16f5aa308dea78dfea8ff78bc2fa87daadeebeeec47f3d0a1ad13ec2a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0115.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0115.js",
+    "bytes": 524357,
+    "sha256": "a143ae544ee1eb7e4e2f86d0b481495c1e4c24c3aaa6236a8b4946425fa255e8"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0116.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0116.js",
+    "bytes": 524357,
+    "sha256": "f19287a1383aae3901f2aa7a325d82213fac00f9262b1fde3523ffcd583e045c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0117.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0117.js",
+    "bytes": 524357,
+    "sha256": "85afe746d20e190a3e13311137a9b1d9951d0d530e5e230c14c40dc60e387446"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0118.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0118.js",
+    "bytes": 524357,
+    "sha256": "8a9b44138b45dc656bc33cfaea7240636faf69143069ee5a4acef98d935c202c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0119.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0119.js",
+    "bytes": 524357,
+    "sha256": "27ca3459098ce707de73e918159ff8c2d9c6ec5fd6f181250c796e8c9e155a3b"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0120.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0120.js",
+    "bytes": 524357,
+    "sha256": "3714c27efc657d6e568228aaf2fe98f6010e2d481620ec7dec358bd2070be757"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0121.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0121.js",
+    "bytes": 524357,
+    "sha256": "1b803fb618155ac7c350b2275f4c857147255ac30c5edc032bd6891fc8f0e5c7"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0122.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0122.js",
+    "bytes": 524357,
+    "sha256": "3ae91bc914cf21535742ce2b905fb93a185afd45ee59a57a3bd653296d4ed443"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0123.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0123.js",
+    "bytes": 524357,
+    "sha256": "a2834ade376cdaeaefeed7f7a21fa3f48773ce41661959bb15b287c20b9e9288"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0124.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0124.js",
+    "bytes": 524357,
+    "sha256": "7c832e0073aca728b3f8cbf75123a961011552d1931357f7713e7618bdf69495"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0125.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0125.js",
+    "bytes": 524357,
+    "sha256": "0b907be84817fd7b98516cc19df1ef42dade56678cbe0cfdafb7f23e6e7049c1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0126.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0126.js",
+    "bytes": 524357,
+    "sha256": "f2ec53c8321e40aa8fbd06c8c8f2a6bff8ef237ae288da5808368d9c6a16be94"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0127.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0127.js",
+    "bytes": 524357,
+    "sha256": "f3e06e9f9b264b6add07fc29d6653cd91c714a90039182d033326d3cd83cc5c0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0128.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0128.js",
+    "bytes": 524357,
+    "sha256": "5a65a85de1c94ba12992712889ab111b70963f4806ad2e42179d769be96415c4"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0129.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0129.js",
+    "bytes": 524357,
+    "sha256": "f283b00baac91dea1c0facda5051e8ad038390c3fac8ec2c82cfe62177bbae6c"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0130.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0130.js",
+    "bytes": 524357,
+    "sha256": "030e7bf09fa2d21e9d6f55fd6d05611664ea05d6d118e1a531d60a83c41fe3a5"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0131.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0131.js",
+    "bytes": 524357,
+    "sha256": "c16592a8a2b84e5cfc783dab7884257d560a24a62df8b103fff6713c9cba15dc"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0132.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0132.js",
+    "bytes": 524357,
+    "sha256": "32069d65610fb9a1647e87d7a3fcda2c8c48382fa1f24a1b67718b41d5cd8c28"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0133.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0133.js",
+    "bytes": 524357,
+    "sha256": "58c8590091832976f0f266dd96850bdcb98a185d0ba4edb6016757d6b3a6e646"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0134.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0134.js",
+    "bytes": 524357,
+    "sha256": "5436a37ba53911e497ae739acbf8d03514ce0fb1e51e4482fb58ab1b6d68ef1f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0135.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0135.js",
+    "bytes": 524357,
+    "sha256": "df25f663698d72b77e45da6e12cfb143259a49998bb07d20bc777564ca124535"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0136.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0136.js",
+    "bytes": 524357,
+    "sha256": "8d644f285e011e622d180fecba083b2a278d0ff0bcb4813c3c549e66bc492834"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0137.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0137.js",
+    "bytes": 524357,
+    "sha256": "cb2ddc5e7d7ed992afc0cbb79fcbb5c75487118b77ee2716b16020fb77870a0f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0138.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0138.js",
+    "bytes": 524357,
+    "sha256": "86aaed394f3ce68191391b21929ce061b39b4159b70dc6e8f7cfa25703c9944e"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0139.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0139.js",
+    "bytes": 524357,
+    "sha256": "b3981a3cc9a32024f0550b5957112721c9a7301535addce165a5ec2b5188e3d0"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0140.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0140.js",
+    "bytes": 524357,
+    "sha256": "a93948fe5adb00d14ecf9ffab82c7a8646062a8511b682156f8c11f85494bf43"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0141.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0141.js",
+    "bytes": 524357,
+    "sha256": "b1a7b09a6715ab9eaccc0bffb2fa4f39cd3d70d21ad957b51265b6ccda96a69d"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0142.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0142.js",
+    "bytes": 524357,
+    "sha256": "0e4f40d85ba8c7c217dd9e484253be224bbd7519307bcf40294f68b1c13842a9"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0143.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0143.js",
+    "bytes": 524357,
+    "sha256": "5051fd329236a59b5c23f0e8710eb577c85964b5ff787a3dde0eebb5a1786843"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0144.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0144.js",
+    "bytes": 524357,
+    "sha256": "d9d54cc07a5883834b0b35d00235a1597092e2299df703d42d4fedd139d41234"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0145.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0145.js",
+    "bytes": 524357,
+    "sha256": "ee887cf92582b1c42acef009fada4bd05a59666bf2e3e853f258ecf83d39c386"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0146.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0146.js",
+    "bytes": 524357,
+    "sha256": "fd65c45b4cb0e6d4433c07fef71a62579d27579d537f10b9548634b87a3e3352"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0147.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0147.js",
+    "bytes": 524357,
+    "sha256": "8122800f2c60427b914e38c4cc2b57e9db6d5b3456fd30e8a5bc67c489737ff8"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0148.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0148.js",
+    "bytes": 524357,
+    "sha256": "24cefb0857184febad9bb41b523e63a8150f568fa58cf08d6bab9f383b7e67b1"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0149.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0149.js",
+    "bytes": 524357,
+    "sha256": "14df65a578660677d64dff9ef747a510020b8be6c1d2e942a9d65237e9faeaff"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0150.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0150.js",
+    "bytes": 524357,
+    "sha256": "225d9a1236cfa0f1b04efd969cd93a574e6a439a5b085b856c5694658a82c7be"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0151.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0151.js",
+    "bytes": 524357,
+    "sha256": "6d8762c5474fbcd27ddffb639360ec17c543039434f846e577f179c10c353e8a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0152.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0152.js",
+    "bytes": 524357,
+    "sha256": "0128b98c2a1477740c2018bf9ca0f49fc55d7474a52cfbd748079c9d1d6f2839"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0153.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0153.js",
+    "bytes": 524357,
+    "sha256": "6340b4378722bf156a5a2f3a571d51983a3d58054a428b02997cada4e18b9932"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0154.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0154.js",
+    "bytes": 524357,
+    "sha256": "043f34df645ecc33f9d81a5dd73f42be68d967b8e433ecc4d5bd5fa1ef9aadb9"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0155.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0155.js",
+    "bytes": 524357,
+    "sha256": "b190eb90d383098cf8c3829504e2a213648b7667bdeec30cbbf85195277397fb"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0156.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0156.js",
+    "bytes": 524357,
+    "sha256": "76e9999e09d18af8c0e021ba0918ccbb2f2836145aeace7d72f4c0cca6927373"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0157.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0157.js",
+    "bytes": 524357,
+    "sha256": "9d3f906520f951b93cff801a8d5c3305b77c26667e335d93d6bcede8cc18b9fe"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0158.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0158.js",
+    "bytes": 524357,
+    "sha256": "d19b0c53f634883fbc476f31f5d2032d97ca78d9a033bf6cd601f82ee7174776"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0159.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0159.js",
+    "bytes": 524357,
+    "sha256": "9b27f7feec4a56bc452bb15e1d1fa623a3a1e0956149df5bdca746c4c3b679fe"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0160.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0160.js",
+    "bytes": 524357,
+    "sha256": "be87fe505503d72971c047c5c178380024112e81a5f5e606d93d6cbd4504bbd5"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0161.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0161.js",
+    "bytes": 524357,
+    "sha256": "d11f5101ca23fa385ebade124135212fc8ecda66970d672dd2d63642138d3e5f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0162.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0162.js",
+    "bytes": 524357,
+    "sha256": "f14e5c5fb3affdf9549266bd8b75f04794c439f57479d9813757c9e60ad6675e"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0163.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0163.js",
+    "bytes": 524357,
+    "sha256": "47341e2e0e28aa3cbb53e2f7f5b87fa714595fa9bdc90cdce22648b019ae17c9"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0164.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0164.js",
+    "bytes": 524357,
+    "sha256": "8f360cb34bd3be143f03ca456dfc16c418b0b83364f338200f6a6d9074fbc10f"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0165.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0165.js",
+    "bytes": 524357,
+    "sha256": "773468e98341e56125cf854beeba1c1267778f9e7edbad4d396bd04e5fb494c8"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0166.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0166.js",
+    "bytes": 524357,
+    "sha256": "8830eeb366eab7118dfd78e225828421685fccd375e91523863c1ed65d7d753a"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0167.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0167.js",
+    "bytes": 524357,
+    "sha256": "e98dc7925fea5c0d037c6088f8bc255574fc114a7a2bbab75fd20dccda899cd4"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0168.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0168.js",
+    "bytes": 524357,
+    "sha256": "0e148b80b9ec30f15101bc008c858c2ce44aced671389125efb6fa6d02c1e026"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0169.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0169.js",
+    "bytes": 524357,
+    "sha256": "753724735735ea3897b3f6b452c4c4fdd357c99f18499535cb724b667bd58b66"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0170.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0170.js",
+    "bytes": 524357,
+    "sha256": "c117c648d85be10638dfbfad9e4f2a3297eeee1cb6be54b93c992b403cd6c314"
+  },
+  {
+    "path": "model/v38/自动加载数据_6b52891b3f9e/0171.js",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后背粗发束收细_v38_20261026\\自动加载数据_6b52891b3f9e\\0171.js",
+    "bytes": 308609,
+    "sha256": "96414f916428fa0013c8d1fba7e7e82ddf54bce184cb5f89f6c2cdc43d815ded"
+  },
+  {
+    "path": "model/v38/hat-reference.png",
+    "source": "D:\\Desktop\\相册\\二维IP制作_20261012\\手办设计\\3D重建_v6基础_后帽粗绒浮贴蝴蝶结_v4_20261020\\hat-reference.png",
+    "bytes": 404431,
+    "sha256": "d5c9f36fe396946b5a149147a8ff7cd06e72d2ac36c469592c2184fe5294bfff"
+  },
+  {
+    "path": "scripts/history/add_bag_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\add_bag_v11.py",
+    "bytes": 5771,
+    "sha256": "2d3bba5ff4515df57564fc83106c32e682bfed5a8a0b5af02f8938bc48e065ed"
+  },
+  {
+    "path": "scripts/history/align_bag_face_to_both_ears.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\align_bag_face_to_both_ears.py",
+    "bytes": 10669,
+    "sha256": "a6dcf4764ad77135f8375084e3ec5e72fab640ea850dcb9ecb74f9dbc547a603"
+  },
+  {
+    "path": "scripts/history/analyze_fur_clip.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\analyze_fur_clip.py",
+    "bytes": 635,
+    "sha256": "63833b49ac460847cd0f0e81fc3f0d0e6d76d0a3f27c9fb70823b940d79f3833"
+  },
+  {
+    "path": "scripts/history/analyze_hand_uv_charts.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\analyze_hand_uv_charts.py",
+    "bytes": 1070,
+    "sha256": "96e6b01912cbc67f796e6c9ae88f028306f10cd903a4c3dea86729185312a562"
+  },
+  {
+    "path": "scripts/history/apply_sweater_bag.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\apply_sweater_bag.py",
+    "bytes": 4116,
+    "sha256": "05a98a8ea252df266049e6bc08717676d7962a9233e3883fd64d08e40c89c02e"
+  },
+  {
+    "path": "scripts/history/assemble_layered.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\assemble_layered.py",
+    "bytes": 5237,
+    "sha256": "b29256c22c2a436412f850309f553c3f8c42b3d21e8284be3f0ab265a939117f"
+  },
+  {
+    "path": "scripts/history/audit_blender.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_blender.py",
+    "bytes": 1232,
+    "sha256": "6f66b990c4e2197e692648bdacf33aa10293445d7cbadceffaac44d28b4a072b"
+  },
+  {
+    "path": "scripts/history/audit_closure_thickness.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_closure_thickness.py",
+    "bytes": 1539,
+    "sha256": "3856c89f3ba3e5bdb02a0223257e05ee52bfd424515f077256446e152ad02e40"
+  },
+  {
+    "path": "scripts/history/audit_contact_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_contact_v12.py",
+    "bytes": 2621,
+    "sha256": "5916cfc0b5255be7d214d0a894fb039ef75bc877debce6ab73ff7bf05bd98509"
+  },
+  {
+    "path": "scripts/history/audit_old_bag_source_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_old_bag_source_v8.py",
+    "bytes": 3093,
+    "sha256": "7b0a7a34e05023d4f6e7db21a03a6777e5d9da39145bec3b20386ee8530f3d42"
+  },
+  {
+    "path": "scripts/history/audit_old_bag_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_old_bag_v8.py",
+    "bytes": 1602,
+    "sha256": "0763ca220f4f0caf5ec9f4ae0e8a18ba0b05599ed647b7f729933a21056eed33"
+  },
+  {
+    "path": "scripts/history/audit_slim_hair_v38.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_slim_hair_v38.py",
+    "bytes": 1303,
+    "sha256": "a80bcbbade23c5c000286ed08836f34c6e13e80e60abf09510f2c667b2c70f8a"
+  },
+  {
+    "path": "scripts/history/audit_strap_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\audit_strap_v12.py",
+    "bytes": 720,
+    "sha256": "cc212e9282e9b4c4fcc69f200a9db6452e1bef76fae565c5dc64a03b5c53f418"
+  },
+  {
+    "path": "scripts/history/auto_import_full_hat.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_full_hat.py",
+    "bytes": 2758,
+    "sha256": "dfeb26338b6f9b10fb92e88254d1a355d2ba6ef8ef72e109b46e0bc5b3ab59e3"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_thick_v2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_thick_v2.py",
+    "bytes": 2758,
+    "sha256": "a38f47984206212aa39bb40e586449efa74c865ab7f7d69d79c11c38685cac81"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v10.py",
+    "bytes": 2765,
+    "sha256": "8c96046f5f5dcc7208dfab9ffea5dd81213490efd3fb05b2309387e3ad519df5"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v11.py",
+    "bytes": 2783,
+    "sha256": "b1ab3b8894ac851a7b19a49c664f8178bec84474c27a335ce306df51e0b7e159"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v12.py",
+    "bytes": 2765,
+    "sha256": "145c8ac07937794658ef7ebab163575e997cf9d78b66012f7f37081e50ed714d"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v13.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v13.py",
+    "bytes": 2777,
+    "sha256": "1c8fc6e63c4876cd915ea8ad4432c18fd05c406c0a52603a9d1b5822745ae29d"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v14.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v14.py",
+    "bytes": 2777,
+    "sha256": "bd32871665294ac44f154b3545d798cd23ec8ad868904f2020c9f4c77453ee04"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v15.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v15.py",
+    "bytes": 2753,
+    "sha256": "0663fed4907252f7a08299f6616c295e3415dec5b75b19c40991b6fae04a55f3"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v16.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v16.py",
+    "bytes": 2765,
+    "sha256": "02f7aec78dbe45a26a37f583a38833bceea4d27d52405e27f25aa53e62ea4a50"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v17.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v17.py",
+    "bytes": 2753,
+    "sha256": "f5a60cba7bed3ed0ed7717642238e48dd6e4b43d178020e3fb3bffe286d1ff3a"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v18.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v18.py",
+    "bytes": 2759,
+    "sha256": "5e0fb7ea9cc593b3b1c2e2866367fb86e3552cd35d662fe4bff1fec6c31fba22"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v19.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v19.py",
+    "bytes": 2765,
+    "sha256": "68812bcfebd3db551729d7a67713a400add40c5ddd5eae09874895fead914b51"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v20.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v20.py",
+    "bytes": 2771,
+    "sha256": "559b6b6cba94519660119e9a6bf786696c1c15228fb0ef7b9fd229aedf40d314"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v21.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v21.py",
+    "bytes": 2765,
+    "sha256": "379e20ae905408ce9a65d682bd8bb83715bf27a10951946d731e7d8f9cfca72d"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v22.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v22.py",
+    "bytes": 2765,
+    "sha256": "32116ab88696a60141c3ec601b3c5ae6af4202c89f35efde703942b895ad52ba"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v23.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v23.py",
+    "bytes": 2777,
+    "sha256": "0d67405dd0e90862cccc6eb4961ace2fcfaa0f89e92e5b66a5e03423ace4c030"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v24.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v24.py",
+    "bytes": 2771,
+    "sha256": "170f8b2526c77f41d8787df42089e51104a7275421e74cbf2b6f36ac0706bdb9"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v25.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v25.py",
+    "bytes": 2771,
+    "sha256": "f6c5962335daaaf876e82841c11f080011c1025b386f7779cb51371480b77891"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v26.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v26.py",
+    "bytes": 2771,
+    "sha256": "7e1d2ac52d09de235d6097904bd17ca5a7073aa62cc29cf2b549ea6f547891fe"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v27.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v27.py",
+    "bytes": 2771,
+    "sha256": "98b8c4f89bbc0465f0bf6d2b30e1bafff96db29f3ca7a4180b3683469abb21bd"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v28.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v28.py",
+    "bytes": 2783,
+    "sha256": "8f8f24894f27c57d8ad2b81156fb54243800692063f2814a9cc0a4f48ba95069"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v29.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v29.py",
+    "bytes": 2765,
+    "sha256": "89b182ea34a59c576034a7db8f8918b07bd80d60df737235169a97763920467f"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v3.py",
+    "bytes": 2758,
+    "sha256": "1943e56d0168939d490fed707c97eeb4ea2a23b6103c18ef8b8a90d2470173b4"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v30.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v30.py",
+    "bytes": 2765,
+    "sha256": "19d9f8af6f916065d6453d7a93d56317c935c800898db614ebbb02da912f829d"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v31.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v31.py",
+    "bytes": 2765,
+    "sha256": "220111a6323391cbb8568bb6d376fda017d649a95f4138cb28708eeebc5a2ee5"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v4.py",
+    "bytes": 2785,
+    "sha256": "b280cc0d81d623baf460dc88637bf6390665ac8787edefef2af3a01ae17218fd"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v5.py",
+    "bytes": 2767,
+    "sha256": "930d3aa7231093b2fec01d1bc870904ae32b0cb2522541553b0942eee0eb5816"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v6.py",
+    "bytes": 2770,
+    "sha256": "b5062f72bb470d65fcc6abfd536d1c49c5f42c70d47bc469a51c434fa164494d"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v7.py",
+    "bytes": 2758,
+    "sha256": "c6f450750350af4714aac71a7cb2681a279d6f6cd9be79412eac9691e4065979"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v8.py",
+    "bytes": 2767,
+    "sha256": "d6eb2db0fcfcfa71c6d35dc1ca7de2c2175338b2f22b177f03103a3af6cfae60"
+  },
+  {
+    "path": "scripts/history/auto_import_hat_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_hat_v9.py",
+    "bytes": 2764,
+    "sha256": "d58e63060d2809885272efaf5b6e18ae2ee65ea9f03b76af0f55e6ebe49658c3"
+  },
+  {
+    "path": "scripts/history/auto_import_sidefill_hat.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\auto_import_sidefill_hat.py",
+    "bytes": 2767,
+    "sha256": "8ba8938e878cba955cbae91d4ae99aac074564dd6dfb30889484ad416c5c1b64"
+  },
+  {
+    "path": "scripts/history/back_hair_before_v37.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\back_hair_before_v37.cjs",
+    "bytes": 1691,
+    "sha256": "743ae3ff6dc2c06dfb7283a2cc1385c852b1ce0442e7cbf22834ba002d2a6ccd"
+  },
+  {
+    "path": "scripts/history/bake_bag_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\bake_bag_v6.py",
+    "bytes": 2540,
+    "sha256": "66f6b0d7f03a561c4a97f333eb75288e917e89b31d932fe37e36f912d6c1aee3"
+  },
+  {
+    "path": "scripts/history/base_clean_v17.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_clean_v17.py",
+    "bytes": 2300,
+    "sha256": "090fa502d127b5c205a444a13ccc0df383f8a553e00ee9fc4430e73bbc4ec005"
+  },
+  {
+    "path": "scripts/history/base_inset_v21.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_inset_v21.py",
+    "bytes": 4041,
+    "sha256": "982257c00baa2ae3970755e9184df34c80ecfc603746f78aa6b58102894a8fe9"
+  },
+  {
+    "path": "scripts/history/base_qr_v20.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_qr_v20.py",
+    "bytes": 5629,
+    "sha256": "8b0b2a3afc69c3d9d2c31cfc44a4383986ecf3f4827753fddc2864472f947bf4"
+  },
+  {
+    "path": "scripts/history/base_recolor_v22.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_recolor_v22.py",
+    "bytes": 1357,
+    "sha256": "ac6213087cafc2f4aafa8733dc797b6c99bc11ca3ac1a7f51c1283ae32fd2085"
+  },
+  {
+    "path": "scripts/history/base_skin_v19.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_skin_v19.py",
+    "bytes": 1971,
+    "sha256": "da032584eebad55d93b114948d82ef2ff0a40da1ab509b09a03aee823325fc0c"
+  },
+  {
+    "path": "scripts/history/base_taupe_v18.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\base_taupe_v18.py",
+    "bytes": 1033,
+    "sha256": "f7e66aba448fbc2d89ddbfd11fd6ade6c30f7109977affe60492908b6aea22c4"
+  },
+  {
+    "path": "scripts/history/bow_contact_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\bow_contact_v12.py",
+    "bytes": 4248,
+    "sha256": "5cf8181076afeab165d66e86ce60623244a74ad443e4611a58cd3fc681c7c4a1"
+  },
+  {
+    "path": "scripts/history/bow_folds_v13.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\bow_folds_v13.py",
+    "bytes": 3800,
+    "sha256": "2d04d37dca59e7fd21f88911c13e1708a1832b645ff67d800a75ba59452e61dc"
+  },
+  {
+    "path": "scripts/history/bow_refine_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\bow_refine_v11.py",
+    "bytes": 7151,
+    "sha256": "6bf3b67170d758daf08d1f62218cf5d2601944697d1dc607aa0cbf366f629c47"
+  },
+  {
+    "path": "scripts/history/brim_fill_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\brim_fill_v10.py",
+    "bytes": 4284,
+    "sha256": "6222d706154aeb84aefa84558cd8d87425b05d7ceecf73b1fe08af8925b8367d"
+  },
+  {
+    "path": "scripts/history/build_hand_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_hand_v35.py",
+    "bytes": 2004,
+    "sha256": "bfd444db001e9d33988e970e3a438c3a9b823897d34d8eebb8db826e71322ff0"
+  },
+  {
+    "path": "scripts/history/build_hand_v35b.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_hand_v35b.py",
+    "bytes": 1355,
+    "sha256": "ce6c3b0beeb0882796f0b735d700b55faca4fd3543f43c053064ac9859654de2"
+  },
+  {
+    "path": "scripts/history/build_hand_v35c.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_hand_v35c.py",
+    "bytes": 4036,
+    "sha256": "661f0950cada91ffdf40362deaec26d36b73938b782e0a8c3b57a8c230c5fd84"
+  },
+  {
+    "path": "scripts/history/build_hand_v35e.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_hand_v35e.py",
+    "bytes": 3893,
+    "sha256": "3a5027bbf15c10560c879ac9cbbc1a61a10d159a25e88c5cb0d2f7a0748904d1"
+  },
+  {
+    "path": "scripts/history/build_layered_plan.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_layered_plan.py",
+    "bytes": 25220,
+    "sha256": "7af7a619b48f5b6e7453a9f10b835c9a80a1fa41da24195b7b8eceac83eb8f9c"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34.py",
+    "bytes": 8612,
+    "sha256": "daff4f239790829de030a2ce575a8241bffb20545addfdd82d678e0b95c48036"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v10.py",
+    "bytes": 4457,
+    "sha256": "426e08e9096f75d71d8ca3ce547a2f2dd3ccf728fcf57811ba951713c74af923"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v11.py",
+    "bytes": 4449,
+    "sha256": "0ecc5501786f26c9bb7c9b5298f2c6fba91eed136a2be5a80a90723a7527c5f1"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v12.py",
+    "bytes": 4449,
+    "sha256": "c7fecf1038680b52d1fa8ed76c4eb1b6cf75a254704e7a81a1e9f014c922715a"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v13.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v13.py",
+    "bytes": 4464,
+    "sha256": "971b9b85a13b04a167c4c3d21f1839f0e8e89e0e0eb18e30c21fdb0060afbdac"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v14.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v14.py",
+    "bytes": 4249,
+    "sha256": "522990730754f7ad51e682deed606dfd39569306e6651a98d7611f613d3f7af9"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v15.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v15.py",
+    "bytes": 4786,
+    "sha256": "c9303e2533495408000ac83b8ff9dce1ec4c4f9c532b569ead4179312c7592c4"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v16.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v16.py",
+    "bytes": 6074,
+    "sha256": "631143fc3066b034c9ce24f9b9e8f5560462906d51cd68b0ebea13802b25a9aa"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v17.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v17.py",
+    "bytes": 4789,
+    "sha256": "9745cf00827c5c70ea9b6f8d567232abf1d868df1851d638116ebabba17eff51"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v2.py",
+    "bytes": 9113,
+    "sha256": "506bd32576ae8a93b8a783ed72a348da7fb6d2d73ba965bf712120f2fc198106"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v3.py",
+    "bytes": 9114,
+    "sha256": "1688ab9023aac89188e0b00f24350b449548a1ad755211500f1312191e3b0b84"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v4.py",
+    "bytes": 8320,
+    "sha256": "5b189a33e45c567b10d6b6dfe3ca49322c9c1772c6808ea59084a0eed3dd7683"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v5.py",
+    "bytes": 8212,
+    "sha256": "3f1e8e188e905ea102ad668cc0a9506be3337fae8d2dfdbfeb65a4e7004b1462"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v6.py",
+    "bytes": 8873,
+    "sha256": "87716dd76925ccff93d6ed4bf727dc84b2f804d2c5909de0127ed2ec14919e05"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v7.py",
+    "bytes": 8959,
+    "sha256": "08083d2a2ef6015a31b66967feb8c42f2d61cdd1fe8f50921896fefe03c2ea55"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v8.py",
+    "bytes": 6288,
+    "sha256": "c4816b04f2068e1a4fb9bccda575bb7cc67d45c519ddff63a913f9931ad3b666"
+  },
+  {
+    "path": "scripts/history/build_shoes_v34_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v34_v9.py",
+    "bytes": 4457,
+    "sha256": "4163af1311662415a20db28ab7e311463b74fb1253f29eab337d01b2192e1c44"
+  },
+  {
+    "path": "scripts/history/build_shoes_v35_subtle.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_shoes_v35_subtle.py",
+    "bytes": 1160,
+    "sha256": "df6c1aa787431e7e3da19415a48d6c5fed08f199a2eb93ea38da18f55d664eea"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout.py",
+    "bytes": 7484,
+    "sha256": "8a4bc8fb8d2593c0e737dc76b2a616a5fb28c006e69717d2f7fd22191523dbb8"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout2.py",
+    "bytes": 7413,
+    "sha256": "14915061ecd5245e1244dfc59bc55159f01dd3375d3f88d912cb6e2d499a4396"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout3.py",
+    "bytes": 7907,
+    "sha256": "e60c8e0947e0848fc4e899e5ee879208edd308ca6eba608f737ebcca46e79577"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout4.py",
+    "bytes": 8115,
+    "sha256": "297206c3900da79a4e14121ca857f550ee892385604b516990f6d55631082be0"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout5.py",
+    "bytes": 8116,
+    "sha256": "88619639fd6fb65688e4483d1ba268c384d566ba63d80bce4b90d9842b5501d6"
+  },
+  {
+    "path": "scripts/history/build_v35_blockout6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_blockout6.py",
+    "bytes": 8120,
+    "sha256": "830f88496a7f3529a3ae1537fccbbca91fd94108ad3b963d81141da0a1ce95b1"
+  },
+  {
+    "path": "scripts/history/build_v35_hair.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_hair.py",
+    "bytes": 4368,
+    "sha256": "11b3578448fcf08d76a33de926b5f2cbbff1be785ad70ac56a385c307e2b582c"
+  },
+  {
+    "path": "scripts/history/build_v35_hair2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_hair2.py",
+    "bytes": 4912,
+    "sha256": "ccf8b347c6d42c33326246285993073a359dfceb6e850e8020468e8e5a80bd1a"
+  },
+  {
+    "path": "scripts/history/build_v35_hair3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\build_v35_hair3.py",
+    "bytes": 5082,
+    "sha256": "1fc8270d70ee7cafd6bf20c035cd9de3a8dc5affc43219901945a58186feccda"
+  },
+  {
+    "path": "scripts/history/centre_bag_expression_vertically.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\centre_bag_expression_vertically.py",
+    "bytes": 10750,
+    "sha256": "5458b5256b387f1822f32fe83907fcd4dde061a174da2ac648ccb8112973f454"
+  },
+  {
+    "path": "scripts/history/check_bag_brown.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_brown.cjs",
+    "bytes": 2204,
+    "sha256": "d715fe0fc6d00ed0281f8ce76eefbdcbf9d98b7688ff5095bf7dc41aaca30294"
+  },
+  {
+    "path": "scripts/history/check_bag_seams.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_seams.cjs",
+    "bytes": 2451,
+    "sha256": "e5b6efb05f3070ae6f2b15bf43468343643844530919d611ca36f6c98176fee8"
+  },
+  {
+    "path": "scripts/history/check_bag_sweater.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_sweater.cjs",
+    "bytes": 2201,
+    "sha256": "27b12bb25c0d603ec4d4a88ba8fd2fa56344cc9a1ac29f19aa6a0ccd796da5ff"
+  },
+  {
+    "path": "scripts/history/check_bag_uniform_color.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_uniform_color.cjs",
+    "bytes": 2204,
+    "sha256": "93a49a4980eb865c5bfa21ba3f57e32b091306d2a0341bba4351552cc7a9e23e"
+  },
+  {
+    "path": "scripts/history/check_bag_v11.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_v11.cjs",
+    "bytes": 1679,
+    "sha256": "b7a7250f9b7d638770bec55ae9c440c5d04a3d785cb00df0117c31855cf17770"
+  },
+  {
+    "path": "scripts/history/check_bag_v12.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_v12.cjs",
+    "bytes": 1674,
+    "sha256": "aed488df11b601d2fef1e4b3a66f899b8d187445aa4ad6f5ccd98f205583e2bb"
+  },
+  {
+    "path": "scripts/history/check_bag_vertical_centre.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_bag_vertical_centre.cjs",
+    "bytes": 2201,
+    "sha256": "a31a565d013bf19e126e8dc76800df18afdd5662d9997cf15781b10cce1a73f6"
+  },
+  {
+    "path": "scripts/history/check_base_v17.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_base_v17.cjs",
+    "bytes": 1585,
+    "sha256": "797f5d28d369fbd2a7ebd7e1692e8ddb630ba1adbc68bd7a27c3044de002702d"
+  },
+  {
+    "path": "scripts/history/check_base_v18.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_base_v18.cjs",
+    "bytes": 1588,
+    "sha256": "bd4dc9bb5964762ec2f42c64151abf5d3e9e4830329ea1ad0dcecaedaf4bf3ef"
+  },
+  {
+    "path": "scripts/history/check_base_v19.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_base_v19.cjs",
+    "bytes": 1591,
+    "sha256": "4f594522b6a1dea5c2b12bc2082daa6414a2932f17cca6833bafccf4c60316a0"
+  },
+  {
+    "path": "scripts/history/check_before_v5.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_before_v5.cjs",
+    "bytes": 1260,
+    "sha256": "12b97d5508bba3ccfde3ea88f231f4a597782eed6dd365bbddb6b3004020d756"
+  },
+  {
+    "path": "scripts/history/check_both_five_finger_hands.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_both_five_finger_hands.cjs",
+    "bytes": 2897,
+    "sha256": "7b8596b7a6964ad24dc544d71f95e342dc056c7d507a8f09d64b6269ae1bec39"
+  },
+  {
+    "path": "scripts/history/check_brim_gap.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_brim_gap.cjs",
+    "bytes": 1610,
+    "sha256": "11ea1000464db9c1a50925a0925ce4fd35979aa52c928633db4d7cfb63132040"
+  },
+  {
+    "path": "scripts/history/check_cylinder_v30.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_cylinder_v30.cjs",
+    "bytes": 1633,
+    "sha256": "2b26346b20fec01dd3fb33de11f810fc6692f140fc931a2c6d1c8efaccb715cc"
+  },
+  {
+    "path": "scripts/history/check_cylinder_v31.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_cylinder_v31.cjs",
+    "bytes": 1633,
+    "sha256": "9805b4f996ad2ac1e5635a52e5b6369425985dbeddfd9aa44748195ad1921505"
+  },
+  {
+    "path": "scripts/history/check_default_view.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_default_view.cjs",
+    "bytes": 1496,
+    "sha256": "af5bfaf2bb17882ec47caf49cf64b852250b2d8995e0082acfc77787077b6821"
+  },
+  {
+    "path": "scripts/history/check_delivery_v33.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_delivery_v33.cjs",
+    "bytes": 5810,
+    "sha256": "1a7604a174d7bf137b3793062a647f79335423ed4fa07e4c3dce57632b0a4d4a"
+  },
+  {
+    "path": "scripts/history/check_ear_aligned_bag.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_ear_aligned_bag.cjs",
+    "bytes": 2201,
+    "sha256": "0d641a08370cb9323d5b5939de2882473ad4c3142b31ea59e3db5868c618aafd"
+  },
+  {
+    "path": "scripts/history/check_ear_alignment_preservation.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_ear_alignment_preservation.py",
+    "bytes": 1338,
+    "sha256": "522ad59ea93187d8cf2ab519d3023a3f74469603ba6d417a1db5133c8589c8e6"
+  },
+  {
+    "path": "scripts/history/check_front_star.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_front_star.cjs",
+    "bytes": 1019,
+    "sha256": "79240a249753ab52b7f0eecd2016b6b510c0f0317703e5e8756f955bdfa4a774"
+  },
+  {
+    "path": "scripts/history/check_front_star_after.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_front_star_after.cjs",
+    "bytes": 1239,
+    "sha256": "fe666cba90a8295bf982abeb95e9944b95a0fab0fd5a30d4ec895c81cbdc0124"
+  },
+  {
+    "path": "scripts/history/check_fur_clipping.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_fur_clipping.cjs",
+    "bytes": 1142,
+    "sha256": "7f2a8e4eaa4b6b6e5b0f8e3def5263468fd51a2515c6857f2cca7455d00d3c13"
+  },
+  {
+    "path": "scripts/history/check_fur_clipping_after.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_fur_clipping_after.cjs",
+    "bytes": 1144,
+    "sha256": "6e5c1a85e26fe6d4dc6cc3d91a50efb64c0213931526e783f9a7da4324d5ff37"
+  },
+  {
+    "path": "scripts/history/check_fur_v33.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_fur_v33.cjs",
+    "bytes": 1145,
+    "sha256": "910f24f876beb171624a09d6b030387798a28938710313d11b113c03037a57f0"
+  },
+  {
+    "path": "scripts/history/check_hair_v15.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hair_v15.cjs",
+    "bytes": 1589,
+    "sha256": "4a1dc79c9384c5e40823c97285799dd81e465f7ab382fb49de5d0af7309a8e9b"
+  },
+  {
+    "path": "scripts/history/check_hand_box2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hand_box2.py",
+    "bytes": 2257,
+    "sha256": "d012bb5ee322456e6562e03fdca217c4470690fb5765dbab46a80120ce783444"
+  },
+  {
+    "path": "scripts/history/check_hand_indices.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hand_indices.py",
+    "bytes": 684,
+    "sha256": "80ce178dc0bcb8cca98e3c00e23c42a3a1814e2e476da23800e052b3a7468b52"
+  },
+  {
+    "path": "scripts/history/check_hat.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat.cjs",
+    "bytes": 1080,
+    "sha256": "45a614376d90405c0b61bb2e934a2a21bf4e0391d39d68d56c2ba96b9f2e2b61"
+  },
+  {
+    "path": "scripts/history/check_hat_auto_import.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_auto_import.cjs",
+    "bytes": 2045,
+    "sha256": "d3a27529ae2aecd3e21bc1c9dcf8433b5badd5cc428aaec97147d6106c9222d3"
+  },
+  {
+    "path": "scripts/history/check_hat_direct.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_direct.cjs",
+    "bytes": 1483,
+    "sha256": "ea5c6c47acc3f6699ff29c3d489266f42f49468d56cd4c4a03c9b63a4845d8b5"
+  },
+  {
+    "path": "scripts/history/check_hat_final.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_final.cjs",
+    "bytes": 2124,
+    "sha256": "e7c834d2326241bbaf2377cc8a02da1e4599235c4778d997ec1a103fe42aa0e4"
+  },
+  {
+    "path": "scripts/history/check_hat_full.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_full.cjs",
+    "bytes": 2242,
+    "sha256": "2498970d32ed1679111fa5defe6c11f3387685bf025cd924ae3b07320509e23c"
+  },
+  {
+    "path": "scripts/history/check_hat_rear_before.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_rear_before.cjs",
+    "bytes": 2037,
+    "sha256": "e888435d4bd54200a532050364b60569162db22f5f2eae255be14b3cf7b768fe"
+  },
+  {
+    "path": "scripts/history/check_hat_redesigned.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_redesigned.cjs",
+    "bytes": 2164,
+    "sha256": "f5b4d5fe4a43662e37c67b4f1e2678ae92df14c90284225432c8467f3734d52c"
+  },
+  {
+    "path": "scripts/history/check_hat_sidefill.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_sidefill.cjs",
+    "bytes": 2485,
+    "sha256": "5edb22f3eba644e3479b235477fc33ab1584650383f710ac5962f7bcc9b63448"
+  },
+  {
+    "path": "scripts/history/check_hat_sidefill_gpu.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_sidefill_gpu.cjs",
+    "bytes": 2534,
+    "sha256": "96ec7ad8c5de4ef1a5499c4036c340d17c65d17a95509437a9d8a4791e4b2fd8"
+  },
+  {
+    "path": "scripts/history/check_hat_thicker.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_thicker.cjs",
+    "bytes": 2140,
+    "sha256": "6770acd3282a6d5c0d3d81c5ec1c6e93ddec3de061f0b473b22b5baf1718299d"
+  },
+  {
+    "path": "scripts/history/check_hat_thick_v2.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_thick_v2.cjs",
+    "bytes": 2528,
+    "sha256": "0b69e9c8b34624b72531672610b03687bea38c2f49e271cdfbff27688cd37611"
+  },
+  {
+    "path": "scripts/history/check_hat_v10.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v10.cjs",
+    "bytes": 1611,
+    "sha256": "cdb655d3dd1c54ba9ca3739aa945c3d04ca4053c3ca366d3fee0b9f5ba43c472"
+  },
+  {
+    "path": "scripts/history/check_hat_v11.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v11.cjs",
+    "bytes": 1600,
+    "sha256": "17061e5c9fe8173c4e22e941522021b852ec98afc675d42e2f8248b37f711d29"
+  },
+  {
+    "path": "scripts/history/check_hat_v12.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v12.cjs",
+    "bytes": 1591,
+    "sha256": "eee07471813cb280dc8aa77ccc723a17465406a6431906fe44733048e374302f"
+  },
+  {
+    "path": "scripts/history/check_hat_v13.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v13.cjs",
+    "bytes": 1597,
+    "sha256": "a1f62a6277a13e23f20ce2aa21481e59650b67a1da671c18ee85aca72f4c694b"
+  },
+  {
+    "path": "scripts/history/check_hat_v14.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v14.cjs",
+    "bytes": 1600,
+    "sha256": "3e7d31ac8a570682b24e63ab2ae48f3214de1852a65921c5624eb9d8ee20d1da"
+  },
+  {
+    "path": "scripts/history/check_hat_v3.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v3.cjs",
+    "bytes": 2788,
+    "sha256": "8b5e3ad73bc0bde891fdfd8c5f59099b43b5fdc87fa52e14fd7bd6177a243356"
+  },
+  {
+    "path": "scripts/history/check_hat_v3_bottom.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v3_bottom.cjs",
+    "bytes": 1376,
+    "sha256": "af2955f539f1676acff83d3b8e6cd087bad3b56f2251cd56782f5e3fa49f1a3c"
+  },
+  {
+    "path": "scripts/history/check_hat_v4.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v4.cjs",
+    "bytes": 1607,
+    "sha256": "cc20be620de0ce3d61b2869a521378b4ebca83861d6c7860ec53c2ae517b8516"
+  },
+  {
+    "path": "scripts/history/check_hat_v5.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v5.cjs",
+    "bytes": 1598,
+    "sha256": "a5ed51e85ee55581323b19eee18802f8dc68fd7cd839b173cbdb3b1c63b0d6e6"
+  },
+  {
+    "path": "scripts/history/check_hat_v6.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v6.cjs",
+    "bytes": 1601,
+    "sha256": "13a4cf32c5d32cde7e6625700f33cc9582f6eff96f96488a606f9f659f89e168"
+  },
+  {
+    "path": "scripts/history/check_hat_v7.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v7.cjs",
+    "bytes": 1595,
+    "sha256": "27bb5d433627cf0e55f6144865d5e3c2f2d6c8a75489c9bbcb2c77b5958c9a3a"
+  },
+  {
+    "path": "scripts/history/check_hat_v8.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v8.cjs",
+    "bytes": 1603,
+    "sha256": "5307b99b506aeb9fec1f4430b7756724dd7d8da7fc8149adfe9d7843fd88cb99"
+  },
+  {
+    "path": "scripts/history/check_hat_v9.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_hat_v9.cjs",
+    "bytes": 1607,
+    "sha256": "84170725251950656643f26b75488a7464d410521a18b71fb087df6d52da8106"
+  },
+  {
+    "path": "scripts/history/check_joined_four_fingers.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_joined_four_fingers.cjs",
+    "bytes": 2841,
+    "sha256": "a23fd9d800ffc4aa6b05b98478f2db854f7c99f67318e600dabf085a314a1f4c"
+  },
+  {
+    "path": "scripts/history/check_layered_plan.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_layered_plan.cjs",
+    "bytes": 2636,
+    "sha256": "359612ddfe480d2e3c636a78c07c2e1b33afe6ee38bd1d1ea96bf5ff36bf87c7"
+  },
+  {
+    "path": "scripts/history/check_message_v26.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_message_v26.cjs",
+    "bytes": 1639,
+    "sha256": "4c15c451ae10f265b385df11fd2427179dc6839f440b7a5715daed5160771968"
+  },
+  {
+    "path": "scripts/history/check_message_v27.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_message_v27.cjs",
+    "bytes": 1639,
+    "sha256": "3c28361ef7edce1711e308dbe5be3eef91bf480100dd573759fb86829a48f66b"
+  },
+  {
+    "path": "scripts/history/check_message_v28.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_message_v28.cjs",
+    "bytes": 1645,
+    "sha256": "456ffbadb4b62f3c61c94fc1360e29477b8817d643cdc560655390b8822aca64"
+  },
+  {
+    "path": "scripts/history/check_message_v29.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_message_v29.cjs",
+    "bytes": 1636,
+    "sha256": "2e462e87dc6c89dfea5ad94b0d8fa1c4b17ce1368223d641c2211987cf8bd46c"
+  },
+  {
+    "path": "scripts/history/check_minimal_controls.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_minimal_controls.cjs",
+    "bytes": 1357,
+    "sha256": "ceb62d066f7695f75417362dbfd94e0c9c784cb10a4dbaf448a7e0f397a9428c"
+  },
+  {
+    "path": "scripts/history/check_narrow_finger_gaps.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_narrow_finger_gaps.cjs",
+    "bytes": 2844,
+    "sha256": "1db3c586d8d22b2fbede2562fbc3a403dd484003437ae800cc0385e841386408"
+  },
+  {
+    "path": "scripts/history/check_natural_finger_webs.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_natural_finger_webs.cjs",
+    "bytes": 2835,
+    "sha256": "de44e079e683799baa6528e6752494810814aa978feaab956cbd4dd4bdbea714"
+  },
+  {
+    "path": "scripts/history/check_no_bag_v10.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_no_bag_v10.cjs",
+    "bytes": 2157,
+    "sha256": "a47c1c48c0ccc1723eb641d4f634b6783eaa6b6c6d5ece1b0b5ee16e5fece54b"
+  },
+  {
+    "path": "scripts/history/check_no_bag_v9.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_no_bag_v9.cjs",
+    "bytes": 1620,
+    "sha256": "0362fa00de4a582234d5641c413f692b6332dd3e26625ad6319db2c0e5e5758b"
+  },
+  {
+    "path": "scripts/history/check_qr_sources.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_sources.py",
+    "bytes": 794,
+    "sha256": "ed62808a0a70a4b5995b684a1e9536a8677d887e964a9ad49dd5a98843a74b34"
+  },
+  {
+    "path": "scripts/history/check_qr_v20.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v20.cjs",
+    "bytes": 1639,
+    "sha256": "221ca1b9d9f998750b9d677773b8ca7d042f2e62d27204f12fdba0be4dca0eb8"
+  },
+  {
+    "path": "scripts/history/check_qr_v21.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v21.cjs",
+    "bytes": 1636,
+    "sha256": "b8729a9e42f36ea6331a7ea1aa1756555b01dd1782c88bfb1e8f3779c684e203"
+  },
+  {
+    "path": "scripts/history/check_qr_v22.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v22.cjs",
+    "bytes": 1636,
+    "sha256": "7708d8381cadc2b95738af494860d5b0d6ef0d1e657d845860579f9df2997254"
+  },
+  {
+    "path": "scripts/history/check_qr_v23.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v23.cjs",
+    "bytes": 1642,
+    "sha256": "214c26171bfca77cb3e2869f49b806e295555668bf010d3893eaa9ab78cd2f08"
+  },
+  {
+    "path": "scripts/history/check_qr_v24.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v24.cjs",
+    "bytes": 1639,
+    "sha256": "97e2ee2cf1a013b6268f9c74021fe02acb881cff756bc6805b94c54f68f206e5"
+  },
+  {
+    "path": "scripts/history/check_qr_v25.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_qr_v25.cjs",
+    "bytes": 1639,
+    "sha256": "88a8f7b358710962abf0ec8a4864a76a8e5e43b550fc0090e941fd7964c82a3c"
+  },
+  {
+    "path": "scripts/history/check_refined_hands.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_refined_hands.cjs",
+    "bytes": 2829,
+    "sha256": "602462fe1906bb1773c310f5e1b25cd5620c0a1fb962e298d974cb95599b05dd"
+  },
+  {
+    "path": "scripts/history/check_shoe_before.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_shoe_before.cjs",
+    "bytes": 1591,
+    "sha256": "d411b535a58b9f0ea078d64e9ce553e27652bb37ed737f56da9ee7781b913bf9"
+  },
+  {
+    "path": "scripts/history/check_shoe_v16.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_shoe_v16.cjs",
+    "bytes": 1591,
+    "sha256": "406fb86c98fe1ffe30b36c8843d0ae9bc5308a663764083a17273006983bd25c"
+  },
+  {
+    "path": "scripts/history/check_stable_hat_entry.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_stable_hat_entry.cjs",
+    "bytes": 1031,
+    "sha256": "a80d7c7ea8889c1a38a68ddc362ad6cca02950aa0e5a70439401591de6fc85e4"
+  },
+  {
+    "path": "scripts/history/check_star_regression.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_star_regression.cjs",
+    "bytes": 2838,
+    "sha256": "28a7f2ef059b457d42ef1bc6b27f69730be33533353317837a28c1b74e1ceb73"
+  },
+  {
+    "path": "scripts/history/check_thin.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_thin.py",
+    "bytes": 2445,
+    "sha256": "7c1f3b229997eded2cbaf8ab7988aa338ab8a94c44ae53809931a77f1e591124"
+  },
+  {
+    "path": "scripts/history/check_true_side_preservation.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_true_side_preservation.py",
+    "bytes": 1305,
+    "sha256": "f9e9214b8c3d05494d3d5743ea9c4337a78232b52dfc50577f8086ff88686af0"
+  },
+  {
+    "path": "scripts/history/check_uv_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_uv_v10.py",
+    "bytes": 659,
+    "sha256": "0f54947501994973788e0a2cc9f04d428518ba6656a1cc286e1a1f4aa0e3771d"
+  },
+  {
+    "path": "scripts/history/check_v6_bag_surface.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_v6_bag_surface.cjs",
+    "bytes": 1874,
+    "sha256": "e56d51cfdb92e7c3a866caac0a7a8bbd3236b207e2774efb760162a0c9c12c45"
+  },
+  {
+    "path": "scripts/history/check_v6_pattern_20261019.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_v6_pattern_20261019.cjs",
+    "bytes": 1814,
+    "sha256": "e757a73495422f5d33b7b8fed4766094c382ef7c768f0c642a2afee80c5f2d7e"
+  },
+  {
+    "path": "scripts/history/check_v6_true_side_bag.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\check_v6_true_side_bag.cjs",
+    "bytes": 1966,
+    "sha256": "f611252fb13531b5c8a7f9597fd293cf77b798c92e77da11bc213ebcac275540"
+  },
+  {
+    "path": "scripts/history/closures_after_v36.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\closures_after_v36.cjs",
+    "bytes": 1876,
+    "sha256": "2b9fd525bc783c5f2f79b2173c3d8423677270d15d2b138d38a86e333fb09c71"
+  },
+  {
+    "path": "scripts/history/closures_views_v36.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\closures_views_v36.cjs",
+    "bytes": 1871,
+    "sha256": "ae7111ee7b3ef3ff53a0e76393769d88ea1a4c8fc266a7fd6d8307526e796ec0"
+  },
+  {
+    "path": "scripts/history/compose_compare_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\compose_compare_v35.py",
+    "bytes": 1190,
+    "sha256": "a0311d09177d8f058275d1c06bf437a6c399d49ed0cd290ae43c6d49f8aff527"
+  },
+  {
+    "path": "scripts/history/compose_shoe_compare.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\compose_shoe_compare.py",
+    "bytes": 965,
+    "sha256": "e316815d7788253458e3748d9965a55bffd40b7483d279616da97f167ccd0f72"
+  },
+  {
+    "path": "scripts/history/conservative_bag_removal_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\conservative_bag_removal_v10.py",
+    "bytes": 9016,
+    "sha256": "fa05881fd2c8e9b085edf9fd9a30512a4f7cb2ad538ad049a8c8d1044502aca0"
+  },
+  {
+    "path": "scripts/history/cylinder_bag_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\cylinder_bag_v7.py",
+    "bytes": 6182,
+    "sha256": "72f00d89553425206eedd58877b0201f47e6b07442e9d6d36a34d11a71693001"
+  },
+  {
+    "path": "scripts/history/cylinder_base_v30.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\cylinder_base_v30.py",
+    "bytes": 4683,
+    "sha256": "94b255c42e7acd356cff83340979cb0a49f95fa7102932f3b6af5ad126f0493c"
+  },
+  {
+    "path": "scripts/history/cylinder_soft_v31.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\cylinder_soft_v31.py",
+    "bytes": 4685,
+    "sha256": "8f8c50cc7617e755f41803268be1eff5d106148024c6f4906ddb7a55fbd94ee3"
+  },
+  {
+    "path": "scripts/history/dbg_scene.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\dbg_scene.py",
+    "bytes": 458,
+    "sha256": "f357106bed8796a2712e76a11af48c2ea97f77fa62d0e98235608ed71fb5716b"
+  },
+  {
+    "path": "scripts/history/debug_layered_bounds.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\debug_layered_bounds.py",
+    "bytes": 497,
+    "sha256": "857916c011f34d374cb5630faf54fe94ba68b5310e933b2cdf3cbe6cdd902a5a"
+  },
+  {
+    "path": "scripts/history/deliver_print.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\deliver_print.py",
+    "bytes": 2858,
+    "sha256": "c8d9e4f571b8b5a7e015ab35b99a0f03046bc4b75fabcd34ee3ac9ecec85e024"
+  },
+  {
+    "path": "scripts/history/detail_inspect.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\detail_inspect.py",
+    "bytes": 1012,
+    "sha256": "b604d6f4da781659e0b4d19e54ad476edfa2a5c6f0ce6b285951440a96fc2b95"
+  },
+  {
+    "path": "scripts/history/diagnose_hat_load.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\diagnose_hat_load.cjs",
+    "bytes": 1261,
+    "sha256": "34b9279018f3f17ad77c07bd7da0d9b9e7a034c84960812eed09e2557d493cc6"
+  },
+  {
+    "path": "scripts/history/diagnose_natural_web_scope.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\diagnose_natural_web_scope.py",
+    "bytes": 2253,
+    "sha256": "d1e8e6960f0ac0a72a5141cf87585fc8919200d2dbb597a13237692ad199d2af"
+  },
+  {
+    "path": "scripts/history/draw_box.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\draw_box.cjs",
+    "bytes": 2679,
+    "sha256": "8c7e1447521eefd1337002aa0d3d9e2464ea09dabb8bb2922a421d9a671708bc"
+  },
+  {
+    "path": "scripts/history/ear_chunky_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\ear_chunky_v5.py",
+    "bytes": 4526,
+    "sha256": "ce40c051077515a713dce50ec91e383c494ec920877e78123d6f26577dd28fdf"
+  },
+  {
+    "path": "scripts/history/ear_coarse_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\ear_coarse_v5.py",
+    "bytes": 4820,
+    "sha256": "3295b7fe5e0ff0f1c74c61549f0c77fde863a6809ae9692b1b754aade979b2b6"
+  },
+  {
+    "path": "scripts/history/enable_hat_auto_import.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\enable_hat_auto_import.py",
+    "bytes": 3192,
+    "sha256": "21e163b2ed8fa051132fe6cb3d2122ff3ed26799c27efd0134b99c72569326bc"
+  },
+  {
+    "path": "scripts/history/export_glb_v34.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_glb_v34.py",
+    "bytes": 599,
+    "sha256": "4f23613eda567db5b309d45fd452cdf7bcde8279e00b0e838a719e2e19c7ca89"
+  },
+  {
+    "path": "scripts/history/export_glb_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_glb_v35.py",
+    "bytes": 563,
+    "sha256": "ad06a05ec9bcaa52c4ce8502d135099ee0963a98a7d703cc37d1de877ee24952"
+  },
+  {
+    "path": "scripts/history/export_no_bag_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_no_bag_v10.py",
+    "bytes": 4379,
+    "sha256": "c9ebfcdaa6be89b017402c3a7f8089d92cd663faa18a0f78acc739e970dad003"
+  },
+  {
+    "path": "scripts/history/export_no_bag_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_no_bag_v9.py",
+    "bytes": 2615,
+    "sha256": "54b3327394be7d98df9df7b0cc78afee0213c713abe9f214d1355b94ec1ae347"
+  },
+  {
+    "path": "scripts/history/export_print_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_print_v4.py",
+    "bytes": 808,
+    "sha256": "d4e440748c0bb3adb7f3ec58518a5fd139050f2a65c3caca23698698aa673e9c"
+  },
+  {
+    "path": "scripts/history/export_print_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_print_v5.py",
+    "bytes": 502,
+    "sha256": "f140e44aba2e86c476390ba93b9f2da52762663916f4f105180d3d29ebbad3f5"
+  },
+  {
+    "path": "scripts/history/export_print_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_print_v7.py",
+    "bytes": 490,
+    "sha256": "0ff00660b7fbf46ebe0f406761cab73ac89f9e4065496bf805d695294435c5e7"
+  },
+  {
+    "path": "scripts/history/export_print_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\export_print_v8.py",
+    "bytes": 496,
+    "sha256": "efb46e25a78c788ffd4c6f0e32d208f4008b057644cea13e08b9bd3f1ad200c9"
+  },
+  {
+    "path": "scripts/history/extend_hat_full_coverage.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\extend_hat_full_coverage.py",
+    "bytes": 9483,
+    "sha256": "3d18753471bbdf80ae5485439896ec7663ac340f868b2c00e390b3beb20b4dfd"
+  },
+  {
+    "path": "scripts/history/extract_hand_uv_charts.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\extract_hand_uv_charts.py",
+    "bytes": 1377,
+    "sha256": "6807b833a3e79e50046a653a8fa273654283b7117d5a2fad8c51c6911057f658"
+  },
+  {
+    "path": "scripts/history/extract_sweater_texture.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\extract_sweater_texture.py",
+    "bytes": 1394,
+    "sha256": "7c223d727d5db7e571601561fb0c3ee3717b8f42d6319cb75ab8505444d6b65b"
+  },
+  {
+    "path": "scripts/history/fill_hat_sides_thicker.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fill_hat_sides_thicker.py",
+    "bytes": 9767,
+    "sha256": "d3e95197d1c8d869e6aab24f10201d7c7fa9ad88739f39e6f8882860db146a5d"
+  },
+  {
+    "path": "scripts/history/finalize_connected_hand.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\finalize_connected_hand.py",
+    "bytes": 1940,
+    "sha256": "4e192162db1d6d781756b8fcc3d82e90b0e79858b6778eb62e46502fc174d501"
+  },
+  {
+    "path": "scripts/history/finalize_slim_hair_v38.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\finalize_slim_hair_v38.py",
+    "bytes": 2879,
+    "sha256": "a37aa19bd4fd93607b4b636f59bc343917d3c7d86c3285da3772f200d82c7539"
+  },
+  {
+    "path": "scripts/history/final_geometry_audit_v36.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\final_geometry_audit_v36.py",
+    "bytes": 4831,
+    "sha256": "0c360a25a226a2def3ac65a86598a8d9af4944e47fd7b4b58017048be7919790"
+  },
+  {
+    "path": "scripts/history/finish_model.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\finish_model.py",
+    "bytes": 4026,
+    "sha256": "3b59f0c1d52b5d22de23692e918a386cbffef622a67602b199a5a0c75de5c3e2"
+  },
+  {
+    "path": "scripts/history/fit_bag_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fit_bag_v12.py",
+    "bytes": 6696,
+    "sha256": "7c822ce9684ac55d990101dfeee9c0ab9040fa4801a3dc20c99b2321facbc2e7"
+  },
+  {
+    "path": "scripts/history/fix_bag_material_seams.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_bag_material_seams.py",
+    "bytes": 3732,
+    "sha256": "7e4991904701490c6a893f4457bb7ba4463434c979e3e62c8598738277225814"
+  },
+  {
+    "path": "scripts/history/fix_front_star.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_front_star.py",
+    "bytes": 5075,
+    "sha256": "54d2ec16b3fd00244b842f2704307e459fcbe479b3f367999c7b5e142fac1fef"
+  },
+  {
+    "path": "scripts/history/fix_front_star_clean_carrier.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_front_star_clean_carrier.py",
+    "bytes": 5049,
+    "sha256": "df72588424e108678dfaa37513330b4df7930384fcd6198858c8d9f2429fc09b"
+  },
+  {
+    "path": "scripts/history/fix_front_star_preserve_carrier.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_front_star_preserve_carrier.py",
+    "bytes": 2349,
+    "sha256": "ac39ae8a09fc4c9757db36ef8a7f44009b18279530dca9c4d7f2daca360a2e06"
+  },
+  {
+    "path": "scripts/history/fix_fur_clip_v32.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_fur_clip_v32.py",
+    "bytes": 2737,
+    "sha256": "899c5a30ff1ecaede7ca5f436ce3c4a2467184828817c74eb7ba5c008a5f5eae"
+  },
+  {
+    "path": "scripts/history/fix_fur_clip_v33.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_fur_clip_v33.py",
+    "bytes": 2851,
+    "sha256": "3643f7c00ddf0e7da4b5c47bf9120b8c125fcfa18666fa6043e84654ba814bff"
+  },
+  {
+    "path": "scripts/history/fix_v6_bag_surface_projection.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_v6_bag_surface_projection.py",
+    "bytes": 8493,
+    "sha256": "d887a965dd8fe1377364732140c52155ae972aa0809606b430cf1eaf8e581be8"
+  },
+  {
+    "path": "scripts/history/fix_v6_true_side_bag_face.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\fix_v6_true_side_bag_face.py",
+    "bytes": 9926,
+    "sha256": "9df17fc082ab92eeba736c3952526b51edc24ffe593c510261714ea8c6ba4a07"
+  },
+  {
+    "path": "scripts/history/front_chunky_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\front_chunky_v8.py",
+    "bytes": 4386,
+    "sha256": "5334c91f1aabd2370673485089c0d65449117670093a2d7dc9b2f0e74f2e6cea"
+  },
+  {
+    "path": "scripts/history/generate_hunyuan.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\generate_hunyuan.py",
+    "bytes": 2642,
+    "sha256": "457a7388349273d808ce05b612c01918ce8d84f94fadff0775b7785f02811bfe"
+  },
+  {
+    "path": "scripts/history/generate_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\generate_v35.py",
+    "bytes": 2267,
+    "sha256": "d9716a8f783d7f2f51ed477dc7c80c1067647f551bd7f5b6f4b0fd4b44e177f4"
+  },
+  {
+    "path": "scripts/history/generate_v35b.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\generate_v35b.py",
+    "bytes": 2075,
+    "sha256": "62daff55b24bde119ca431048129657b7de35b422aebb9255e1035a8fec14b91"
+  },
+  {
+    "path": "scripts/history/generate_v35c.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\generate_v35c.py",
+    "bytes": 2183,
+    "sha256": "fb92b23ccc93de8ee494aede2af417f20824695831a6de7b6ada16deaec9a735"
+  },
+  {
+    "path": "scripts/history/generate_v35d.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\generate_v35d.py",
+    "bytes": 2306,
+    "sha256": "20d708c59d7d73efadfd057a21f2b86bb9ea325c8c290ed6d65178df13507383"
+  },
+  {
+    "path": "scripts/history/hair_refine_v15.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\hair_refine_v15.py",
+    "bytes": 4566,
+    "sha256": "fe757d98cc080b053987e4f5cee32c20345d1aac564a9cbbf74f5129c5c89396"
+  },
+  {
+    "path": "scripts/history/hand_depth.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\hand_depth.py",
+    "bytes": 1304,
+    "sha256": "524d53041ccd6bb8bf23c63556fa1166eabeadb4baeb59907a0e008c26e29bb6"
+  },
+  {
+    "path": "scripts/history/hat_load_status.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\hat_load_status.cjs",
+    "bytes": 1092,
+    "sha256": "9bbdc1e0c76ccc73c3ddcd6ab6c2d2b68ac6ee72dbc56b8f4f4390321e24885d"
+  },
+  {
+    "path": "scripts/history/hat_thick_edge_v2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\hat_thick_edge_v2.py",
+    "bytes": 9759,
+    "sha256": "fad2623df3a5809bdb94614f8465781aa0d87b6548b312044724f4f2c9e1facb"
+  },
+  {
+    "path": "scripts/history/hat_underside_v3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\hat_underside_v3.py",
+    "bytes": 10107,
+    "sha256": "0d32fb23a68825717217b72d29c860264ddfb859de5c6ad9b7853a729e2c56a3"
+  },
+  {
+    "path": "scripts/history/import_hunyuan_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\import_hunyuan_v35.py",
+    "bytes": 3420,
+    "sha256": "1448dd8b6137dee82874ecd04517a49241e84b0ab9ae70e05eb4cb77858c9968"
+  },
+  {
+    "path": "scripts/history/inset_fusion_v23.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inset_fusion_v23.py",
+    "bytes": 5250,
+    "sha256": "bd4b9103d21e7a95002e49a610e75c6450c5210e7534e1042ca7f5870c8870a5"
+  },
+  {
+    "path": "scripts/history/inspect_bag.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bag.py",
+    "bytes": 556,
+    "sha256": "37773d6497ccca028aa07db70d6421119e30f0f1be77429fde63c7e734ba56d1"
+  },
+  {
+    "path": "scripts/history/inspect_bag_ears.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bag_ears.py",
+    "bytes": 1642,
+    "sha256": "2bb977045f07e95e1bb8f7e278f2dfd6c2d5a971324473dbae47ed51df0c2469"
+  },
+  {
+    "path": "scripts/history/inspect_bag_seam.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bag_seam.py",
+    "bytes": 1251,
+    "sha256": "f2e193b224b413e8e904a6aa987e0e431bde0701bd6ce09f92e8657a842892f5"
+  },
+  {
+    "path": "scripts/history/inspect_bag_seam_weights.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bag_seam_weights.py",
+    "bytes": 1784,
+    "sha256": "3e0e04176ab075a46a6243ac0e99411f3b7040bed9a34d97183c81e59ff6b810"
+  },
+  {
+    "path": "scripts/history/inspect_bag_slots.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bag_slots.py",
+    "bytes": 499,
+    "sha256": "eb989c2f2a1a9515b6896e60556f13292ce9774aa16f8ab5c27afe4924d90f3b"
+  },
+  {
+    "path": "scripts/history/inspect_base_bottom.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_base_bottom.py",
+    "bytes": 495,
+    "sha256": "77fb80f6f6c1198f61e9bbcd6f66f241846f7c84cfa2190510a85767daec58e8"
+  },
+  {
+    "path": "scripts/history/inspect_bow.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_bow.py",
+    "bytes": 664,
+    "sha256": "873963e5be56e220bfc2b0d2c03abd757f033a535334b914e7a7a701db847adb"
+  },
+  {
+    "path": "scripts/history/inspect_closures_v36.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_closures_v36.py",
+    "bytes": 1266,
+    "sha256": "362a846c1d90b978f0c3346cb73f8fcb8895156a25329c3d5dc1be544d08a930"
+  },
+  {
+    "path": "scripts/history/inspect_current_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_current_hands.py",
+    "bytes": 1094,
+    "sha256": "5c4482d56833540333e54b83e88e74b5f8b399e26dbb8191228698fa62addf45"
+  },
+  {
+    "path": "scripts/history/inspect_ear_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_ear_v5.py",
+    "bytes": 535,
+    "sha256": "820c9d3fe846b37ca18a18d6b2b6ec8e45733452a544438b5d3a3422f1d3d356"
+  },
+  {
+    "path": "scripts/history/inspect_feet_v34.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_feet_v34.py",
+    "bytes": 1707,
+    "sha256": "390260e15fadb42ec1218dba826f950a6ce0a0d570ae766d36c4720a57d3a197"
+  },
+  {
+    "path": "scripts/history/inspect_front_star.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_front_star.py",
+    "bytes": 570,
+    "sha256": "1b3799018cfb025ac6cf21d3708a5d74993c6b5ecb8d1365667b43f7f0ec6cf2"
+  },
+  {
+    "path": "scripts/history/inspect_fur_clip.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_fur_clip.py",
+    "bytes": 367,
+    "sha256": "cb98ed85bccda03b56a3a78a1a5a842da242bc0b422b5386ea9778ed377099c8"
+  },
+  {
+    "path": "scripts/history/inspect_hat_regions.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_hat_regions.py",
+    "bytes": 949,
+    "sha256": "96e5ee9230eaed94c2d5dd7368c2fc2167842b73df1a27168ea84dd7747ece65"
+  },
+  {
+    "path": "scripts/history/inspect_islands_v33.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_islands_v33.py",
+    "bytes": 1614,
+    "sha256": "8bc9818248378320626e1af6285466459a6181e1dafb4169c1c2fc0d82657466"
+  },
+  {
+    "path": "scripts/history/inspect_letter_overlap.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_letter_overlap.py",
+    "bytes": 584,
+    "sha256": "ddc769134a808bd387aa362c103979253e4f98c98b67bbf796d9c5ef0c3d4c36"
+  },
+  {
+    "path": "scripts/history/inspect_materials_v33.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_materials_v33.py",
+    "bytes": 1108,
+    "sha256": "662fce6e89fa216ac3a61ea4fb9574f6c271866cf0f0e4acf387f6eca90521a1"
+  },
+  {
+    "path": "scripts/history/inspect_objects_v33.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_objects_v33.py",
+    "bytes": 842,
+    "sha256": "4526068aa2918f2bf592be8eab2e6ede7a3dee68489e700465b9e850ea9cdeb4"
+  },
+  {
+    "path": "scripts/history/inspect_pedestal_v29.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_pedestal_v29.py",
+    "bytes": 470,
+    "sha256": "13df6e0aa1e926cb6c70537c59581ee9a3e38c3089fcce777b65c86c477cce58"
+  },
+  {
+    "path": "scripts/history/inspect_rear_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_rear_v4.py",
+    "bytes": 654,
+    "sha256": "b3867aeeea4ab9d5bed5f421ace324be0a79a02df22716e07b116505ec3ee89d"
+  },
+  {
+    "path": "scripts/history/inspect_shoes.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_shoes.py",
+    "bytes": 636,
+    "sha256": "ae0593cea5b869090000e504d47f5b1a2df0c6a98c803e7ccf003a77247b557f"
+  },
+  {
+    "path": "scripts/history/inspect_shoe_material.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_shoe_material.py",
+    "bytes": 982,
+    "sha256": "9218eafbe4ba76a967c51c96188b21e88448e2458ac4ccca088facbbd8989278"
+  },
+  {
+    "path": "scripts/history/inspect_stars.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\inspect_stars.py",
+    "bytes": 418,
+    "sha256": "d51a85d5694b6e4fcccb79dbcdf23c3599db5229628c6130135a8ce19b397214"
+  },
+  {
+    "path": "scripts/history/layered_body.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\layered_body.py",
+    "bytes": 12250,
+    "sha256": "9e3e917f53bc20793e537b940bea608c4273385fbd8e57f59720ea2167f5f549"
+  },
+  {
+    "path": "scripts/history/locate_bag_ear_centres.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\locate_bag_ear_centres.py",
+    "bytes": 1086,
+    "sha256": "798aad1939392babda2edec152e593bc60324905298d5b95bf9ef9a1d10ef98b"
+  },
+  {
+    "path": "scripts/history/locate_front_star.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\locate_front_star.py",
+    "bytes": 910,
+    "sha256": "41da4c466989112f45b810bf7fa1162b60047dd4dbf41afafd7e0b26195d123e"
+  },
+  {
+    "path": "scripts/history/make_grid.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\make_grid.py",
+    "bytes": 822,
+    "sha256": "841fe86d8619ab4c48dc0ab9c9bdd7b49c8c61c895d82c832e2eaaad38287198"
+  },
+  {
+    "path": "scripts/history/map_hand_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\map_hand_v35.py",
+    "bytes": 725,
+    "sha256": "b002c9b5b12835a8efe8355319dab1909fd550826f8b7d722588a91227c63424"
+  },
+  {
+    "path": "scripts/history/match_bag_brown.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\match_bag_brown.py",
+    "bytes": 3912,
+    "sha256": "e50ee57ec3f579b98072dfd5296e45c17acd58ca0f911d33528e35ee03c7da28"
+  },
+  {
+    "path": "scripts/history/measure_hands_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\measure_hands_v35.py",
+    "bytes": 1178,
+    "sha256": "a9ff2200176d41a71a0afb09b9fe7621df83ae82e30a09fb2db126bc0078424a"
+  },
+  {
+    "path": "scripts/history/measure_hand_surface.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\measure_hand_surface.py",
+    "bytes": 1038,
+    "sha256": "096936b3d62f65b81e29d17bad2ec9716fdfe2c48e94e1ac62fc2a89096d1f0c"
+  },
+  {
+    "path": "scripts/history/measure_hand_wave.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\measure_hand_wave.py",
+    "bytes": 985,
+    "sha256": "43f236c8a9f3eaa027d2db760af24e685c4786b5dc9e4879429b652924a26911"
+  },
+  {
+    "path": "scripts/history/measure_ref.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\measure_ref.py",
+    "bytes": 2140,
+    "sha256": "c0b7ad3f81c65d856bb5e85b3223786b64e2a4fd7c82e0c7971e7b6836c4c8c4"
+  },
+  {
+    "path": "scripts/history/measure_shoe_profile.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\measure_shoe_profile.py",
+    "bytes": 1000,
+    "sha256": "704cf1de27517636478a38ef3fb923d7a1fbb821a6d787e02fd0a6ae704ea74e"
+  },
+  {
+    "path": "scripts/history/message_align_v28.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\message_align_v28.py",
+    "bytes": 4527,
+    "sha256": "eca09b7f03f908036a911bdaeb6ecf79a4590d61e07526773c039352e81e5971"
+  },
+  {
+    "path": "scripts/history/message_layout_v27.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\message_layout_v27.py",
+    "bytes": 4497,
+    "sha256": "40f5fa317f987c9b6c72a7a75a114fdf6d8d5e62d8569ec7fac24067ecd2467e"
+  },
+  {
+    "path": "scripts/history/message_right_v29.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\message_right_v29.py",
+    "bytes": 4547,
+    "sha256": "83a4febf9aeb417b79dc7be063b07087bc0d0962a8f9358e77bd5712aaa96080"
+  },
+  {
+    "path": "scripts/history/message_yo_v26.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\message_yo_v26.py",
+    "bytes": 4426,
+    "sha256": "bbf719a11d33e105eeb0358e4017fbd04d055e3da43b525f6562f50900bedfbf"
+  },
+  {
+    "path": "scripts/history/natural_finger_webs.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\natural_finger_webs.py",
+    "bytes": 6612,
+    "sha256": "255334db61fa364087e547a25cc875c4f4558ab5948852d74bb289dc6af3e17b"
+  },
+  {
+    "path": "scripts/history/natural_finger_webs_full.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\natural_finger_webs_full.py",
+    "bytes": 5022,
+    "sha256": "f98c599c4256230751fcda231af8d9b1feeb3930338d84f65fb42b6be85aa493"
+  },
+  {
+    "path": "scripts/history/package_back_hair_v37.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_back_hair_v37.py",
+    "bytes": 1141,
+    "sha256": "bc2c8aa8b212e8c6a6054db7ada5c05e6d28ab2dd13d3761f0442acfadbe1f62"
+  },
+  {
+    "path": "scripts/history/package_bag_brown.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_brown.py",
+    "bytes": 1013,
+    "sha256": "af3700cc4029510790a5aae6bd6a102ef78b41c52e456c051c0f3fe028e3fe5c"
+  },
+  {
+    "path": "scripts/history/package_bag_sweater.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_sweater.py",
+    "bytes": 1013,
+    "sha256": "33f5f4625ffb9760df06df19c7fac731d230bf03e75cdb4bc42e008db0866145"
+  },
+  {
+    "path": "scripts/history/package_bag_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_v11.py",
+    "bytes": 2054,
+    "sha256": "54d7499964f477f853507ef9c7345a3aab1abf268a9947e02c398b2a2e3add3e"
+  },
+  {
+    "path": "scripts/history/package_bag_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_v12.py",
+    "bytes": 2183,
+    "sha256": "beb8cee03e2f3c3b54399775920a8f33f15e2007340b075e2f7d04933a0b084a"
+  },
+  {
+    "path": "scripts/history/package_bag_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_v6.py",
+    "bytes": 2137,
+    "sha256": "1a84d461610b704b0d27c1d030c954289840c073e6c8f77f7d325928a9e18b94"
+  },
+  {
+    "path": "scripts/history/package_bag_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_v7.py",
+    "bytes": 2161,
+    "sha256": "7071d114370714a9b109cf0f2034893ec5082de94cd4631b79c407ff78807579"
+  },
+  {
+    "path": "scripts/history/package_bag_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_bag_v8.py",
+    "bytes": 1952,
+    "sha256": "d5d72cf618f4ebbcd749cfad6f66d17615c5396a710f9e71e029cb8090e361bb"
+  },
+  {
+    "path": "scripts/history/package_both_five_finger_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_both_five_finger_hands.py",
+    "bytes": 2656,
+    "sha256": "f268d8bc2a74bb9d7f641b2271960b3bbe18a3604ad9174c07b8d8bf5bee5191"
+  },
+  {
+    "path": "scripts/history/package_closures_v36.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_closures_v36.py",
+    "bytes": 1119,
+    "sha256": "ba409ba611d0ae08d07d5be41d16013cf976470e11e828030a05e1c7286de57a"
+  },
+  {
+    "path": "scripts/history/package_finished.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_finished.py",
+    "bytes": 1770,
+    "sha256": "b0bab7d2201a6f7e295ef5ea0f829243d64c5db2b74b907295e676e2cde1e242"
+  },
+  {
+    "path": "scripts/history/package_front_star.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_front_star.py",
+    "bytes": 826,
+    "sha256": "c4957c15472eab2da82abb3c4760aec272896fcb1121932b3e941c97b26071d3"
+  },
+  {
+    "path": "scripts/history/package_hat.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_hat.py",
+    "bytes": 410,
+    "sha256": "b3d707c1f81f7ea06be8c0e7158d1c63bdb06d03cfef31245f8301b7de10dffb"
+  },
+  {
+    "path": "scripts/history/package_hat_lossless.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_hat_lossless.py",
+    "bytes": 2082,
+    "sha256": "f0f75793c7c6eb43de654499a09847d8f6b79c29afaafdfa1b4b467391e8051c"
+  },
+  {
+    "path": "scripts/history/package_narrow_finger_gaps.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_narrow_finger_gaps.py",
+    "bytes": 1228,
+    "sha256": "770e7cc6b5b79b66a49292d6a8a2b2526b7fa887c83dad2ebe12c99d31369ad0"
+  },
+  {
+    "path": "scripts/history/package_natural_finger_webs.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_natural_finger_webs.py",
+    "bytes": 1216,
+    "sha256": "a6560c6e4a34cd4a43d1af3c7a7002aecf22c4268d5999627b4a337e19789e28"
+  },
+  {
+    "path": "scripts/history/package_no_bag_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_no_bag_v10.py",
+    "bytes": 2080,
+    "sha256": "7e3d4776d02df770d8a33b957143670e0f9fd576ddba0e385432557a8cf0c740"
+  },
+  {
+    "path": "scripts/history/package_no_bag_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_no_bag_v9.py",
+    "bytes": 1798,
+    "sha256": "39be64b3b50f951ddbaa603fd3127ed1bfe8ac608e32db89fac82f97851037ef"
+  },
+  {
+    "path": "scripts/history/package_refined.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_refined.py",
+    "bytes": 1101,
+    "sha256": "3f175f278d28601b8c02f6373ee9728d729e9735a9e01191fb46e5e33c83259c"
+  },
+  {
+    "path": "scripts/history/package_refined_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_refined_hands.py",
+    "bytes": 2335,
+    "sha256": "335a70596a956d2930df1b64caeb8be1662b496e980c8e700ffea9fef8657b2e"
+  },
+  {
+    "path": "scripts/history/package_review.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_review.py",
+    "bytes": 1984,
+    "sha256": "490328a453815cfb11f8fd62fb7505312b8808bf5568a9834e6457976523c6a6"
+  },
+  {
+    "path": "scripts/history/package_slim_hair_v38.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_slim_hair_v38.py",
+    "bytes": 1141,
+    "sha256": "95b8a5134c1f863b06fa81bbd2142c5442c0ebe128993c8c489688ebc4402fbc"
+  },
+  {
+    "path": "scripts/history/package_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_v4.py",
+    "bytes": 1671,
+    "sha256": "b7d49f46e8641c2af74b62985069d281a31d6cf5f7f16c1d11ebf57e35a04f22"
+  },
+  {
+    "path": "scripts/history/package_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\package_v5.py",
+    "bytes": 2788,
+    "sha256": "7d2e4afa040707f5a202a5170188b31c873bdac453652e6eac8f596b6f8fb08d"
+  },
+  {
+    "path": "scripts/history/pack_generic.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\pack_generic.cjs",
+    "bytes": 2012,
+    "sha256": "69b5c943cbf417a0d06cd69ba7c0146baf4bbcef006c921a2b07bf562825d962"
+  },
+  {
+    "path": "scripts/history/pack_v34.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\pack_v34.cjs",
+    "bytes": 2376,
+    "sha256": "1671a26ea4459da5fd8f97124db622ba03fc0ef8886901edcb3aac3279f79cf3"
+  },
+  {
+    "path": "scripts/history/paint_bag_seam_atlas.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\paint_bag_seam_atlas.py",
+    "bytes": 2827,
+    "sha256": "e97a2da1e3fb5ed3b6c291c22b8efb596a6925a3666e615eae13c5cddb7f316d"
+  },
+  {
+    "path": "scripts/history/paint_bag_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\paint_bag_v6.py",
+    "bytes": 5812,
+    "sha256": "e77e5269ca3d51e8108c8a735a4f7fcb29686f8f2a5226b63965639f9b5fb97a"
+  },
+  {
+    "path": "scripts/history/paint_bag_v6_blender.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\paint_bag_v6_blender.py",
+    "bytes": 4759,
+    "sha256": "6c82e314d0936c50f56d16f2c1a168382aaae3fc9d8dfb4f9457a46ad978aaf4"
+  },
+  {
+    "path": "scripts/history/paint_connected_hand.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\paint_connected_hand.py",
+    "bytes": 1486,
+    "sha256": "33d925d53fe78151d947b5f25b084a51fc7819b8bdaa497f031dfab64a68ae99"
+  },
+  {
+    "path": "scripts/history/PLAN_v34_group3.md",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\PLAN_v34_group3.md",
+    "bytes": 6618,
+    "sha256": "02a12ffa6118c4fd56505d7e9938a2e56f5480fd7b2ccabf4d22d4d3eae273a2"
+  },
+  {
+    "path": "scripts/history/PLAN_v35_scratch.md",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\PLAN_v35_scratch.md",
+    "bytes": 6575,
+    "sha256": "775fe4c37959d7c4cac3c589464d2683d00607fcedf6003f7d4fbc73fa545619"
+  },
+  {
+    "path": "scripts/history/prepare_bag_texture.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\prepare_bag_texture.py",
+    "bytes": 536,
+    "sha256": "183fbf47216a67e2f5e5c83c3a523c503e50e944ed417ab83eb1c48626ce2e86"
+  },
+  {
+    "path": "scripts/history/prepare_garment_patch_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\prepare_garment_patch_v8.py",
+    "bytes": 641,
+    "sha256": "5494e6e7e1b47f6e08deacde7b7bec1e52aaeb4a7307a95565974a3119c67343"
+  },
+  {
+    "path": "scripts/history/probe_hand_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\probe_hand_v35.py",
+    "bytes": 1443,
+    "sha256": "b8f1ea3a159c3ab9ab9143515ee7c21aa2685bfc517532ac8128dc1c50c48622"
+  },
+  {
+    "path": "scripts/history/probe_hunyuan.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\probe_hunyuan.py",
+    "bytes": 858,
+    "sha256": "5a406b4f99f9a4ba91f2cb065a4df21d6d9fc666a984cd782eb330c040b0f864"
+  },
+  {
+    "path": "scripts/history/probe_projection_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\probe_projection_v10.py",
+    "bytes": 1098,
+    "sha256": "a363219a0561f1e53d4302f1cc12ca1572abcb84902f10755ef37cf682f8125e"
+  },
+  {
+    "path": "scripts/history/probe_submit_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\probe_submit_v35.py",
+    "bytes": 992,
+    "sha256": "a6fcbd233c02be87ccfb2834fa315d7684f455def01979f0f3b1456fd08d54f2"
+  },
+  {
+    "path": "scripts/history/probe_visible_locks_v38.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\probe_visible_locks_v38.py",
+    "bytes": 1397,
+    "sha256": "8dcf9ea934539b21eefede3f5e2549dfb5e669923da500a84d9bccdec7cbe2c4"
+  },
+  {
+    "path": "scripts/history/project_sweater_patch.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\project_sweater_patch.py",
+    "bytes": 1676,
+    "sha256": "8a57f1fe412c90b9115134df4b0baf9aa446ce8ca5c27880aa45fb9103fbb605"
+  },
+  {
+    "path": "scripts/history/publish_base_v17.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_base_v17.py",
+    "bytes": 1525,
+    "sha256": "e7f6256d12482c6bf95bd66d10879d07d93343e0a28bbbea99bf2a710705ccf0"
+  },
+  {
+    "path": "scripts/history/publish_base_v18.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_base_v18.py",
+    "bytes": 782,
+    "sha256": "921d373765a985db4c74a5b18f61487400f274b27ceec99d2d71b53b98ee9d46"
+  },
+  {
+    "path": "scripts/history/publish_base_v19.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_base_v19.py",
+    "bytes": 791,
+    "sha256": "3b2a3f3344bcf50fe8a2ae7420a14158e299fa2303b325aae0843029b40f5c42"
+  },
+  {
+    "path": "scripts/history/publish_base_v22.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_base_v22.py",
+    "bytes": 1046,
+    "sha256": "5039dbd169c39671b7f4066a1567a19988604efc7daefeafe083e5933edaa82c"
+  },
+  {
+    "path": "scripts/history/publish_bow_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_bow_v11.py",
+    "bytes": 1098,
+    "sha256": "78bdaf7831acfaed2cf4fd7b080a651cffd2d6190818f6d80a6f5fd18d45118c"
+  },
+  {
+    "path": "scripts/history/publish_bow_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_bow_v12.py",
+    "bytes": 1111,
+    "sha256": "4c93d30d76eb640a92643b48ac0ba22121cab501a18e2ff41f189c3cff0e067c"
+  },
+  {
+    "path": "scripts/history/publish_bow_v13.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_bow_v13.py",
+    "bytes": 1123,
+    "sha256": "0348856845d83c1b20ee456422ce74b7e847f5daf16ab94ab85d4be0da002350"
+  },
+  {
+    "path": "scripts/history/publish_brim_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_brim_v10.py",
+    "bytes": 915,
+    "sha256": "aa1c73fffe7c6abfacd2a9ce451a578a97f77787533e3856eb8b44ba383a377e"
+  },
+  {
+    "path": "scripts/history/publish_compact_v24.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_compact_v24.py",
+    "bytes": 1652,
+    "sha256": "8123084c166cfd3d0017bb750ceec4fca704fb800994d4fb1fa9c988c76643c9"
+  },
+  {
+    "path": "scripts/history/publish_ears_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_ears_v5.py",
+    "bytes": 1313,
+    "sha256": "e19d5a7fb526c3573f2ea2d5f776a2c8b46d26d3c6ec03c58cd03ac0c9d8ba12"
+  },
+  {
+    "path": "scripts/history/publish_front_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_front_v8.py",
+    "bytes": 923,
+    "sha256": "fabc98c177a6ca33275fa1b3cade23622fd3376ccecc454a6aea980b4d4b65b3"
+  },
+  {
+    "path": "scripts/history/publish_fusion_v23.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_fusion_v23.py",
+    "bytes": 1643,
+    "sha256": "3a1a7172743ffad8e0dd595cdc09906c640b688e85a74b4188ac95ee57f89acd"
+  },
+  {
+    "path": "scripts/history/publish_hair_v15.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_hair_v15.py",
+    "bytes": 1453,
+    "sha256": "4342b6cdd2d146478e97c08cc560bb0ef6c00bd0f4362ddb818651c3b2510ac3"
+  },
+  {
+    "path": "scripts/history/publish_inset_v21.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_inset_v21.py",
+    "bytes": 1551,
+    "sha256": "b01c1200f04826b941b8c3ace46cadc5762b2f776406d8af7122b25e534f4f5d"
+  },
+  {
+    "path": "scripts/history/publish_latest_entry_v33.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_latest_entry_v33.cjs",
+    "bytes": 2830,
+    "sha256": "7d413d93c89285966b89baba46b1602a14825a597722d9a006ae12a3846d9d72"
+  },
+  {
+    "path": "scripts/history/publish_latest_hat_v3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_latest_hat_v3.py",
+    "bytes": 1790,
+    "sha256": "22a3e8ac4a87434e4059bcd16ffabc78037290ee15d7a12f7749404eeed89a8a"
+  },
+  {
+    "path": "scripts/history/publish_latest_hat_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_latest_hat_v4.py",
+    "bytes": 2102,
+    "sha256": "2055300fe220e6e2ccd32214b64c389975c17b4ff3258551c33d872ea2204f82"
+  },
+  {
+    "path": "scripts/history/publish_qr_v20.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_qr_v20.py",
+    "bytes": 2726,
+    "sha256": "e7adea1a58803d551fb3a4aa5d8a9ae260af80d40cf674529ad2b10962b4cee9"
+  },
+  {
+    "path": "scripts/history/publish_rear_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_rear_v7.py",
+    "bytes": 793,
+    "sha256": "514753252de8216d9aa08baa91faa32d27d9f5b01790081db8f09be03a0a122b"
+  },
+  {
+    "path": "scripts/history/publish_shoes_v16.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_shoes_v16.py",
+    "bytes": 1491,
+    "sha256": "fecbec0af7d317d1d13b717ef2129525ce46c6023acbadb56f3abcb32a12ceaf"
+  },
+  {
+    "path": "scripts/history/publish_side_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_side_v9.py",
+    "bytes": 916,
+    "sha256": "0776e5cf3eeec654f3b5e07be948b64a2bea283e35d793793aae7ae74f01821a"
+  },
+  {
+    "path": "scripts/history/publish_stars_v14.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\publish_stars_v14.py",
+    "bytes": 1143,
+    "sha256": "e1789c6d4ea5e98a4bed5bc0c66bbb09651c5ec375033362c3e21384227e5132"
+  },
+  {
+    "path": "scripts/history/qr_compact_v24.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\qr_compact_v24.py",
+    "bytes": 1965,
+    "sha256": "f4351d9bdbac7c7a3dfcbdbb9ead475f44e0beb0c208158aa79415957f99b2c3"
+  },
+  {
+    "path": "scripts/history/qr_inverse_v25.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\qr_inverse_v25.py",
+    "bytes": 1097,
+    "sha256": "3e73883e4fa815861181f14a11f4de95dc25d559f1eb928a99904be0e8be52f6"
+  },
+  {
+    "path": "scripts/history/quant_hand_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\quant_hand_v35.py",
+    "bytes": 1352,
+    "sha256": "f711921f97fa9a411d397a4ee468683df4b6ba23b0685f41abb6b8c9f75c9752"
+  },
+  {
+    "path": "scripts/history/query_arm_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_arm_v9.py",
+    "bytes": 441,
+    "sha256": "f4c4ef5e18554a81082a65b7841334e51457f1eb12a3905d4b94bb7c8d92138c"
+  },
+  {
+    "path": "scripts/history/query_bag.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_bag.py",
+    "bytes": 751,
+    "sha256": "0a5108ba5e3de31bfbc268442203eedf90f25e5a581a722e4a945e861888f9ca"
+  },
+  {
+    "path": "scripts/history/query_brim_inner_band.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_brim_inner_band.py",
+    "bytes": 1040,
+    "sha256": "71be4d405ad1ae58e9cc7ce2a38d8249ac2e2ce5ad1fdc85f5d79eb96e55e31d"
+  },
+  {
+    "path": "scripts/history/query_brim_right_gap.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_brim_right_gap.py",
+    "bytes": 1042,
+    "sha256": "6650882fb1759ff6cd77f7e82a4e1a38211e174ecfc9ada0056c2b49bbe59452"
+  },
+  {
+    "path": "scripts/history/query_remnant_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_remnant_v8.py",
+    "bytes": 1062,
+    "sha256": "3ddfb91e29ff68ab91e6c674a13ba05a344009f1200cb85e07ba9119a54744c7"
+  },
+  {
+    "path": "scripts/history/query_skirt_view.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_skirt_view.py",
+    "bytes": 775,
+    "sha256": "5bf1fb5abce00ac169f83caa65f7d5a9ec48ed6d2a8df060b9250b9ff335b450"
+  },
+  {
+    "path": "scripts/history/query_strap_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_strap_v9.py",
+    "bytes": 705,
+    "sha256": "b0cdfca37fd99fd319f76464f7a6302e94753536b79044075979230064a48850"
+  },
+  {
+    "path": "scripts/history/query_v6_side_face.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_v6_side_face.py",
+    "bytes": 979,
+    "sha256": "8accd08c2094defbbd49d02a7c5efa161619a41ec990d95ac22cc0d0e4a17717"
+  },
+  {
+    "path": "scripts/history/query_v6_surface_frame.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\query_v6_surface_frame.py",
+    "bytes": 943,
+    "sha256": "5e947d0d96a1f5f31e444042d7f365db998d901f6d55dc4ad6ec5a075d8ca71d"
+  },
+  {
+    "path": "scripts/history/rear_chunky_v6.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\rear_chunky_v6.py",
+    "bytes": 3747,
+    "sha256": "d34d5e8b600f537831b9cf5f4166dd734b120b06ef15eb90080bcb983a7d1efd"
+  },
+  {
+    "path": "scripts/history/rear_chunky_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\rear_chunky_v7.py",
+    "bytes": 3687,
+    "sha256": "342af4425160bee76c8e426e738cb90d7bbee68e8b5aec326c3cf69324fb032f"
+  },
+  {
+    "path": "scripts/history/rear_coarse_bow_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\rear_coarse_bow_v4.py",
+    "bytes": 8074,
+    "sha256": "9f2b6ac3ba3db1253a4267da6330c3f4f9d31da1dca0ad3637f508f6dd1d4b1b"
+  },
+  {
+    "path": "scripts/history/rebuild_both_five_finger_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\rebuild_both_five_finger_hands.py",
+    "bytes": 7452,
+    "sha256": "7a30befab1db8b0cba44eafefb53bb2785b061cd26efbcf61bdb7db311151c4b"
+  },
+  {
+    "path": "scripts/history/redesign_hat_solid_tufts.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\redesign_hat_solid_tufts.py",
+    "bytes": 7887,
+    "sha256": "93f4c1b4fb99036d780e8f2584aaafb9aef88aa52764fd76e85e2f843933781b"
+  },
+  {
+    "path": "scripts/history/refine_back_hair_v37.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_back_hair_v37.py",
+    "bytes": 5745,
+    "sha256": "7c1cc459532ce705d3ed54c5e9d1dd8f2f29ee95a17621e460e3e5b0576f11c1"
+  },
+  {
+    "path": "scripts/history/refine_bag_ear_centres.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_bag_ear_centres.py",
+    "bytes": 1454,
+    "sha256": "086f368500ca0ee06ef25a8a884824a589015fd5a065b0ab2c5ed1c2e18954ba"
+  },
+  {
+    "path": "scripts/history/refine_connected_hand.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_connected_hand.py",
+    "bytes": 2849,
+    "sha256": "5fe55d077ef132c01c8d427ecced92773827e446df955a8d1215b555cb0cfd7c"
+  },
+  {
+    "path": "scripts/history/refine_from_crops_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_from_crops_v5.py",
+    "bytes": 7314,
+    "sha256": "c80bd46ee826e6d43a332c0686fa18bb1a7c8ea80fbf6d9493253e3529ca88de"
+  },
+  {
+    "path": "scripts/history/refine_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_hands.py",
+    "bytes": 7381,
+    "sha256": "d67dbec4c9717248d1178fbf92d9b2951446c04e05de8372eef47b90fb5b5fda"
+  },
+  {
+    "path": "scripts/history/refine_hat_chenille.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_hat_chenille.py",
+    "bytes": 4452,
+    "sha256": "be2f18b14ebff69bb4f0c307a123fb5b6c45f0219bb8ed9af7693e6fed153994"
+  },
+  {
+    "path": "scripts/history/refine_model.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_model.py",
+    "bytes": 4972,
+    "sha256": "93c595901073c0e383ecebbdb5c7f8ddc5cd82e6d95e94c9cb45573c920c93d7"
+  },
+  {
+    "path": "scripts/history/refine_v6_bag_pattern_20261019.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\refine_v6_bag_pattern_20261019.py",
+    "bytes": 4503,
+    "sha256": "3b3ef0a04a52b53a7937cc7cc101f61b05ed98d4072703ed9cf01fc8bc8d9874"
+  },
+  {
+    "path": "scripts/history/reinforce_closures_v36.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\reinforce_closures_v36.py",
+    "bytes": 4058,
+    "sha256": "189781c77533f5b616c2df8e1cc40beaa63d3bdd6dc47572b959785abe0ec2f3"
+  },
+  {
+    "path": "scripts/history/reinforce_print.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\reinforce_print.py",
+    "bytes": 1032,
+    "sha256": "fe28d6ab4ecdb5f9c537ea20856461ae31e5a6f2a57d6b7b0988877fb121dc40"
+  },
+  {
+    "path": "scripts/history/remove_all_bags_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\remove_all_bags_v9.py",
+    "bytes": 6506,
+    "sha256": "2e7b70818f397e521d87b546e421f9a40a0c9323267b4b95e37ea0db7230fabb"
+  },
+  {
+    "path": "scripts/history/remove_old_bag_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\remove_old_bag_v8.py",
+    "bytes": 9285,
+    "sha256": "a1a0afad3566105ea5b50a40a8ef9846be19151cb217846d5056c5b33579fcd7"
+  },
+  {
+    "path": "scripts/history/render_gray_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\render_gray_v5.py",
+    "bytes": 856,
+    "sha256": "3c47987ee317636a843fa00cd4c868e79dc2e18ef978fe897e7c812c42d963d5"
+  },
+  {
+    "path": "scripts/history/render_model.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\render_model.py",
+    "bytes": 2175,
+    "sha256": "2a017d6305452ac1679f0f2387ff9d9b833543acc91eb74efe7fe1446c3b98b7"
+  },
+  {
+    "path": "scripts/history/render_shoes_v34.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\render_shoes_v34.py",
+    "bytes": 2416,
+    "sha256": "7b0e5138e500677eb7aff7d3bce8c597b49acaa8620d695b0312715d8e86366e"
+  },
+  {
+    "path": "scripts/history/render_shoes_v34b.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\render_shoes_v34b.py",
+    "bytes": 2192,
+    "sha256": "4cad3fc4f8dba90ed98a5e5ee317abfb0df6003a02be30aa8d72d5a511f6d114"
+  },
+  {
+    "path": "scripts/history/repackage_seam_viewer.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\repackage_seam_viewer.py",
+    "bytes": 462,
+    "sha256": "3cec92b7e41eb631b1bf2b40e4b3413077bc1be3dc62b26dd9df145b0c9c1613"
+  },
+  {
+    "path": "scripts/history/repair01_skirt.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\repair01_skirt.py",
+    "bytes": 2978,
+    "sha256": "560c637dde9491bdf1aa29f772d34db3c3a778dd2677e67044568d3465c0f4db"
+  },
+  {
+    "path": "scripts/history/repair_local_stages_v36.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\repair_local_stages_v36.py",
+    "bytes": 5815,
+    "sha256": "beacc45b84c1c88dea682368560893fec41e83d6d4e14605efaa52a39cad43c4"
+  },
+  {
+    "path": "scripts/history/replace_bag_csg_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\replace_bag_csg_v8.py",
+    "bytes": 4112,
+    "sha256": "b4f9d7ffdebb335dae6f74d49f9f143d32eea9d76271fd5935eec48deac74c9a"
+  },
+  {
+    "path": "scripts/history/sample_bag_brown.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\sample_bag_brown.py",
+    "bytes": 1101,
+    "sha256": "924f80c537cd6c74cbb348092dec820dc6c789a957d94eda0478d49e1912fbf1"
+  },
+  {
+    "path": "scripts/history/scan_closure_faces.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\scan_closure_faces.py",
+    "bytes": 979,
+    "sha256": "c145a43733178996beb3d756065083f5ac75b6c0c654776ba9b5619e71e5bc15"
+  },
+  {
+    "path": "scripts/history/scan_hand_v35.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\scan_hand_v35.py",
+    "bytes": 1570,
+    "sha256": "ac6df08d9959b26bc3270e65a4370d3198733e8ed5502b241cf0ea4715e7567f"
+  },
+  {
+    "path": "scripts/history/sculpt_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\sculpt_v4.py",
+    "bytes": 4463,
+    "sha256": "32b82caa9472f7e4e6967d16bed3f3dec528a485a58033d2dd3ee500c87d3563"
+  },
+  {
+    "path": "scripts/history/shoes_refine_v16.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoes_refine_v16.py",
+    "bytes": 4205,
+    "sha256": "b1957054c219f0d5168c757528ee5e184c24011f22f37f3110d29aea3ae69c1e"
+  },
+  {
+    "path": "scripts/history/shoot_compare_v33.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_compare_v33.cjs",
+    "bytes": 1889,
+    "sha256": "50740b8d583ed057930305d69f530575ac0c2f8868dabec607d663887ba4a057"
+  },
+  {
+    "path": "scripts/history/shoot_feet_before.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_feet_before.cjs",
+    "bytes": 1522,
+    "sha256": "83d5d2055f3820336e13f9a95ef56dcb8cf9a1c271862daa12f0eedce25c35fb"
+  },
+  {
+    "path": "scripts/history/shoot_nose_v33.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_nose_v33.cjs",
+    "bytes": 1494,
+    "sha256": "b9b87eadee1a29ed7b69a061ac43c8f495f3546fc8af9591df4332edfcf27526"
+  },
+  {
+    "path": "scripts/history/shoot_v34_shoes.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_v34_shoes.cjs",
+    "bytes": 1524,
+    "sha256": "5e4cd535f683d30a5949b4330fce761e76978a93b272bd989bce0225ab30822e"
+  },
+  {
+    "path": "scripts/history/shoot_v35_hands.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_v35_hands.cjs",
+    "bytes": 1678,
+    "sha256": "f3da17fbc0ccc1637ba16144359886ddd7fde268b64af040b3e9e0f6a6e57d8b"
+  },
+  {
+    "path": "scripts/history/shoot_v35_shoes.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\shoot_v35_shoes.cjs",
+    "bytes": 1551,
+    "sha256": "36ef4641cad277c25d5a0497f58b220ab00cf5594b7802d82fcd545cfcdfc855"
+  },
+  {
+    "path": "scripts/history/side_chunky_v9.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\side_chunky_v9.py",
+    "bytes": 3748,
+    "sha256": "bbd8f30d0c87a034157fef78fa71c1befec05fe77eccd2bd17813769e2f8b251"
+  },
+  {
+    "path": "scripts/history/slim_hair_before_v38.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\slim_hair_before_v38.cjs",
+    "bytes": 1751,
+    "sha256": "7cb6b96287a310ef66b15c0b6f8cd1cab87e7ca67d8f0786a47aea7e7bb84253"
+  },
+  {
+    "path": "scripts/history/slim_hair_locks_v38.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\slim_hair_locks_v38.py",
+    "bytes": 8048,
+    "sha256": "a96b07ba62d4d0515c17dd30d8c12f07acd6b9898651bf677f15c8104e484ba4"
+  },
+  {
+    "path": "scripts/history/split_references.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\split_references.py",
+    "bytes": 17363,
+    "sha256": "babe8a51190552f6ff8c67eea5f0cb44094039e0211a92219310e4eb21603508"
+  },
+  {
+    "path": "scripts/history/stars_round_v14.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\stars_round_v14.py",
+    "bytes": 4153,
+    "sha256": "d5e4c35bc065302eb72e6df3e9bd3642b4cc1e5ab096924cccbde9870cc87787"
+  },
+  {
+    "path": "scripts/history/test_qr_renders.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_renders.py",
+    "bytes": 649,
+    "sha256": "b387366aa1687e394db509fbc46723cedcb6529d872b82378c6e491b80a08658"
+  },
+  {
+    "path": "scripts/history/test_qr_v21.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_v21.py",
+    "bytes": 653,
+    "sha256": "d181c7a930c6d6a35deccd7762da8a46fd8d40b55bc9413a099c09fac02db039"
+  },
+  {
+    "path": "scripts/history/test_qr_v22.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_v22.py",
+    "bytes": 653,
+    "sha256": "63b877493ec0132b2be3e067dd25ad197aa8bc1437c75e260505b1453b5e7ba8"
+  },
+  {
+    "path": "scripts/history/test_qr_v23.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_v23.py",
+    "bytes": 653,
+    "sha256": "f1e1ba8845fe0f2c35a4c66e24243033ad668eb1146eb9d88846555701ea7704"
+  },
+  {
+    "path": "scripts/history/test_qr_v24.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_v24.py",
+    "bytes": 653,
+    "sha256": "a5a9c013fb2d92d85bd26e683f68f4b849f69fef8004129f2211ed4fc5ea6c24"
+  },
+  {
+    "path": "scripts/history/test_qr_v25.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\test_qr_v25.py",
+    "bytes": 818,
+    "sha256": "d6afb4a221debba0ee45113226259e6090d4c5d8ee8843a43bad4d72dec969fc"
+  },
+  {
+    "path": "scripts/history/thicken_hat_yarn.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\thicken_hat_yarn.py",
+    "bytes": 4453,
+    "sha256": "9bd93dc428ad3dd336ca87c5341f1d59322983d7315b97b3f895722ee8953cea"
+  },
+  {
+    "path": "scripts/history/transplant_natural_web_patch.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\transplant_natural_web_patch.py",
+    "bytes": 3752,
+    "sha256": "f938984fb216b487fa54d4b3982077887dd0551f9b5f80f766e9feecd4dc52a0"
+  },
+  {
+    "path": "scripts/history/try_narrow_finger_gaps.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\try_narrow_finger_gaps.py",
+    "bytes": 5991,
+    "sha256": "d21c0c3afcdfbd6537397495094e2c80f8b467a2cd09e17c3c3341a53522edd2"
+  },
+  {
+    "path": "scripts/history/t_enc.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\t_enc.py",
+    "bytes": 232,
+    "sha256": "51111019553069662b6849b72da839037b7dabeee2cdbefeea2c62dee9112980"
+  },
+  {
+    "path": "scripts/history/t_probe.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\t_probe.py",
+    "bytes": 390,
+    "sha256": "29ae45f90ca0ebe6c9b125863e824db2a7905cc5b2ee964e3da82ea3e2b603c9"
+  },
+  {
+    "path": "scripts/history/unify_bag_color.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\unify_bag_color.py",
+    "bytes": 3865,
+    "sha256": "e8f3aec2a40ae19c6203e80ac35b7fa4b1969149a6a31919cdd06f07c2b9462b"
+  },
+  {
+    "path": "scripts/history/unify_bag_color_rim.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\unify_bag_color_rim.py",
+    "bytes": 4464,
+    "sha256": "02da2ec3708c2e62f2d50ec3a1d3fb41f1af534a4d5b26343bafad22284502e6"
+  },
+  {
+    "path": "scripts/history/validate_v10.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\validate_v10.py",
+    "bytes": 448,
+    "sha256": "51f11a4acf1b68020991663e1773b17e5b5b6798827fc8f0bf88fd1c757b549c"
+  },
+  {
+    "path": "scripts/history/verify_back_hair_v37.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_back_hair_v37.cjs",
+    "bytes": 2839,
+    "sha256": "84751a6fa65e31ec0a911aeb1483c0ca2aeca37d0f12239868686364ed6dab10"
+  },
+  {
+    "path": "scripts/history/verify_bag_vertical_centre.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_bag_vertical_centre.py",
+    "bytes": 2503,
+    "sha256": "e2ff436b9c321bae2a209d715f535cdcdc808895104ec893e55253b2f354407b"
+  },
+  {
+    "path": "scripts/history/verify_both_five_finger_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_both_five_finger_hands.py",
+    "bytes": 4064,
+    "sha256": "2e04f4716de8b6683b626a544f285b93eef75ba274ec21358e67b96a6562f3b8"
+  },
+  {
+    "path": "scripts/history/verify_bow_v11.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_bow_v11.py",
+    "bytes": 1395,
+    "sha256": "241d938c0699e324bb00b97ba4450ebe5d6516bef1a84d0c977ff8afbe81422d"
+  },
+  {
+    "path": "scripts/history/verify_bow_v13.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_bow_v13.py",
+    "bytes": 1403,
+    "sha256": "10f4cb080a553a0499e86a32ac3c8d61116f746acf8437ab588b6abd4338a765"
+  },
+  {
+    "path": "scripts/history/verify_browser_v36.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_browser_v36.cjs",
+    "bytes": 2306,
+    "sha256": "629958b35fe076cecb42bf744322401811664c24ac03c313675a3663881a7e34"
+  },
+  {
+    "path": "scripts/history/verify_character_v12.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_character_v12.py",
+    "bytes": 933,
+    "sha256": "a09cbe8672dbae34d514212cdeabacb46853a891797a9fd1c55b623946dcc543"
+  },
+  {
+    "path": "scripts/history/verify_ear_aligned_bag.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_ear_aligned_bag.py",
+    "bytes": 2467,
+    "sha256": "2dcce2c0bdc380b9db13d559e267f20fe797f1ce931b9af904158fa24bba4046"
+  },
+  {
+    "path": "scripts/history/verify_hat_full.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_full.py",
+    "bytes": 982,
+    "sha256": "bf0dabb0b7c961774967305c367e8b9572be14f569e85ffeef9c200ebcd184e3"
+  },
+  {
+    "path": "scripts/history/verify_hat_full_final.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_full_final.py",
+    "bytes": 1313,
+    "sha256": "1d1388c35ef8cbc3d7cc4782c2e9305ecd9c9914aa66f722620a9d9b30d43354"
+  },
+  {
+    "path": "scripts/history/verify_hat_preserved.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_preserved.py",
+    "bytes": 967,
+    "sha256": "4813df2d738f4f93939be0c6e6ee3f011f0aceff36c84a02415b63ba02677b70"
+  },
+  {
+    "path": "scripts/history/verify_hat_redesigned.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_redesigned.py",
+    "bytes": 982,
+    "sha256": "d71f083d57bcc5b648302e6d989b79684fb9aebeb744820e9e4c1b68bf16b8c5"
+  },
+  {
+    "path": "scripts/history/verify_hat_sidefill.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_sidefill.py",
+    "bytes": 1319,
+    "sha256": "4232ba10e11ab649b2ea5da11fdbad2cd608457cb7dbc225546ea88dfcdc4a52"
+  },
+  {
+    "path": "scripts/history/verify_hat_thicker.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_thicker.py",
+    "bytes": 976,
+    "sha256": "67e971f31e3266685618e6d9ee2f1c09d25463caa945de36a42e7fa6fc1322f4"
+  },
+  {
+    "path": "scripts/history/verify_hat_thick_v2.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_thick_v2.py",
+    "bytes": 1313,
+    "sha256": "b73f4918484314f9df146f191288a4f79fd51421bc86c801d4e75889d6f94a47"
+  },
+  {
+    "path": "scripts/history/verify_hat_v3.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_hat_v3.py",
+    "bytes": 1313,
+    "sha256": "05f94ce08f02a4f8c3d31fed3db31055c6b4f32f9c8c55e403cf6d84fb2cbc80"
+  },
+  {
+    "path": "scripts/history/verify_inset_v23.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_inset_v23.py",
+    "bytes": 819,
+    "sha256": "fa5d68e3ebf62e37f53bebec88a559dd67f5646506b6d7cf381784a21e0d5dee"
+  },
+  {
+    "path": "scripts/history/verify_narrow_finger_gaps.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_narrow_finger_gaps.py",
+    "bytes": 2027,
+    "sha256": "2b8ad81d2dad3f7e9e72c9d26f9dfc61a5a6041e4f1968fffccbe9a2b2e83eb5"
+  },
+  {
+    "path": "scripts/history/verify_natural_finger_webs.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_natural_finger_webs.py",
+    "bytes": 2030,
+    "sha256": "704d092445a202e61d491cea6ae098f41a8fd59434f050875f709ec4dd0c4964"
+  },
+  {
+    "path": "scripts/history/verify_natural_web_surfaces.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_natural_web_surfaces.py",
+    "bytes": 3368,
+    "sha256": "6e11f3ce96ff16ab3759eba1c97c0aa368be3231d9d8610ec3454846c72c1961"
+  },
+  {
+    "path": "scripts/history/verify_print.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_print.py",
+    "bytes": 895,
+    "sha256": "194651b349ba0e09ba01c7620ad226a772113e7ab3399a5d1fa163fb68b38a37"
+  },
+  {
+    "path": "scripts/history/verify_rear_bow_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_rear_bow_v4.py",
+    "bytes": 1647,
+    "sha256": "954ef6bc665e91fbcd33f686f0ebd0e99b206d000792573ad379e46d7fc0bddd"
+  },
+  {
+    "path": "scripts/history/verify_refined_hands.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_refined_hands.py",
+    "bytes": 2013,
+    "sha256": "581adaab2ec07232622d468d3ac63abbcceccc22e3ce8e231e38819d81b8ac7d"
+  },
+  {
+    "path": "scripts/history/verify_slim_hair_v38.cjs",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_slim_hair_v38.cjs",
+    "bytes": 2892,
+    "sha256": "c791debebb56c5ffced82c65d9388ddf49e6c4682018aae02f1439eddeffc198"
+  },
+  {
+    "path": "scripts/history/verify_true_side_bag.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_true_side_bag.py",
+    "bytes": 1701,
+    "sha256": "1ad6c998b057795391cb012ae08c9ff19174917f65efd2cd12e0a26f8fe2c85e"
+  },
+  {
+    "path": "scripts/history/verify_uniform_color.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_uniform_color.py",
+    "bytes": 1116,
+    "sha256": "a7cbf402eaca80ebfd601c32699a0a43c2b1fcd374e830cdb3991c9a53d92eb2"
+  },
+  {
+    "path": "scripts/history/verify_v4.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_v4.py",
+    "bytes": 258,
+    "sha256": "8410883e98d77e5ed6bdd8dcc8aabb710ed8dad5bed67858036eae58399cfea8"
+  },
+  {
+    "path": "scripts/history/verify_v5.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_v5.py",
+    "bytes": 196,
+    "sha256": "56eeec7a759d9cff9251d81ed70b68b14ed5eaaea5539378bd100e91d54910c4"
+  },
+  {
+    "path": "scripts/history/verify_v6_surface_points.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_v6_surface_points.py",
+    "bytes": 1691,
+    "sha256": "b831359088610247f2f092aebe7a73364206577cb8597bd0939cb2f5142be5a2"
+  },
+  {
+    "path": "scripts/history/verify_v7.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_v7.py",
+    "bytes": 193,
+    "sha256": "9d80a7da4a1f2056b8bf4bcdae1b32724041e85b354bc0a620cb9d05ebeef3fd"
+  },
+  {
+    "path": "scripts/history/verify_v8.py",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\verify_v8.py",
+    "bytes": 193,
+    "sha256": "91b27c0566987a81deb6337a86b3844bc0b77d90d237f321ca1cde63a5c38ac5"
+  },
+  {
+    "path": "scripts/history/VIEWER_REQUIREMENTS.md",
+    "source": "C:\\Users\\ASUS\\Documents\\ChatGPT\\birth-album-maker\\models\\rebuild\\VIEWER_REQUIREMENTS.md",
+    "bytes": 871,
+    "sha256": "2d6a79194364517da595b1df75bf46458bc9580cbe1c2f1b761a0d161eb74b16"
+  }
+]

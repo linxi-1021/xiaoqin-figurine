@@ -1,0 +1,1706 @@
+[
+  {
+    "directory": "3D重建_v6基础_两侧粗绒衔接_v9_20261021",
+    "files": [
+      {
+        "name": "两侧厚度衔接校验.json",
+        "bytes": 217
+      },
+      {
+        "name": "小秦_v6两侧粗绒衔接.blend",
+        "bytes": 81532916
+      },
+      {
+        "name": "小秦_v6两侧粗绒衔接.glb",
+        "bytes": 94422940
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_二维码反色试验_v25_20261021",
+    "files": [
+      {
+        "name": "反色参数.json",
+        "bytes": 113
+      },
+      {
+        "name": "反色识别兼容性验证.json",
+        "bytes": 1264
+      },
+      {
+        "name": "小秦_v6二维码反色试验.blend",
+        "bytes": 83610100
+      },
+      {
+        "name": "小秦_v6二维码反色试验.glb",
+        "bytes": 100456188
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_二维码紧凑留白_v24_20261021",
+    "files": [
+      {
+        "name": "小秦_v6二维码紧凑留白.blend",
+        "bytes": 83610047
+      },
+      {
+        "name": "小秦_v6二维码紧凑留白.glb",
+        "bytes": 100456188
+      },
+      {
+        "name": "最终二维码识别验证.json",
+        "bytes": 898
+      },
+      {
+        "name": "紧凑留白校验.json",
+        "bytes": 238
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_五处局部收口_v36_20261025",
+    "files": [
+      {
+        "name": "几何校验.json",
+        "bytes": 10068
+      },
+      {
+        "name": "小秦_v36五处局部收口.glb",
+        "bytes": 99003792
+      },
+      {
+        "name": "小秦_v36五处局部收口_待验收.blend",
+        "bytes": 81201097
+      },
+      {
+        "name": "浏览器与数据校验.json",
+        "bytes": 468
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_保留手形窄指缝试修_20261020",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "小秦_v6保留手形窄指缝.blend",
+        "bytes": 42513839
+      },
+      {
+        "name": "小秦_v6保留手形窄指缝.glb",
+        "bytes": 19386696
+      },
+      {
+        "name": "指缝试修校验.json",
+        "bytes": 524
+      },
+      {
+        "name": "非指缝区域独立校验.json",
+        "bytes": 212
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_全部星饰圆润统一_v14_20261021",
+    "files": [
+      {
+        "name": "小秦_v6全部星饰圆润统一.blend",
+        "bytes": 82135103
+      },
+      {
+        "name": "小秦_v6全部星饰圆润统一.glb",
+        "bytes": 94987420
+      },
+      {
+        "name": "星饰校验.json",
+        "bytes": 392
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_前后帽统一粗绒_v8_20261021",
+    "files": [
+      {
+        "name": "前后粗绒统一校验.json",
+        "bytes": 273
+      },
+      {
+        "name": "小秦_v6前后统一粗绒.blend",
+        "bytes": 85631702
+      },
+      {
+        "name": "小秦_v6前后统一粗绒.glb",
+        "bytes": 100130256
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_前星星发夹修正_20261020",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "小秦_v6前星星发夹修正.blend",
+        "bytes": 43780290
+      },
+      {
+        "name": "小秦_v6前星星发夹修正.glb",
+        "bytes": 45267648
+      },
+      {
+        "name": "星星修正校验.json",
+        "bytes": 407
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_包耳基准对齐_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "ear_landmarks.json",
+        "bytes": 1056
+      },
+      {
+        "name": "ear_landmarks_initial.json",
+        "bytes": 967
+      },
+      {
+        "name": "小秦_v6双耳基准校正.blend",
+        "bytes": 41687511
+      },
+      {
+        "name": "小秦_v6双耳基准校正.glb",
+        "bytes": 16953712
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4052
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_包脸上下居中_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "ear_landmarks.json",
+        "bytes": 1056
+      },
+      {
+        "name": "上移参数.json",
+        "bytes": 165
+      },
+      {
+        "name": "小秦_v6包脸上下居中.blend",
+        "bytes": 41667143
+      },
+      {
+        "name": "小秦_v6包脸上下居中.glb",
+        "bytes": 16954968
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4178
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_包身材质接缝修复_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "候选三角面.json",
+        "bytes": 7837950
+      },
+      {
+        "name": "小秦_v6包身材质接缝修复.blend",
+        "bytes": 42495070
+      },
+      {
+        "name": "小秦_v6包身材质接缝修复.glb",
+        "bytes": 19392608
+      },
+      {
+        "name": "材质修改校验.json",
+        "bytes": 417
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4178
+      },
+      {
+        "name": "贴图局部修改校验.json",
+        "bytes": 153
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_包面匹配原棕色_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 588
+      },
+      {
+        "name": "小秦_v6包面匹配原棕色.blend",
+        "bytes": 38749291
+      },
+      {
+        "name": "小秦_v6包面匹配原棕色.glb",
+        "bytes": 15572008
+      },
+      {
+        "name": "材质修改校验.json",
+        "bytes": 304
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4178
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_包面空间投影修正_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 518
+      },
+      {
+        "name": "小秦_v6包面空间修正.blend",
+        "bytes": 41636135
+      },
+      {
+        "name": "小秦_v6包面空间修正.glb",
+        "bytes": 16282724
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 2646
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_双手五指重建_20261019",
+    "files": [
+      {
+        "name": "additional-raised-skin-charts.json",
+        "bytes": 61
+      },
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "chart-seeds.json",
+        "bytes": 811
+      },
+      {
+        "name": "uv-chart-summary.json",
+        "bytes": 2202
+      },
+      {
+        "name": "五指投影检查点.json",
+        "bytes": 1269
+      },
+      {
+        "name": "双手独立结构校验.json",
+        "bytes": 578
+      },
+      {
+        "name": "双手结构记录.json",
+        "bytes": 124469
+      },
+      {
+        "name": "小秦_v6双手五指重建.blend",
+        "bytes": 42501108
+      },
+      {
+        "name": "小秦_v6双手五指重建.glb",
+        "bytes": 19370580
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_反色底座祝福语_v26_20261021",
+    "files": [
+      {
+        "name": "小秦_v6反色底座祝福语.blend",
+        "bytes": 84180819
+      },
+      {
+        "name": "小秦_v6反色底座祝福语.glb",
+        "bytes": 101531652
+      },
+      {
+        "name": "祝福语校验.json",
+        "bytes": 225
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_发束细雕_v15_20261021",
+    "files": [
+      {
+        "name": "头发细雕校验.json",
+        "bytes": 208
+      },
+      {
+        "name": "小秦_v6发束细雕.blend",
+        "bytes": 82142136
+      },
+      {
+        "name": "小秦_v6发束细雕.glb",
+        "bytes": 95078504
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_右耳残留绒毛清理_v33_20261025",
+    "files": [
+      {
+        "name": "小秦_v6右耳残留绒毛清理.blend",
+        "bytes": 80948448
+      },
+      {
+        "name": "小秦_v6右耳残留绒毛清理.glb",
+        "bytes": 98601820
+      },
+      {
+        "name": "帽绒越界清理校验.json",
+        "bytes": 139
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_后帽再加粗减密_v6_20261021",
+    "files": [
+      {
+        "name": "后帽粗绒校验.json",
+        "bytes": 261
+      },
+      {
+        "name": "小秦_v6后帽再加粗减密.blend",
+        "bytes": 117774130
+      },
+      {
+        "name": "小秦_v6后帽再加粗减密.glb",
+        "bytes": 148456508
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_后帽加粗100_v7_20261021",
+    "files": [
+      {
+        "name": "后帽粗绒校验.json",
+        "bytes": 259
+      },
+      {
+        "name": "小秦_v6后帽加粗100.blend",
+        "bytes": 117790986
+      },
+      {
+        "name": "小秦_v6后帽加粗100.glb",
+        "bytes": 148456512
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_后帽粗绒浮贴蝴蝶结_v4_20261020",
+    "files": [
+      {
+        "name": "后帽与蝴蝶结校验.json",
+        "bytes": 716
+      },
+      {
+        "name": "小秦_v6后帽粗绒浮贴蝴蝶结_v4.blend",
+        "bytes": 134994187
+      },
+      {
+        "name": "小秦_v6后帽粗绒浮贴蝴蝶结_v4.glb",
+        "bytes": 173400724
+      },
+      {
+        "name": "独立保留校验.json",
+        "bytes": 493
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_后背波浪细发束_v37_20261025",
+    "files": [
+      {
+        "name": "后发细化校验.json",
+        "bytes": 630
+      },
+      {
+        "name": "小秦_v37后背波浪细发束.blend",
+        "bytes": 81417181
+      },
+      {
+        "name": "小秦_v37后背波浪细发束.glb",
+        "bytes": 99003792
+      },
+      {
+        "name": "浏览器与数据校验.json",
+        "bytes": 468
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_后背粗发束收细_v38_20261026",
+    "files": [
+      {
+        "name": "实际发束收细校验.json",
+        "bytes": 2655
+      },
+      {
+        "name": "小秦_v38后背粗发束收细.blend",
+        "bytes": 83531006
+      },
+      {
+        "name": "小秦_v38后背粗发束收细.glb",
+        "bytes": 99003788
+      },
+      {
+        "name": "浏览器与数据校验.json",
+        "bytes": 468
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_四指并拢保留长短_20261020",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "小秦_v6四指并拢.blend",
+        "bytes": 42501108
+      },
+      {
+        "name": "小秦_v6四指并拢.glb",
+        "bytes": 19370580
+      },
+      {
+        "name": "恢复与校验.json",
+        "bytes": 823
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_小熊包图案细修_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 378
+      },
+      {
+        "name": "包面修改与保留校验.json",
+        "bytes": 4729
+      },
+      {
+        "name": "导出复核.json",
+        "bytes": 790
+      },
+      {
+        "name": "小秦_v6包面细修.blend",
+        "bytes": 34057229
+      },
+      {
+        "name": "小秦_v6包面细修.glb",
+        "bytes": 14809908
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_小熊包统一底色_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 588
+      },
+      {
+        "name": "小秦_v6小熊包统一底色.blend",
+        "bytes": 40768135
+      },
+      {
+        "name": "小秦_v6小熊包统一底色.glb",
+        "bytes": 15572008
+      },
+      {
+        "name": "材质修改校验.json",
+        "bytes": 371
+      },
+      {
+        "name": "独立几何校验.json",
+        "bytes": 105
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4178
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_帽檐上部补绒_v10_20261021",
+    "files": [
+      {
+        "name": "小秦_v6帽檐上部补绒.blend",
+        "bytes": 82112983
+      },
+      {
+        "name": "小秦_v6帽檐上部补绒.glb",
+        "bytes": 94939032
+      },
+      {
+        "name": "帽檐补绒校验.json",
+        "bytes": 139
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_帽绒耳旁防穿模_v32_20261025",
+    "files": [
+      {
+        "name": "小秦_v6帽绒耳旁防穿模.blend",
+        "bytes": 81666924
+      },
+      {
+        "name": "小秦_v6帽绒耳旁防穿模.glb",
+        "bytes": 99595948
+      },
+      {
+        "name": "帽绒越界清理校验.json",
+        "bytes": 138
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底座净色_v17_20261021",
+    "files": [
+      {
+        "name": "小秦_v6底座净色.blend",
+        "bytes": 82147216
+      },
+      {
+        "name": "小秦_v6底座净色.glb",
+        "bytes": 96513776
+      },
+      {
+        "name": "底座净色校验.json",
+        "bytes": 316
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底座匹配肤色_v19_20261021",
+    "files": [
+      {
+        "name": "小秦_v6底座匹配肤色.blend",
+        "bytes": 82146492
+      },
+      {
+        "name": "小秦_v6底座匹配肤色.glb",
+        "bytes": 96513776
+      },
+      {
+        "name": "肤色取样校验.json",
+        "bytes": 242
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底座暖灰褐_v18_20261021",
+    "files": [
+      {
+        "name": "小秦_v6底座暖灰褐.blend",
+        "bytes": 82146846
+      },
+      {
+        "name": "小秦_v6底座暖灰褐.glb",
+        "bytes": 96513776
+      },
+      {
+        "name": "底座色彩说明.json",
+        "bytes": 59
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底面刻字二维码_v20_20261021",
+    "files": [
+      {
+        "name": "刻字二维码参数.json",
+        "bytes": 451
+      },
+      {
+        "name": "小秦_v6底面刻字二维码.blend",
+        "bytes": 82555657
+      },
+      {
+        "name": "小秦_v6底面刻字二维码.glb",
+        "bytes": 97480856
+      },
+      {
+        "name": "来源二维码识别验证.json",
+        "bytes": 391
+      },
+      {
+        "name": "渲染二维码识别验证.json",
+        "bytes": 898
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底面留白收敛_v22_20261021",
+    "files": [
+      {
+        "name": "二维码识别验证.json",
+        "bytes": 898
+      },
+      {
+        "name": "小秦_v6底面留白收敛.blend",
+        "bytes": 82232619
+      },
+      {
+        "name": "小秦_v6底面留白收敛.glb",
+        "bytes": 97370812
+      },
+      {
+        "name": "底面配色说明.json",
+        "bytes": 164
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底面融合字槽修复_v23_20261021",
+    "files": [
+      {
+        "name": "字槽与配色修复.json",
+        "bytes": 319
+      },
+      {
+        "name": "小秦_v6底面融合字槽修复.blend",
+        "bytes": 83607776
+      },
+      {
+        "name": "小秦_v6底面融合字槽修复.glb",
+        "bytes": 100454108
+      },
+      {
+        "name": "底面网格校验.json",
+        "bytes": 388
+      },
+      {
+        "name": "最终二维码识别验证.json",
+        "bytes": 898
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_底面齐平镶嵌_v21_20261021",
+    "files": [
+      {
+        "name": "小秦_v6底面齐平镶嵌.blend",
+        "bytes": 82233070
+      },
+      {
+        "name": "小秦_v6底面齐平镶嵌.glb",
+        "bytes": 97370812
+      },
+      {
+        "name": "嵌入后二维码识别验证.json",
+        "bytes": 898
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      },
+      {
+        "name": "齐平镶嵌校验.json",
+        "bytes": 493
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_手部精修_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "hand-connected-work.blend",
+        "bytes": 42522730
+      },
+      {
+        "name": "hand-surface-points.json",
+        "bytes": 611752
+      },
+      {
+        "name": "hand-texture-faces.json",
+        "bytes": 2905424
+      },
+      {
+        "name": "小秦_v6手部精修.blend",
+        "bytes": 42501108
+      },
+      {
+        "name": "小秦_v6手部精修.glb",
+        "bytes": 19370580
+      },
+      {
+        "name": "手部修改报告.json",
+        "bytes": 403
+      },
+      {
+        "name": "手部独立校验.json",
+        "bytes": 273
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_按人物侧面校正包脸_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 682
+      },
+      {
+        "name": "小秦_v6侧面包脸校正.blend",
+        "bytes": 41698823
+      },
+      {
+        "name": "小秦_v6侧面包脸校正.glb",
+        "bytes": 16957436
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 2955
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_柔和圆角底座_v31_20261022",
+    "files": [
+      {
+        "name": "圆柱与嵌件校验.json",
+        "bytes": 839
+      },
+      {
+        "name": "小秦_v6柔和圆角底座.blend",
+        "bytes": 83254512
+      },
+      {
+        "name": "小秦_v6柔和圆角底座.glb",
+        "bytes": 100846196
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_柔褶蝴蝶结圆润星_v13_20261021",
+    "files": [
+      {
+        "name": "小秦_v6柔褶蝴蝶结圆润星.blend",
+        "bytes": 82121705
+      },
+      {
+        "name": "小秦_v6柔褶蝴蝶结圆润星.glb",
+        "bytes": 94989776
+      },
+      {
+        "name": "本版说明.json",
+        "bytes": 317
+      },
+      {
+        "name": "独立网格校验.json",
+        "bytes": 914
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_毛衣针织包面_20261019",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "小秦_v6毛衣针织包面.blend",
+        "bytes": 39432091
+      },
+      {
+        "name": "小秦_v6毛衣针织包面.glb",
+        "bytes": 16328204
+      },
+      {
+        "name": "服装采样点.json",
+        "bytes": 3597
+      },
+      {
+        "name": "材质修改校验.json",
+        "bytes": 358
+      },
+      {
+        "name": "表面坐标与投影校验.json",
+        "bytes": 4178
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽全覆盖加粗_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 459
+      },
+      {
+        "name": "小秦_v6熊帽全覆盖加粗.blend",
+        "bytes": 140716870
+      },
+      {
+        "name": "小秦_v6熊帽全覆盖加粗.glb",
+        "bytes": 181747328
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 153
+      },
+      {
+        "name": "簇绒重设计校验.json",
+        "bytes": 990
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽厚绒补边_v2_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 459
+      },
+      {
+        "name": "小秦_v6熊帽厚绒补边_v2.blend",
+        "bytes": 164521084
+      },
+      {
+        "name": "小秦_v6熊帽厚绒补边_v2.glb",
+        "bytes": 215298532
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 153
+      },
+      {
+        "name": "簇绒重设计校验.json",
+        "bytes": 1264
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽双侧补绒加厚_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 459
+      },
+      {
+        "name": "小秦_v6熊帽双侧补绒加厚.blend",
+        "bytes": 147071765
+      },
+      {
+        "name": "小秦_v6熊帽双侧补绒加厚.glb",
+        "bytes": 190897952
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 153
+      },
+      {
+        "name": "簇绒重设计校验.json",
+        "bytes": 1286
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽檐下包绒_v3_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 459
+      },
+      {
+        "name": "小秦_v6熊帽檐下包绒_v3.blend",
+        "bytes": 169782696
+      },
+      {
+        "name": "小秦_v6熊帽檐下包绒_v3.glb",
+        "bytes": 222897304
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 153
+      },
+      {
+        "name": "簇绒重设计校验.json",
+        "bytes": 1270
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽毛线加粗_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 146
+      },
+      {
+        "name": "小秦_v6熊帽毛线加粗.blend",
+        "bytes": 123405404
+      },
+      {
+        "name": "小秦_v6熊帽毛线加粗.glb",
+        "bytes": 170149648
+      },
+      {
+        "name": "帽子绒线校验.json",
+        "bytes": 435
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 104
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽簇绒重设计_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 459
+      },
+      {
+        "name": "小秦_v6熊帽簇绒重设计.blend",
+        "bytes": 111776143
+      },
+      {
+        "name": "小秦_v6熊帽簇绒重设计.glb",
+        "bytes": 138462448
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 153
+      },
+      {
+        "name": "簇绒重设计校验.json",
+        "bytes": 240
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊帽绒线细化_20261020",
+    "files": [
+      {
+        "name": "原模型保留校验.json",
+        "bytes": 146
+      },
+      {
+        "name": "小秦_v6熊帽绒线细化.blend",
+        "bytes": 123375991
+      },
+      {
+        "name": "小秦_v6熊帽绒线细化.glb",
+        "bytes": 170149648
+      },
+      {
+        "name": "帽子绒线校验.json",
+        "bytes": 343
+      },
+      {
+        "name": "浏览器高清模型校验.json",
+        "bytes": 104
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊耳分色粗绒_v5_20261020",
+    "files": [
+      {
+        "name": "小秦_v6熊耳分色粗绒_v5.blend",
+        "bytes": 91933377
+      },
+      {
+        "name": "小秦_v6熊耳分色粗绒_v5.glb",
+        "bytes": 107850824
+      },
+      {
+        "name": "熊耳修正校验.json",
+        "bytes": 326
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_熊耳分色粗绒_v5_20261021",
+    "files": [
+      {
+        "name": "小秦_v6熊耳分色粗绒_v5.blend",
+        "bytes": 126467174
+      },
+      {
+        "name": "小秦_v6熊耳分色粗绒_v5.glb",
+        "bytes": 160407508
+      },
+      {
+        "name": "熊耳分色粗绒校验.json",
+        "bytes": 288
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_祝福语上移放大_v27_20261021",
+    "files": [
+      {
+        "name": "小秦_v6祝福语上移放大.blend",
+        "bytes": 84153542
+      },
+      {
+        "name": "小秦_v6祝福语上移放大.glb",
+        "bytes": 101536704
+      },
+      {
+        "name": "祝福语校验.json",
+        "bytes": 301
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_祝福语右移_v29_20261021",
+    "files": [
+      {
+        "name": "小秦_v6祝福语右移.blend",
+        "bytes": 84146438
+      },
+      {
+        "name": "小秦_v6祝福语右移.glb",
+        "bytes": 101533188
+      },
+      {
+        "name": "祝福语校验.json",
+        "bytes": 322
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_祝福语微右移_v29_20261021",
+    "files": [
+      {
+        "name": "小秦_v6祝福语微右移.blend",
+        "bytes": 84141624
+      },
+      {
+        "name": "小秦_v6祝福语微右移.glb",
+        "bytes": 101533140
+      },
+      {
+        "name": "祝福语校验.json",
+        "bytes": 352
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_祝福语紧贴码下居中_v28_20261021",
+    "files": [
+      {
+        "name": "小秦_v6祝福语紧贴码下居中.blend",
+        "bytes": 84177343
+      },
+      {
+        "name": "小秦_v6祝福语紧贴码下居中.glb",
+        "bytes": 101532996
+      },
+      {
+        "name": "祝福语校验.json",
+        "bytes": 321
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_背包鞋镜框重建_v34_20261025",
+    "files": [
+      {
+        "name": "小秦_v6背包鞋镜框重建.blend",
+        "bytes": 80962640
+      },
+      {
+        "name": "小秦_v6背包鞋镜框重建.glb",
+        "bytes": 98642016
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 207
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_自然弧形指缝_20261020",
+    "files": [
+      {
+        "name": "browser-check.json",
+        "bytes": 752
+      },
+      {
+        "name": "小秦_v6自然弧形指缝.blend",
+        "bytes": 49126988
+      },
+      {
+        "name": "小秦_v6自然弧形指缝.glb",
+        "bytes": 19392040
+      },
+      {
+        "name": "局部回填校验.json",
+        "bytes": 365
+      },
+      {
+        "name": "指缝试修校验.json",
+        "bytes": 1145
+      },
+      {
+        "name": "非指缝区域独立校验.json",
+        "bytes": 212
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_蝴蝶结吊星结构精修_v11_20261021",
+    "files": [
+      {
+        "name": "小秦_v6蝴蝶结吊星结构精修.blend",
+        "bytes": 82096391
+      },
+      {
+        "name": "小秦_v6蝴蝶结吊星结构精修.glb",
+        "bytes": 94976692
+      },
+      {
+        "name": "独立网格校验.json",
+        "bytes": 1021
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      },
+      {
+        "name": "配饰结构校验.json",
+        "bytes": 452
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_装饰贴帽修正_v12_20261021",
+    "files": [
+      {
+        "name": "小秦_v6装饰贴帽修正.blend",
+        "bytes": 82109869
+      },
+      {
+        "name": "小秦_v6装饰贴帽修正.glb",
+        "bytes": 94968860
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      },
+      {
+        "name": "贴帽校验.json",
+        "bytes": 340
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_规整圆柱底座_v30_20261021",
+    "files": [
+      {
+        "name": "圆柱与嵌件校验.json",
+        "bytes": 839
+      },
+      {
+        "name": "小秦_v6规整圆柱底座.blend",
+        "bytes": 83096097
+      },
+      {
+        "name": "小秦_v6规整圆柱底座.glb",
+        "bytes": 100643096
+      },
+      {
+        "name": "底面二维码保留校验.json",
+        "bytes": 162
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_鞋履收敛_v35_20261025",
+    "files": [
+      {
+        "name": "小秦_v6鞋履收敛.blend",
+        "bytes": 80948720
+      },
+      {
+        "name": "小秦_v6鞋履收敛.glb",
+        "bytes": 98601820
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 207
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_v6基础_鞋履细节精修_v16_20261021",
+    "files": [
+      {
+        "name": "小秦_v6鞋履细节精修.blend",
+        "bytes": 82144760
+      },
+      {
+        "name": "小秦_v6鞋履细节精修.glb",
+        "bytes": 96739540
+      },
+      {
+        "name": "自动导入校验.json",
+        "bytes": 213
+      },
+      {
+        "name": "鞋履校验.json",
+        "bytes": 308
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_保留原衣腿去包_v10",
+    "files": [
+      {
+        "name": "independent-preservation-check.json",
+        "bytes": 210
+      },
+      {
+        "name": "preservation-report.json",
+        "bytes": 356
+      },
+      {
+        "name": "小秦_保留原衣腿_去包.blend",
+        "bytes": 34839137
+      },
+      {
+        "name": "小秦_保留原衣腿_去包.glb",
+        "bytes": 40023444
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_去除斜挎包_v9",
+    "files": [
+      {
+        "name": "removal-report.json",
+        "bytes": 2102
+      },
+      {
+        "name": "小秦_去除斜挎包.blend",
+        "bytes": 33138329
+      },
+      {
+        "name": "小秦_去除斜挎包.glb",
+        "bytes": 14122908
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_参考图生成版",
+    "files": [
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 5097324
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 7886996
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_参考细节修正版_v5",
+    "files": [
+      {
+        "name": "geometry-report.json",
+        "bytes": 1320
+      },
+      {
+        "name": "independent-stl-check.json",
+        "bytes": 382
+      },
+      {
+        "name": "reference-changes.json",
+        "bytes": 640
+      },
+      {
+        "name": "小秦_120mm_打印校验版.stl",
+        "bytes": 143913684
+      },
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 27645688
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 12848180
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_圆柱小熊包_v7",
+    "files": [
+      {
+        "name": "bag-shape-report.json",
+        "bytes": 357
+      },
+      {
+        "name": "geometry-report.json",
+        "bytes": 1001
+      },
+      {
+        "name": "independent-stl-check.json",
+        "bytes": 384
+      },
+      {
+        "name": "小秦_120mm_打印校验版.stl",
+        "bytes": 144618884
+      },
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 34146570
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 14952908
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_圆柱小熊包重新装配_v11",
+    "files": [
+      {
+        "name": "addition-report.json",
+        "bytes": 561
+      },
+      {
+        "name": "原衣腿保留校验.json",
+        "bytes": 210
+      },
+      {
+        "name": "小秦_圆柱小熊斜挎包.blend",
+        "bytes": 37770969
+      },
+      {
+        "name": "小秦_圆柱小熊斜挎包.glb",
+        "bytes": 40241796
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_小熊包图案优化_v6",
+    "files": [
+      {
+        "name": "bag-pattern-changes.json",
+        "bytes": 490
+      },
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 33743320
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 14493572
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_小熊包贴衣调整_v12",
+    "files": [
+      {
+        "name": "character-preservation-check.json",
+        "bytes": 139
+      },
+      {
+        "name": "fit-report.json",
+        "bytes": 843
+      },
+      {
+        "name": "原衣腿保留校验.json",
+        "bytes": 210
+      },
+      {
+        "name": "小秦_贴衣圆柱小熊包.blend",
+        "bytes": 37736689
+      },
+      {
+        "name": "小秦_贴衣圆柱小熊包.glb",
+        "bytes": 40210916
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_局部雕刻版_v4",
+    "files": [
+      {
+        "name": "geometry-report.json",
+        "bytes": 745
+      },
+      {
+        "name": "independent-stl-check.json",
+        "bytes": 382
+      },
+      {
+        "name": "sculpt-changes.json",
+        "bytes": 376
+      },
+      {
+        "name": "小秦_120mm_打印校验版.stl",
+        "bytes": 145146284
+      },
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 27584209
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 12786804
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_精修版_v2",
+    "files": [
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 5120371
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 5096208
+      }
+    ]
+  },
+  {
+    "directory": "3D重建_结构校验版_v3",
+    "files": [
+      {
+        "name": "geometry-report.json",
+        "bytes": 1286
+      },
+      {
+        "name": "independent-stl-check.json",
+        "bytes": 380
+      },
+      {
+        "name": "reinforcement.json",
+        "bytes": 293
+      },
+      {
+        "name": "thickness-screening.json",
+        "bytes": 490
+      },
+      {
+        "name": "小秦_120mm_打印校验版.stl",
+        "bytes": 145694884
+      },
+      {
+        "name": "小秦_重建模型.blend",
+        "bytes": 9623356
+      },
+      {
+        "name": "小秦_重建模型.glb",
+        "bytes": 11202344
+      }
+    ]
+  },
+  {
+    "directory": "全新分层重建_20261019",
+    "files": [
+      {
+        "name": "reference_manifest.json",
+        "bytes": 5823
+      },
+      {
+        "name": "分层重建规划.json",
+        "bytes": 49916
+      },
+      {
+        "name": "规划上下文.json",
+        "bytes": 43686
+      },
+      {
+        "name": "规划页验证.json",
+        "bytes": 243
+      }
+    ]
+  },
+  {
+    "directory": "建模参考_局部细节图集_v1",
+    "files": [
+      {
+        "name": "裁切坐标与建模说明.json",
+        "bytes": 39916
+      }
+    ]
+  },
+  {
+    "directory": "版本存档",
+    "files": []
+  }
+]
