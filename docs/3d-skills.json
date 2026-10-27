@@ -1,0 +1,175 @@
+{
+  "package": "cc-blender-skill",
+  "version": "1.4.0",
+  "commit": "a2634b588e80265e796aa53f8ab178d75105c2af",
+  "source": "https://github.com/RobLe3/cc-blender-skill",
+  "license": "MIT",
+  "evidence": [
+    "scripts/history/build_layered_plan.py",
+    "历史建模聊天 01a14914-7494-7031-a3b6-b8aeeb35d225 的技能读取记录"
+  ],
+  "confirmed_read_or_referenced": [
+    "blender-export",
+    "blender-materials",
+    "blender-modeling",
+    "blender-pro-workflow",
+    "blender-uv-texturing",
+    "quality-refinement-autoloop",
+    "reference-analysis-validator",
+    "reference-to-3d",
+    "source-part-segmentation"
+  ],
+  "catalog_count": 30,
+  "catalog": [
+    {
+      "name": "text-to-blender",
+      "path": "skills/text-to-blender/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "blender-skill-harmonizer",
+      "path": "skills/blender-skill-harmonizer/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "quality-refinement-autoloop",
+      "path": "skills/quality-refinement-autoloop/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "blender-pro-workflow",
+      "path": "skills/blender-pro-workflow/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "blender-modeling",
+      "path": "skills/blender-modeling/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "blender-materials",
+      "path": "skills/blender-materials/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "blender-lighting",
+      "path": "skills/blender-lighting/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "blender-cameras",
+      "path": "skills/blender-cameras/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "blender-rendering",
+      "path": "skills/blender-rendering/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "blender-animation",
+      "path": "skills/blender-animation/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "blender-export",
+      "path": "skills/blender-export/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "wireframe-to-3d",
+      "path": "skills/wireframe-to-3d/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "reference-to-3d",
+      "path": "skills/reference-to-3d/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "blender-uv-texturing",
+      "path": "skills/blender-uv-texturing/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "reference-analysis-validator",
+      "path": "skills/reference-analysis-validator/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "contour-to-mesh",
+      "path": "skills/contour-to-mesh/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "orthographic-registration",
+      "path": "skills/orthographic-registration/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "multiview-constraint-solver",
+      "path": "skills/multiview-constraint-solver/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "atlas-uv-fitting",
+      "path": "skills/atlas-uv-fitting/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "closed-surface-uv-coverage",
+      "path": "skills/closed-surface-uv-coverage/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "mascot-logo-reconstruction",
+      "path": "skills/mascot-logo-reconstruction/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "multiview-fit-loop",
+      "path": "skills/multiview-fit-loop/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "fit-repair-optimizer",
+      "path": "skills/fit-repair-optimizer/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "reference-look-calibration",
+      "path": "skills/reference-look-calibration/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "source-part-segmentation",
+      "path": "skills/source-part-segmentation/SKILL.md",
+      "read_or_referenced": true
+    },
+    {
+      "name": "texture-driven-mesh-fitting",
+      "path": "skills/texture-driven-mesh-fitting/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "landmark-fit-repair",
+      "path": "skills/landmark-fit-repair/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "texture-state-animation",
+      "path": "skills/texture-state-animation/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "orbital-hud-motion",
+      "path": "skills/orbital-hud-motion/SKILL.md",
+      "read_or_referenced": false
+    },
+    {
+      "name": "animation-quality-gate",
+      "path": "skills/animation-quality-gate/SKILL.md",
+      "read_or_referenced": false
+    }
+  ]
+}
