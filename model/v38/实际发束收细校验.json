@@ -1,0 +1,82 @@
+{
+  "source": "v36 hair shape; replaces v37 surface-groove approach",
+  "method": "gradual transverse mesh contraction of existing wave cross sections; original Z coordinates preserved; no added hair grooves",
+  "changed_hair_vertices": 168751,
+  "max_transverse_offset_mm": 0.9290966987609863,
+  "max_depth_offset_mm": 0.7137600183486938,
+  "thin_surface_vertices_skipped": 0,
+  "non_hair_geometry_exactly_preserved": true,
+  "contact_repair_vertices_exactly_preserved": true,
+  "source_boundary_edges_preserved": 308,
+  "source_nonmanifold_edges_preserved": 308,
+  "materials_textures_unchanged": true,
+  "reversed_triangles_diagnostic": 0,
+  "cross_section_measurements": [
+    {
+      "y_mm": 16.0,
+      "z_mm": 36.0,
+      "x_mid_mm": -13.46999779343605,
+      "width_before_mm": 2.8180480003356934,
+      "width_after_mm": 1.8377387896180153,
+      "reduction_percent": 34.786817350197765
+    },
+    {
+      "y_mm": 20.0,
+      "z_mm": 36.0,
+      "x_mid_mm": -9.177298750728369,
+      "width_before_mm": 3.0968012288212776,
+      "width_after_mm": 2.5475826114416122,
+      "reduction_percent": 17.735029690255978
+    },
+    {
+      "y_mm": 20.0,
+      "z_mm": 36.0,
+      "x_mid_mm": -4.549749311991036,
+      "width_before_mm": 3.7440729793161154,
+      "width_after_mm": 3.2864974346011877,
+      "reduction_percent": 12.221330813869645
+    },
+    {
+      "y_mm": 20.0,
+      "z_mm": 36.0,
+      "x_mid_mm": 2.5563413510099053,
+      "width_before_mm": 2.5767984334379435,
+      "width_after_mm": 1.962112495675683,
+      "reduction_percent": 23.85463797966345
+    },
+    {
+      "y_mm": 20.0,
+      "z_mm": 36.0,
+      "x_mid_mm": 8.267069235444069,
+      "width_before_mm": 3.250002861022949,
+      "width_after_mm": 3.009747713804245,
+      "reduction_percent": 7.392459560576603
+    },
+    {
+      "y_mm": 20.0,
+      "z_mm": 50.0,
+      "x_mid_mm": 17.436116933822632,
+      "width_before_mm": 2.7112551033496857,
+      "width_after_mm": 1.9294805824756622,
+      "reduction_percent": 28.834413991813655
+    },
+    {
+      "y_mm": 24.0,
+      "z_mm": 43.0,
+      "x_mid_mm": 8.59797466546297,
+      "width_before_mm": 3.059074282646179,
+      "width_after_mm": 2.4213436990976334,
+      "reduction_percent": 20.84717547286534
+    },
+    {
+      "y_mm": 24.0,
+      "z_mm": 50.0,
+      "x_mid_mm": -4.1047376580536366,
+      "width_before_mm": 9.720600210130215,
+      "width_after_mm": 8.420678786933422,
+      "reduction_percent": 13.37285141962833
+    }
+  ],
+  "inherited_v36_production_acceptance": false,
+  "local_vertices_restored_for_orientation": 39
+}

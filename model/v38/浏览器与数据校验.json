@@ -1,0 +1,18 @@
+{
+  "autoImported": true,
+  "filePickerCount": 0,
+  "decompressedSHA": "6b52891b3f9eaad83fa919f5634d79858da3bb2a2a8f5a8d23b5bd9b0ba1e09d",
+  "glbSHA256": "6b52891b3f9eaad83fa919f5634d79858da3bb2a2a8f5a8d23b5bd9b0ba1e09d",
+  "shaMatches": true,
+  "freshBrowser": true,
+  "pageErrors": [],
+  "consoleErrors": [],
+  "requestFailures": [],
+  "errorCount": 0,
+  "visibleButtons": [
+    "自动旋转",
+    "重置全身"
+  ],
+  "rotateToggleWorks": true,
+  "passed": true
+}
